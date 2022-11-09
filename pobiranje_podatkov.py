@@ -101,8 +101,8 @@ def to_csv(ads, directory, filename):
 
 def main(redownload=True, reparse=True):
     save_page(knj_directory, knj_filename)
-    ads =stran_v_knjige(read_file_to_string(knj_directory, knj_filename))
-    ads_nice = [slovar(ad) for ad in ads]
+    knjige =stran_v_knjige(read_file_to_string(knj_directory, knj_filename))
+    ads_nice = [slovar(knjiga) for knjiga in knjige]
     to_csv(ads_nice, knj_directory, csv_filename)
     
 main()
