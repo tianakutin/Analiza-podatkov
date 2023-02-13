@@ -4,13 +4,11 @@ import os
 import re
 import requests
 
-# definirajte URL glavne strani bolhe za oglase z mačkami
+
 knj_url = 'https://www.goodreads.com/list/show/1.Best_Books_Ever?page='
-# mapa, v katero bomo shranili podatke
+
 knj_directory = 'podatki_knjig'
-# ime datoteke v katero bomo shranili glavno stran
 knj_filename = 'knjige.html'
-# ime CSV datoteke v katero bomo shranili podatke
 csv_filename = 'knjige_csv'
 
 
@@ -59,9 +57,10 @@ def slovar(block):
     patterns = patterns = [
         r'role=\'heading\' aria-level=\'4\'>(?P<naslov>.*?)</span>',
         r'<a class="authorName".*?<span itemprop="name">(?P<avtor>.*?)</span></a>',
-        r'<span class="minirating">.*?</span></span>(?P<ocena>.*?)&mdash;',
-        r'&mdash;(?P<stevilo_ocen>.*?)</span>',
-        r'<a href="#" onclick=.*?return false;">score: (?P<score>.*?)</a>'
+        r'<span class="minirating">.*?</span></span>(?P<ocena>.*?) avg rating &mdash;',
+        r'&mdash;(?P<stevilo_ocen>.*?) ratings</span>',
+        r'<a href="#" onclick=.*?return false;">score: (?P<score>.*?)</a>',
+        r'<a id="loading_link.*?return false;">(?P<stevilo_glasov>.*?) people voted</a>'
     ]
 
     knj_dict = {}

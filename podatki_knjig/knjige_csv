@@ -1,1001 +1,1001 @@
-naslov,avtor,ocena,stevilo_ocen,score
-"The Hunger Games (The Hunger Games, #1)",Suzanne Collins, 4.32 avg rating ," 7,634,646 ratings","3,359,083"
-"Harry Potter and the Order of the Phoenix (Harry Potter, #5)",J.K. Rowling, 4.50 avg rating ," 3,029,885 ratings","2,896,098"
-Pride and Prejudice,Jane Austen, 4.28 avg rating ," 3,759,760 ratings","2,375,584"
-To Kill a Mockingbird,Harper Lee, 4.27 avg rating ," 5,460,113 ratings","2,255,524"
-The Book Thief,Markus Zusak, 4.39 avg rating ," 2,260,770 ratings","1,612,434"
-"Twilight (The Twilight Saga, #1)",Stephenie Meyer, 3.63 avg rating ," 5,932,646 ratings","1,574,140"
-Animal Farm,George Orwell, 3.98 avg rating ," 3,405,965 ratings","1,431,107"
-"The Chronicles of Narnia (Chronicles of Narnia, #1-7)",C.S. Lewis, 4.27 avg rating ," 599,585 ratings","1,347,535"
-J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings,J.R.R. Tolkien, 4.61 avg rating ," 124,890 ratings","1,326,517"
-The Fault in Our Stars,John Green, 4.16 avg rating ," 4,533,987 ratings","1,223,615"
-Gone with the Wind,Margaret Mitchell, 4.30 avg rating ," 1,162,129 ratings","1,128,901"
-The Giving Tree,Shel Silverstein, 4.37 avg rating ," 1,040,126 ratings","1,097,828"
-Wuthering Heights,Emily Brontë, 3.88 avg rating ," 1,616,615 ratings","1,080,965"
-The Picture of Dorian Gray,Oscar Wilde, 4.11 avg rating ," 1,277,850 ratings","1,048,109"
-Jane Eyre,Charlotte Brontë, 4.14 avg rating ," 1,906,383 ratings","949,776"
-"Harry Potter and the Philosopher's Stone (Harry Potter, #1)",J.K. Rowling, 4.47 avg rating ," 8,867,215 ratings","943,957"
-"The Da Vinci Code (Robert Langdon, #2)",Dan Brown, 3.89 avg rating ," 2,192,225 ratings","938,386"
-The Perks of Being a Wallflower,Stephen Chbosky, 4.22 avg rating ," 1,578,598 ratings","933,883"
-Memoirs of a Geisha,Arthur Golden, 4.14 avg rating ," 1,890,465 ratings","905,519"
-Alice's Adventures in Wonderland / Through the Looking-Glass,Lewis Carroll, 4.07 avg rating ," 521,626 ratings","903,331"
-The Great Gatsby,F. Scott Fitzgerald, 3.93 avg rating ," 4,623,828 ratings","894,472"
-"Divergent (Divergent, #1)",Veronica Roth, 4.16 avg rating ," 3,559,690 ratings","874,880"
-Les Misérables,Victor Hugo, 4.19 avg rating ," 751,383 ratings","872,993"
-The Little Prince,Antoine de Saint-Exupéry, 4.32 avg rating ," 1,806,287 ratings","863,052"
-Crime and Punishment,Fyodor Dostoevsky, 4.25 avg rating ," 778,110 ratings","851,454"
-Lord of the Flies,William Golding, 3.69 avg rating ," 2,642,571 ratings","835,658"
-"The Lightning Thief (Percy Jackson and the Olympians, #1)",Rick Riordan, 4.29 avg rating ," 2,560,961 ratings","827,413"
-Romeo and Juliet,William Shakespeare, 3.74 avg rating ," 2,387,714 ratings","824,219"
-"Anne of Green Gables (Anne of Green Gables, #1)",L.M. Montgomery, 4.29 avg rating ," 882,406 ratings","789,811"
-"City of Bones (The Mortal Instruments, #1)",Cassandra Clare, 4.08 avg rating ," 1,865,755 ratings","787,840"
-"The Hitchhiker's Guide to the Galaxy (The Hitchhiker's Guide to the Galaxy, #1)",Douglas Adams, 4.23 avg rating ," 1,684,464 ratings","768,278"
-The Help,Kathryn Stockett, 4.47 avg rating ," 2,513,492 ratings","765,494"
-"Ender's Game (Ender's Saga, #1)",Orson Scott Card, 4.31 avg rating ," 1,276,316 ratings","753,173"
-Charlotte's Web,E.B. White, 4.19 avg rating ," 1,670,235 ratings","734,498"
-Of Mice and Men,John Steinbeck, 3.88 avg rating ," 2,300,390 ratings","720,610"
-Dracula,Bram Stoker, 4.01 avg rating ," 1,125,423 ratings","716,842"
-The Alchemist,Paulo Coelho, 3.90 avg rating ," 2,653,732 ratings","693,999"
-Brave New World,Aldous Huxley, 3.99 avg rating ," 1,682,416 ratings","682,190"
-The Time Traveler's Wife,Audrey Niffenegger, 3.99 avg rating ," 1,706,698 ratings","681,617"
-The Catcher in the Rye,J.D. Salinger, 3.81 avg rating ," 3,203,116 ratings","679,021"
-One Hundred Years of Solitude,Gabriel García Márquez, 4.10 avg rating ," 879,973 ratings","674,135"
-Fahrenheit 451,Ray Bradbury, 3.98 avg rating ," 2,105,416 ratings","664,925"
-A Thousand Splendid Suns,Khaled Hosseini, 4.41 avg rating ," 1,373,799 ratings","653,702"
-The Princess Bride,William Goldman, 4.26 avg rating ," 853,461 ratings","643,503"
-The Secret Garden,Frances Hodgson Burnett, 4.15 avg rating ," 1,058,489 ratings","638,649"
-"A Game of Thrones (A Song of Ice and Fire, #1)",George R.R. Martin, 4.44 avg rating ," 2,287,819 ratings","620,014"
-"A Wrinkle in Time (Time Quintet, #1)",Madeleine L&#39;Engle, 3.99 avg rating ," 1,132,773 ratings","597,824"
-The Outsiders,S.E. Hinton, 4.11 avg rating ," 1,166,409 ratings","593,364"
-The Odyssey,Homer, 3.79 avg rating ," 984,716 ratings","550,490"
-The Adventures of Huckleberry Finn,Mark Twain, 3.83 avg rating ," 1,221,710 ratings","539,054"
-The Lovely Bones,Alice Sebold, 3.84 avg rating ," 2,219,988 ratings","535,503"
-Where the Wild Things Are,Maurice Sendak, 4.23 avg rating ," 937,577 ratings","529,163"
-Green Eggs and Ham,Dr. Seuss, 4.30 avg rating ," 715,253 ratings","524,334"
-Life of Pi,Yann Martel, 3.93 avg rating ," 1,512,367 ratings","518,963"
-The Kite Runner,Khaled Hosseini, 4.33 avg rating ," 2,850,448 ratings","515,197"
-A Tale of Two Cities,Charles Dickens, 3.86 avg rating ," 892,304 ratings","515,011"
-Frankenstein: The 1818 Text,Mary Wollstonecraft Shelley, 3.84 avg rating ," 1,400,446 ratings","507,522"
-Little Women,Louisa May Alcott, 4.13 avg rating ," 2,001,684 ratings","504,938"
-"The Handmaid's Tale (The Handmaid's Tale, #1)",Margaret Atwood, 4.13 avg rating ," 1,808,659 ratings","502,312"
-1984,George Orwell, 4.19 avg rating ," 3,987,173 ratings","497,776"
-"The Giver (The Giver, #1)",Lois Lowry, 4.13 avg rating ," 2,185,480 ratings","497,017"
-Lolita,Vladimir Nabokov, 3.88 avg rating ," 766,767 ratings","496,546"
-Water for Elephants,Sara Gruen, 4.10 avg rating ," 1,523,459 ratings","486,960"
-"Harry Potter and the Deathly Hallows (Harry Potter, #7)",J.K. Rowling, 4.62 avg rating ," 3,344,002 ratings","485,703"
-Slaughterhouse-Five,Kurt Vonnegut Jr., 4.09 avg rating ," 1,266,236 ratings","477,656"
-"Dune (Dune, #1)",Frank Herbert, 4.25 avg rating ," 1,135,557 ratings","467,613"
-The Stand,Stephen King, 4.34 avg rating ," 703,757 ratings","422,843"
-Catch-22,Joseph Heller, 3.99 avg rating ," 789,578 ratings","422,517"
-"The Pillars of the Earth (Kingsbridge, #1)",Ken Follett, 4.33 avg rating ," 716,103 ratings","411,162"
-The Bell Jar,Sylvia Plath, 4.04 avg rating ," 771,989 ratings","407,207"
-Matilda,Roald Dahl, 4.33 avg rating ," 829,724 ratings","405,344"
-"The Adventures of Sherlock Holmes (Sherlock Holmes, #3)",Arthur Conan Doyle, 4.30 avg rating ," 277,246 ratings","404,211"
-"Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",J.K. Rowling, 4.58 avg rating ," 3,614,519 ratings","393,224"
-"Watership Down (Watership Down, #1)",Richard  Adams, 4.07 avg rating ," 461,690 ratings","390,603"
-Great Expectations,Charles Dickens, 3.79 avg rating ," 741,415 ratings","387,368"
-Rebecca,Daphne du Maurier, 4.24 avg rating ," 560,844 ratings","377,623"
-"Outlander (Outlander, #1)",Diana Gabaldon, 4.25 avg rating ," 960,446 ratings","368,990"
-"The Girl with the Dragon Tattoo (Millennium, #1)",Stieg Larsson, 4.16 avg rating ," 2,963,547 ratings","367,950"
-One Flew Over the Cuckoo's Nest,Ken Kesey, 4.20 avg rating ," 691,002 ratings","366,011"
-"The Fellowship of the Ring (The Lord of the Rings, #1)",J.R.R. Tolkien, 4.38 avg rating ," 2,624,242 ratings","359,548"
-The Color Purple,Alice Walker, 4.25 avg rating ," 613,035 ratings","355,805"
-My Sister's Keeper,Jodi Picoult, 4.09 avg rating ," 1,151,691 ratings","355,495"
-Anna Karenina,Leo Tolstoy, 4.08 avg rating ," 773,383 ratings","337,211"
-A Tree Grows in Brooklyn,Betty  Smith, 4.28 avg rating ," 431,970 ratings","325,337"
-The Brothers Karamazov,Fyodor Dostoevsky, 4.35 avg rating ," 288,130 ratings","324,138"
-A Clockwork Orange,Anthony Burgess, 4.00 avg rating ," 665,837 ratings","320,239"
-The Road,Cormac McCarthy, 3.98 avg rating ," 813,551 ratings","315,436"
-"Angela's Ashes (Frank McCourt, #1)",Frank McCourt, 4.13 avg rating ," 596,675 ratings","298,861"
-"Vampire Academy (Vampire Academy, #1)",Richelle Mead, 4.11 avg rating ," 615,452 ratings","294,353"
-Siddhartha,Hermann Hesse, 4.05 avg rating ," 693,581 ratings","293,001"
-"The Golden Compass (His Dark Materials, #1)",Philip Pullman, 4.01 avg rating ," 1,433,005 ratings","288,643"
-The Poisonwood Bible,Barbara Kingsolver, 4.08 avg rating ," 705,216 ratings","280,937"
-Don Quixote,Miguel de Cervantes Saavedra, 3.89 avg rating ," 244,941 ratings","274,223"
-It,Stephen King, 4.25 avg rating ," 981,672 ratings","269,792"
-"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice, 4.01 avg rating ," 541,903 ratings","269,311"
-To Kill a Mockingbird,Harper Lee, 4.27 avg rating ," 5,460,113 ratings","267,848"
-The Shining,Stephen King, 4.26 avg rating ," 1,334,544 ratings","267,610"
-The Complete Stories and Poems,Edgar Allan Poe, 4.38 avg rating ," 239,912 ratings","267,431"
-And Then There Were None,Agatha Christie, 4.28 avg rating ," 1,133,620 ratings","267,386"
-The Old Man and the Sea,Ernest Hemingway, 3.79 avg rating ," 1,013,633 ratings","263,009"
-Atlas Shrugged,Ayn Rand, 3.69 avg rating ," 375,626 ratings","256,996"
-"The Notebook (The Notebook, #1)",Nicholas Sparks, 4.13 avg rating ," 1,544,344 ratings","246,401"
-"Winnie-the-Pooh (Winnie-the-Pooh, #1)",A.A. Milne, 4.35 avg rating ," 306,284 ratings","245,461"
-Fahrenheit 451,Ray Bradbury, 3.98 avg rating ," 2,105,416 ratings","236,675"
-"Harry Potter and the Goblet of Fire (Harry Potter, #4)",J.K. Rowling, 4.57 avg rating ," 3,188,543 ratings","236,505"
-A Prayer for Owen Meany,John Irving, 4.24 avg rating ," 306,254 ratings","214,279"
-"Moby-Dick or, the Whale",Herman Melville, 3.53 avg rating ," 523,490 ratings","209,470"
-"Harry Potter and the Half-Blood Prince (Harry Potter, #6)",J.K. Rowling, 4.58 avg rating ," 2,933,670 ratings","205,459"
-"Clockwork Angel (The Infernal Devices, #1)",Cassandra Clare, 4.32 avg rating ," 776,836 ratings","188,713"
-The Red Tent,Anita Diamant, 4.19 avg rating ," 566,850 ratings","184,458"
-The Secret Life of Bees,Sue Monk Kidd, 4.08 avg rating ," 1,223,557 ratings","184,389"
-The Stranger,Albert Camus, 4.01 avg rating ," 897,768 ratings","174,108"
-"The Name of the Wind (The Kingkiller Chronicle, #1)",Patrick Rothfuss, 4.52 avg rating ," 857,302 ratings","166,978"
-The Master and Margarita,Mikhail Bulgakov, 4.30 avg rating ," 301,844 ratings","164,975"
-"Harry Potter and the Chamber of Secrets (Harry Potter, #2)",J.K. Rowling, 4.43 avg rating ," 3,426,550 ratings","161,352"
-Middlesex,Jeffrey Eugenides, 4.02 avg rating ," 617,427 ratings","159,612"
-Flowers for Algernon,Daniel Keyes, 4.18 avg rating ," 585,798 ratings","158,326"
-The Metamorphosis,Franz Kafka, 3.84 avg rating ," 850,158 ratings","155,792"
-"Eragon (The Inheritance Cycle, #1)",Christopher Paolini, 3.93 avg rating ," 1,630,078 ratings","154,106"
-The Adventures of Tom Sawyer,Mark Twain, 3.92 avg rating ," 866,365 ratings","153,328"
-The Alchemist,Paulo Coelho, 3.90 avg rating ," 2,653,732 ratings","152,307"
-"Charlie and the Chocolate Factory (Charlie Bucket, #1)",Roald Dahl, 4.15 avg rating ," 780,615 ratings","151,393"
-Looking for Alaska,John Green, 3.98 avg rating ," 1,417,232 ratings","150,813"
-The Curious Incident of the Dog in the Night-Time,Mark Haddon, 3.89 avg rating ," 1,373,082 ratings","147,976"
-The Very Hungry Caterpillar,Eric Carle, 4.31 avg rating ," 465,307 ratings","147,274"
-"The Shadow of the Wind (The Cemetery of Forgotten Books, #1)",Carlos Ruiz Zafón, 4.29 avg rating ," 566,254 ratings","145,810"
-On the Road,Jack Kerouac, 3.62 avg rating ," 382,842 ratings","143,656"
-Tuesdays with Morrie,Mitch Albom, 4.15 avg rating ," 915,955 ratings","143,351"
-The Hobbit,J.R.R. Tolkien, 4.28 avg rating ," 3,499,314 ratings","141,660"
-The Unbearable Lightness of Being,Milan Kundera, 4.11 avg rating ," 409,976 ratings","141,559"
-The Name of the Rose,Umberto Eco, 4.13 avg rating ," 339,183 ratings","140,595"
-"The Last Olympian (Percy Jackson and the Olympians, #5)",Rick Riordan, 4.53 avg rating ," 852,359 ratings","139,635"
-The Count of Monte Cristo,Alexandre Dumas, 4.28 avg rating ," 844,372 ratings","138,189"
-"The Lion, the Witch and the Wardrobe (Chronicles of Narnia, #1)",C.S. Lewis, 4.23 avg rating ," 2,526,823 ratings","137,148"
-Where the Red Fern Grows,Wilson Rawls, 4.10 avg rating ," 379,707 ratings","137,102"
-"The Godfather (The Godfather, #1)",Mario Puzo, 4.38 avg rating ," 385,286 ratings","136,004"
-In Cold Blood,Truman Capote, 4.08 avg rating ," 604,092 ratings","134,461"
-The Scarlet Letter,Nathaniel Hawthorne, 3.43 avg rating ," 801,858 ratings","133,286"
-"Holes (Holes, #1)",Louis Sachar, 3.99 avg rating ," 1,108,944 ratings","130,683"
-Fight Club,Chuck Palahniuk, 4.19 avg rating ," 547,825 ratings","130,163"
-The Five People You Meet in Heaven,Mitch Albom, 3.97 avg rating ," 658,813 ratings","129,488"
-Perfume: The Story of a Murderer,Patrick Süskind, 4.03 avg rating ," 405,063 ratings","128,620"
-"Hush, Hush (Hush, Hush, #1)",Becca Fitzpatrick, 3.94 avg rating ," 661,497 ratings","126,002"
-"American Gods (American Gods, #1)",Neil Gaiman, 4.11 avg rating ," 858,862 ratings","125,979"
-"The Cat in the Hat (The Cat in the Hat, #1)",Dr. Seuss, 4.18 avg rating ," 501,111 ratings","125,954"
-Watchmen,Alan Moore, 4.37 avg rating ," 529,011 ratings","123,175"
-The Divine Comedy,Dante Alighieri, 4.07 avg rating ," 137,784 ratings","123,064"
-"Lonesome Dove (Lonesome Dove, #1)",Larry McMurtry, 4.51 avg rating ," 170,928 ratings","122,697"
-"The Little House Collection (Little House, #1-9)",Laura Ingalls Wilder, 4.35 avg rating ," 149,042 ratings","121,009"
-All Quiet on the Western Front,Erich Maria Remarque, 4.03 avg rating ," 403,610 ratings","119,617"
-Peter Pan,J.M. Barrie, 4.04 avg rating ," 320,963 ratings","119,226"
-The Addiction Manifesto,Jerry Weaver, 4.89 avg rating ," 1,038 ratings","114,894"
-"Insurgent (Divergent, #2)",Veronica Roth, 3.99 avg rating ," 1,372,636 ratings","110,280"
-Love in the Time of Cholera,Gabriel García Márquez, 3.93 avg rating ," 467,776 ratings","110,230"
-"Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",Terry Pratchett, 4.25 avg rating ," 654,082 ratings","109,430"
-A Walk to Remember,Nicholas Sparks, 4.19 avg rating ," 765,573 ratings","109,333"
-The Compleat Works of Wllm Shkspr,Adam Long, 4.47 avg rating ," 8,624 ratings","108,333"
-The Thorn Birds,Colleen McCullough, 4.24 avg rating ," 336,501 ratings","108,311"
-"Shadow Kiss (Vampire Academy, #3)",Richelle Mead, 4.34 avg rating ," 350,339 ratings","106,835"
-How the Grinch Stole Christmas!,Dr. Seuss, 4.37 avg rating ," 381,854 ratings","103,277"
-"The Ultimate Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1-5)",Douglas Adams, 4.38 avg rating ," 308,792 ratings","102,984"
-Their Eyes Were Watching God,Zora Neale Hurston, 3.97 avg rating ," 310,945 ratings","102,247"
-The Importance of Being Earnest,Oscar Wilde, 4.18 avg rating ," 341,288 ratings","102,177"
-"The Battle of the Labyrinth (Percy Jackson and the Olympians, #4)",Rick Riordan, 4.41 avg rating ," 929,078 ratings","101,942"
-"Eat, Pray, Love",Elizabeth Gilbert, 3.60 avg rating ," 1,641,431 ratings","101,615"
-"The Wonderful Wizard of Oz (Oz, #1)",L. Frank Baum, 3.99 avg rating ," 421,156 ratings","100,793"
-"Clockwork Princess (The Infernal Devices, #3)",Cassandra Clare, 4.56 avg rating ," 409,438 ratings","100,789"
-Atonement,Ian McEwan, 3.93 avg rating ," 487,204 ratings","100,653"
-"The Titan's Curse (Percy Jackson and the Olympians, #3)",Rick Riordan, 4.36 avg rating ," 886,959 ratings","100,124"
-"The Three Musketeers (The D'Artagnan Romances, #1)",Alexandre Dumas, 4.09 avg rating ," 304,061 ratings","99,959"
-Goodnight Moon,Margaret Wise Brown, 4.30 avg rating ," 350,257 ratings","97,874"
-The Lorax,Dr. Seuss, 4.34 avg rating ," 322,415 ratings","97,484"
-"The Sea of Monsters (Percy Jackson and the Olympians, #2)",Rick Riordan, 4.24 avg rating ," 977,626 ratings","96,602"
-"Frostbite (Vampire Academy, #2)",Richelle Mead, 4.26 avg rating ," 337,851 ratings","96,191"
-A Midsummer Night's Dream,William Shakespeare, 3.95 avg rating ," 500,930 ratings","94,388"
-Tess of the D’Urbervilles,Thomas Hardy, 3.82 avg rating ," 265,502 ratings","92,819"
-"The Maze Runner (The Maze Runner, #1)",James Dashner, 4.04 avg rating ," 1,333,739 ratings","91,375"
-"Blood Promise (Vampire Academy, #4)",Richelle Mead, 4.31 avg rating ," 299,233 ratings","91,200"
-Heart of Darkness,Joseph Conrad, 3.43 avg rating ," 472,166 ratings","91,071"
-The Prophet,Kahlil Gibran, 4.23 avg rating ," 273,587 ratings","89,783"
-"The Good Earth (House of Earth, #1)",Pearl S. Buck, 4.00 avg rating ," 239,002 ratings","89,640"
-"The Hunger Games Trilogy Boxset (The Hunger Games, #1-3)",Suzanne Collins, 4.49 avg rating ," 207,727 ratings","89,424"
-Bridge to Terabithia,Katherine Paterson, 4.03 avg rating ," 507,681 ratings","88,506"
-The Call of the Wild,Jack London, 3.89 avg rating ," 392,611 ratings","87,162"
-The Joy Luck Club,Amy Tan, 3.95 avg rating ," 644,139 ratings","86,365"
-Alice in Wonderland,Jane Carruth, 4.03 avg rating ," 384,373 ratings","85,977"
-"The Mists of Avalon (Avalon, #1)",Marion Zimmer Bradley, 4.12 avg rating ," 200,534 ratings","85,761"
-The Phantom Tollbooth,Norton Juster, 4.19 avg rating ," 270,279 ratings","85,052"
-Madame Bovary,Gustave Flaubert, 3.69 avg rating ," 300,779 ratings","84,781"
-"Oh, the Places You'll Go!",Dr. Seuss, 4.35 avg rating ," 377,778 ratings","83,750"
-Jonathan Livingston Seagull,Richard Bach, 3.85 avg rating ," 233,501 ratings","83,679"
-Oliver Twist,Charles Dickens, 3.88 avg rating ," 360,548 ratings","83,491"
-Treasure Island,Robert Louis Stevenson, 3.84 avg rating ," 453,367 ratings","82,501"
-"The Girl Who Played with Fire (Millennium, #2)",Stieg Larsson, 4.25 avg rating ," 877,295 ratings","82,311"
-The Neverending Story,Michael Ende, 4.18 avg rating ," 186,363 ratings","82,025"
-"Catching Fire (The Hunger Games, #2)",Suzanne Collins, 4.30 avg rating ," 3,082,438 ratings","81,975"
-"Throne of Glass (Throne of Glass, #1)",Sarah J. Maas, 4.19 avg rating ," 908,131 ratings","81,749"
-"Murder on the Orient Express (Hercule Poirot, #9)",Agatha Christie, 4.20 avg rating ," 520,836 ratings","81,673"
-Ulysses,James Joyce, 3.75 avg rating ," 120,010 ratings","80,786"
-"Fifty Shades of Grey (Fifty Shades, #1)",E.L. James, 3.66 avg rating ," 2,338,804 ratings","79,781"
-"Six of Crows (Six of Crows, #1)",Leigh Bardugo, 4.49 avg rating ," 717,026 ratings","78,618"
-"A Storm of Swords (A Song of Ice and Fire, #3)",George R.R. Martin, 4.54 avg rating ," 726,430 ratings","78,564"
-"The Selection (The Selection, #1)",Kiera Cass, 4.10 avg rating ," 1,316,099 ratings","78,117"
-The Clan of the Cave Bear (Earth's Children #1),Jean M. Auel, 4.08 avg rating ," 252,709 ratings","78,009"
-The Night Circus,Erin Morgenstern, 4.03 avg rating ," 853,681 ratings","77,993"
-The Canterbury Tales,Geoffrey Chaucer, 3.52 avg rating ," 209,232 ratings","76,257"
-A Farewell to Arms,Ernest Hemingway, 3.81 avg rating ," 295,687 ratings","76,124"
-The World According to Garp,John Irving, 4.10 avg rating ," 218,901 ratings","75,850"
-The Boy in the Striped Pajamas,John Boyne, 4.16 avg rating ," 697,258 ratings","75,827"
-David Copperfield,Charles Dickens, 4.02 avg rating ," 219,843 ratings","74,918"
-"Jurassic Park (Jurassic Park, #1)",Michael Crichton, 4.07 avg rating ," 892,173 ratings","74,636"
-Thirteen Reasons Why,Jay Asher, 3.87 avg rating ," 901,491 ratings","73,168"
-A Little Princess,Frances Hodgson Burnett, 4.21 avg rating ," 292,236 ratings","72,770"
-"Wicked: The Life and Times of the Wicked Witch of the West (The Wicked Years, #1)",Gregory Maguire, 3.54 avg rating ," 585,893 ratings","72,116"
-His Dark Materials (His Dark Materials #1-3),Philip Pullman, 4.28 avg rating ," 154,860 ratings","71,742"
-Beloved,Toni Morrison, 3.92 avg rating ," 388,535 ratings","71,651"
-"The Lost Hero (The Heroes of Olympus, #1)",Rick Riordan, 4.32 avg rating ," 750,746 ratings","71,089"
-Shōgun,James Clavell, 4.40 avg rating ," 164,592 ratings","70,657"
-Schindler's List,Thomas Keneally, 4.34 avg rating ," 155,328 ratings","70,425"
-"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris, 4.23 avg rating ," 517,976 ratings","70,144"
-The Secret History,Donna Tartt, 4.16 avg rating ," 492,381 ratings","70,000"
-Extremely Loud &amp; Incredibly Close,Jonathan Safran Foer, 3.97 avg rating ," 406,016 ratings","69,735"
-The Haunting of Hill House,Shirley Jackson, 3.83 avg rating ," 239,779 ratings","69,683"
-The Diary of a Young Girl,Anne Frank, 4.18 avg rating ," 3,354,310 ratings","68,879"
-Misery,Stephen King, 4.20 avg rating ," 607,861 ratings","68,691"
-The Silmarillion,J.R.R. Tolkien, 3.98 avg rating ," 255,918 ratings","68,090"
-"The Other Boleyn Girl (The Plantagenet and Tudor Novels, #9)",Philippa Gregory, 4.07 avg rating ," 482,456 ratings","67,992"
-The Velveteen Rabbit,Margery Williams Bianco, 4.29 avg rating ," 246,679 ratings","67,403"
-"Last Sacrifice (Vampire Academy, #6)",Richelle Mead, 4.38 avg rating ," 275,485 ratings","66,707"
-"Clockwork Prince (The Infernal Devices, #2)",Cassandra Clare, 4.43 avg rating ," 515,692 ratings","66,673"
-The Trial,Franz Kafka, 3.96 avg rating ," 279,140 ratings","66,615"
-"Fallen (Fallen, #1)",Lauren Kate, 3.72 avg rating ," 553,802 ratings","66,485"
-The Green Mile,Stephen King, 4.46 avg rating ," 287,624 ratings","66,298"
-The Secret Magdalene,Ki Longfellow, 4.16 avg rating ," 4,380 ratings","65,375"
-The Iliad / The Odyssey,Homer, 4.06 avg rating ," 70,756 ratings","65,333"
-"The Chain Between Worlds (The Lost Artefacts, #1)",Johnathon Nicolaou, 4.74 avg rating , 788 ratings,"65,293"
-A Confederacy of Dunces,John Kennedy Toole, 3.88 avg rating ," 257,793 ratings","65,021"
-"A Court of Mist and Fury (A Court of Thorns and Roses, #2)",Sarah J. Maas, 4.62 avg rating ," 841,705 ratings","64,633"
-The Sun Also Rises,Ernest Hemingway, 3.81 avg rating ," 407,617 ratings","64,394"
-"Cinder (The Lunar Chronicles, #1)",Marissa Meyer, 4.13 avg rating ," 834,315 ratings","64,108"
-The Crucible,Arthur  Miller, 3.60 avg rating ," 373,617 ratings","63,171"
-Man's Search for Meaning,Viktor E. Frankl, 4.37 avg rating ," 579,226 ratings","62,166"
-"Spirit Bound (Vampire Academy, #5)",Richelle Mead, 4.33 avg rating ," 281,966 ratings","61,909"
-The Screwtape Letters,C.S. Lewis, 4.25 avg rating ," 394,798 ratings","61,654"
-The God of Small Things,Arundhati Roy, 3.95 avg rating ," 275,755 ratings","61,426"
-Cat's Cradle,Kurt Vonnegut Jr., 4.16 avg rating ," 374,410 ratings","61,422"
-"City of Fallen Angels (The Mortal Instruments, #4)",Cassandra Clare, 4.09 avg rating ," 559,664 ratings","61,185"
-The Wind in the Willows,Kenneth Grahame, 4.00 avg rating ," 200,652 ratings","60,640"
-A Light in the Attic,Shel Silverstein, 4.35 avg rating ," 418,774 ratings","60,309"
-The Hiding Place: The Triumphant True Story of Corrie Ten Boom,Corrie ten Boom, 4.44 avg rating ," 296,340 ratings","60,126"
-Girl with a Pearl Earring,Tracy Chevalier, 3.91 avg rating ," 697,630 ratings","59,382"
-"Uglies (Uglies, #1)",Scott Westerfeld, 3.85 avg rating ," 623,413 ratings","58,196"
-The Phantom of the Opera,Gaston Leroux, 3.96 avg rating ," 221,533 ratings","58,157"
-Blindness,José Saramago, 4.16 avg rating ," 252,757 ratings","58,094"
-"Ella Enchanted (Ella Enchanted, #1)",Gail Carson Levine, 4.00 avg rating ," 402,672 ratings","57,790"
-The Song of Achilles,Madeline Miller, 4.38 avg rating ," 976,152 ratings","57,420"
-She's Come Undone,Wally Lamb, 3.90 avg rating ," 334,185 ratings","56,944"
-Gone Girl,Gillian Flynn, 4.11 avg rating ," 2,758,692 ratings","56,881"
-"Howl’s Moving Castle (Howl’s Moving Castle, #1)",Diana Wynne Jones, 4.29 avg rating ," 285,116 ratings","56,747"
-The Wind-Up Bird Chronicle,Haruki Murakami, 4.16 avg rating ," 255,474 ratings","56,735"
-"A Clash of Kings  (A Song of Ice and Fire, #2)",George R.R. Martin, 4.41 avg rating ," 867,106 ratings","56,627"
-Marley and Me: Life and Love With the World's Worst Dog,John Grogan, 4.14 avg rating ," 461,241 ratings","56,582"
-"Shiver (The Wolves of Mercy Falls, #1)",Maggie Stiefvater, 3.76 avg rating ," 464,627 ratings","56,445"
-The House of the Spirits,Isabel Allende, 4.26 avg rating ," 232,931 ratings","54,810"
-The Guernsey Literary and Potato Peel Pie Society,Mary Ann Shaffer, 4.18 avg rating ," 699,932 ratings","54,657"
-The Sound and the Fury,William Faulkner, 3.86 avg rating ," 171,696 ratings","54,423"
-The Shack,William Paul Young, 3.80 avg rating ," 603,472 ratings","54,235"
-Fear and Loathing in Las Vegas,Hunter S. Thompson, 4.07 avg rating ," 327,418 ratings","53,895"
-For Whom the Bell Tolls,Ernest Hemingway, 3.98 avg rating ," 274,422 ratings","53,740"
-"Marked (House of Night, #1)",P.C. Cast, 3.80 avg rating ," 468,909 ratings","53,337"
-The Complete Calvin and Hobbes,Bill Watterson, 4.80 avg rating ," 38,478 ratings","53,076"
-Stranger in a Strange Land,Robert A. Heinlein, 3.92 avg rating ," 298,241 ratings","52,168"
-Roots: The Saga of an American Family,Alex Haley, 4.44 avg rating ," 155,621 ratings","52,132"
-Island of the Blue Dolphins,Scott O&#39;Dell, 3.86 avg rating ," 317,188 ratings","51,847"
-Speak,Laurie Halse Anderson, 4.04 avg rating ," 548,941 ratings","51,548"
-Norwegian Wood,Haruki Murakami, 4.03 avg rating ," 495,536 ratings","51,448"
-Paper Towns,John Green, 3.74 avg rating ," 1,200,125 ratings","51,343"
-"The Girl Who Kicked the Hornet's Nest (Millennium, #3)",Stieg Larsson, 4.23 avg rating ," 699,642 ratings","51,005"
-Blood River: A Journey to Africa's Broken Heart,Tim Butcher, 3.96 avg rating ," 11,040 ratings","50,785"
-Othello,William Shakespeare, 3.90 avg rating ," 358,201 ratings","50,754"
-"Beautiful Disaster (Beautiful, #1)",Jamie McGuire, 4.04 avg rating ," 630,722 ratings","49,981"
-King Lear,William Shakespeare, 3.91 avg rating ," 202,617 ratings","49,874"
-"Delirium (Delirium, #1)",Lauren Oliver, 3.96 avg rating ," 451,283 ratings","49,839"
-"Inkheart (Inkworld, #1)",Cornelia Funke, 3.91 avg rating ," 403,222 ratings","49,751"
-The Idiot,Fyodor Dostoevsky, 4.20 avg rating ," 159,329 ratings","49,619"
-Into the Wild,Jon Krakauer, 4.00 avg rating ," 1,008,528 ratings","49,530"
-Kafka on the Shore,Haruki Murakami, 4.14 avg rating ," 401,042 ratings","49,345"
-White Oleander,Janet Fitch, 3.98 avg rating ," 340,949 ratings","49,210"
-Midnight Sun [2008 Draft],Stephenie Meyer, 4.01 avg rating ," 148,697 ratings","48,918"
-"The Vampire Lestat (The Vampire Chronicles, #2)",Anne Rice, 4.08 avg rating ," 189,128 ratings","48,720"
-"Neverwhere (London Below, #1)",Neil Gaiman, 4.17 avg rating ," 487,033 ratings","48,607"
-The Complete Sherlock Holmes,Arthur Conan Doyle, 4.50 avg rating ," 190,653 ratings","48,262"
-Flow Down Like Silver: Hypatia of Alexandria,Ki Longfellow, 3.97 avg rating ," 4,650 ratings","47,789"
-The Once and Future King,T.H. White, 4.06 avg rating ," 104,648 ratings","47,712"
-I Know This Much Is True,Wally Lamb, 4.20 avg rating ," 303,152 ratings","47,670"
-Uncle Tom's Cabin,Harriet Beecher Stowe, 3.90 avg rating ," 215,036 ratings","47,297"
-"Mockingjay (The Hunger Games, #3)",Suzanne Collins, 4.06 avg rating ," 2,819,037 ratings","46,952"
-Invisible Man,Ralph Ellison, 3.90 avg rating ," 175,201 ratings","46,524"
-The Historian,Elizabeth Kostova, 3.79 avg rating ," 256,209 ratings","46,498"
-"Lamb: The Gospel According to Biff, Christ's Childhood Pal",Christopher Moore, 4.22 avg rating ," 166,347 ratings","46,311"
-The Things They Carried,Tim O&#39;Brien, 4.14 avg rating ," 286,038 ratings","46,288"
-Paradise Lost,John Milton, 3.83 avg rating ," 153,087 ratings","46,283"
-Candide,Voltaire, 3.77 avg rating ," 255,063 ratings","46,168"
-"All Creatures Great and Small (All Creatures Great and Small, #1-2)",James Herriot, 4.33 avg rating ," 136,364 ratings","46,074"
-"Foundation (Foundation, #1)",Isaac Asimov, 4.17 avg rating ," 489,166 ratings","46,042"
-The Lord of the Rings,J.R.R. Tolkien, 4.52 avg rating ," 629,167 ratings","45,946"
-Different Seasons,Stephen King, 4.35 avg rating ," 192,574 ratings","45,905"
-The Complete Works,William Shakespeare, 4.47 avg rating ," 54,736 ratings","45,641"
-James and the Giant Peach,Roald Dahl, 4.02 avg rating ," 438,369 ratings","45,510"
-The Thirteenth Tale,Diane Setterfield, 3.97 avg rating ," 299,838 ratings","45,053"
-Leaves of Grass,Walt Whitman, 4.11 avg rating ," 95,829 ratings","44,629"
-Never Let Me Go,Kazuo Ishiguro, 3.84 avg rating ," 594,639 ratings","44,623"
-Heidi,Johanna Spyri, 4.01 avg rating ," 188,736 ratings","44,601"
-The Time Machine,H.G. Wells, 3.90 avg rating ," 476,383 ratings","44,584"
-"Graceling (Graceling Realm, #1)",Kristin Cashore, 4.07 avg rating ," 433,148 ratings","43,970"
-The Cider House Rules,John Irving, 4.15 avg rating ," 175,190 ratings","43,670"
-"City of Lost Souls (The Mortal Instruments, #5)",Cassandra Clare, 4.23 avg rating ," 493,645 ratings","43,492"
-A Story of Yesterday,Sergio Cobo, 4.58 avg rating ," 8,918 ratings","43,100"
-"The Wise Man's Fear (The Kingkiller Chronicle, #2)",Patrick Rothfuss, 4.55 avg rating ," 501,158 ratings","43,051"
-"The Way of Kings (The Stormlight Archive, #1)",Brandon Sanderson, 4.65 avg rating ," 398,883 ratings","42,867"
-"The Son of Neptune (The Heroes of Olympus, #2)",Rick Riordan, 4.42 avg rating ," 512,258 ratings","42,837"
-"Are You There God? It's Me, Margaret",Judy Blume, 3.91 avg rating ," 201,762 ratings","42,382"
-"Ready Player One (Ready Player One, #1)",Ernest Cline, 4.24 avg rating ," 1,047,322 ratings","42,161"
-Walden,Henry David Thoreau, 3.78 avg rating ," 176,918 ratings","41,896"
-Sophie's World,Jostein Gaarder, 3.95 avg rating ," 238,265 ratings","41,847"
-Fangirl,Rainbow Rowell, 3.98 avg rating ," 697,616 ratings","41,615"
-"The Mark of Athena (The Heroes of Olympus, #3)",Rick Riordan, 4.46 avg rating ," 530,344 ratings","41,106"
-"Wonder (Wonder, #1)",R.J. Palacio, 4.39 avg rating ," 971,679 ratings","40,773"
-The Awakening,Kate Chopin, 3.67 avg rating ," 191,074 ratings","40,307"
-"Me Before You (Me Before You, #1)",Jojo Moyes, 4.26 avg rating ," 1,444,409 ratings","40,256"
-Mrs. Dalloway,Virginia Woolf, 3.79 avg rating ," 267,422 ratings","39,860"
-Fried Green Tomatoes at the Whistle Stop Cafe,Fannie Flagg, 4.28 avg rating ," 290,483 ratings","39,785"
-Sophie's Choice,William Styron, 4.18 avg rating ," 87,462 ratings","39,609"
-"Legend (Legend, #1)",Marie Lu, 4.16 avg rating ," 488,492 ratings","39,129"
-"The Final Empire (Mistborn, #1)",Brandon Sanderson, 4.47 avg rating ," 540,074 ratings","39,018"
-The Prince of Tides,Pat Conroy, 4.25 avg rating ," 202,657 ratings","38,946"
-"Fifty Shades Darker (Fifty Shades, #2)",E.L. James, 3.83 avg rating ," 839,540 ratings","38,454"
-"Dead Until Dark (Sookie Stackhouse, #1)",Charlaine Harris, 3.96 avg rating ," 522,110 ratings","38,306"
-Middlemarch,George Eliot, 4.00 avg rating ," 150,931 ratings","38,234"
-'Salem's Lot,Stephen King, 4.05 avg rating ," 400,093 ratings","37,801"
-Do Androids Dream of Electric Sheep?,Philip K. Dick, 4.09 avg rating ," 405,181 ratings","37,675"
-"Things Fall Apart (The African Trilogy, #1)",Chinua Achebe, 3.72 avg rating ," 336,070 ratings","37,630"
-Stardust,Neil Gaiman, 4.10 avg rating ," 412,728 ratings","37,495"
-The Monster at the End of this Book,Jon Stone, 4.45 avg rating ," 123,141 ratings","37,480"
-"The Hound of the Baskervilles (Sherlock Holmes, #5)",Arthur Conan Doyle, 4.13 avg rating ," 311,013 ratings","37,276"
-Eleanor &amp; Park,Rainbow Rowell, 3.97 avg rating ," 1,070,881 ratings","37,228"
-"Bridget Jones's Diary (Bridget Jones, #1)",Helen Fielding, 3.79 avg rating ," 937,277 ratings","37,199"
-"A Time to Kill (Jake Brigance, #1)",John Grisham, 4.10 avg rating ," 771,512 ratings","37,100"
-East of Eden,John Steinbeck, 4.39 avg rating ," 487,968 ratings","36,878"
-"The Magician's Nephew (Chronicles of Narnia, #6)",C.S. Lewis, 4.05 avg rating ," 487,640 ratings","36,855"
-Franny and Zooey,J.D. Salinger, 3.97 avg rating ," 206,026 ratings","36,381"
-"Crooked Kingdom (Six of Crows, #2)",Leigh Bardugo, 4.61 avg rating ," 483,478 ratings","36,333"
-Black Beauty,Anna Sewell, 3.98 avg rating ," 262,538 ratings","36,307"
-"The Power of One (The Power of One, #1)",Bryce Courtenay, 4.34 avg rating ," 84,754 ratings","35,922"
-The Martian,Andy Weir, 4.41 avg rating ," 993,908 ratings","35,826"
-Number the Stars,Lois Lowry, 4.17 avg rating ," 520,041 ratings","35,821"
-Hamlet,William Shakespeare, 4.03 avg rating ," 857,596 ratings","35,804"
-A Short History of Nearly Everything,Bill Bryson, 4.21 avg rating ," 355,259 ratings","35,754"
-V for Vendetta,Alan Moore, 4.26 avg rating ," 294,856 ratings","35,668"
-The Art of Racing in the Rain,Garth Stein, 4.22 avg rating ," 490,355 ratings","35,660"
-"The Gunslinger (The Dark Tower, #1)",Stephen King, 3.94 avg rating ," 566,201 ratings","35,582"
-The Graveyard Book,Neil Gaiman, 4.15 avg rating ," 498,170 ratings","35,561"
-"If I Stay (If I Stay, #1)",Gayle Forman, 3.93 avg rating ," 828,646 ratings","35,509"
-The Witches,Roald Dahl, 4.17 avg rating ," 367,875 ratings","35,455"
-The Complete Maus,Art Spiegelman, 4.56 avg rating ," 187,179 ratings","35,337"
-"Allegiant (Divergent, #3)",Veronica Roth, 3.61 avg rating ," 964,494 ratings","35,268"
-The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid, 4.47 avg rating ," 1,602,302 ratings","35,159"
-Love You Forever,Robert Munsch, 4.36 avg rating ," 225,452 ratings","35,145"
-White Fang,Jack London, 4.01 avg rating ," 175,137 ratings","35,142"
-Gulliver's Travels: Travels into Several Remote Nations of the World.,Jonathan Swift, 3.58 avg rating ," 257,924 ratings","35,012"
-The Complete Novels,Jane Austen, 4.57 avg rating ," 31,883 ratings","34,729"
-"Shatter Me (Shatter Me, #1)",Tahereh Mafi, 3.90 avg rating ," 532,232 ratings","34,701"
-A Portrait of the Artist as a Young Man,James Joyce, 3.63 avg rating ," 141,576 ratings","34,322"
-Bel Canto,Ann Patchett, 3.93 avg rating ," 264,846 ratings","34,142"
-American Psycho,Bret Easton Ellis, 3.82 avg rating ," 274,962 ratings","34,103"
-Beowulf,Unknown, 3.47 avg rating ," 278,895 ratings","34,074"
-القرآن الكريم,Anonymous, 4.38 avg rating ," 64,062 ratings","33,937"
-"Fifty Shades Freed (Fifty Shades, #3)",E.L. James, 3.84 avg rating ," 797,230 ratings","33,906"
-Tuck Everlasting,Natalie Babbitt, 3.89 avg rating ," 256,951 ratings","33,523"
-"A Court of Thorns and Roses (A Court of Thorns and Roses, #1)",Sarah J. Maas, 4.20 avg rating ," 1,174,513 ratings","33,092"
-Cold Mountain,Charles Frazier, 3.88 avg rating ," 234,905 ratings","32,830"
-"The Eye of the World (The Wheel of Time, #1)",Robert Jordan, 4.19 avg rating ," 482,261 ratings","32,666"
-Go Ask Alice,Beatrice Sparks, 3.75 avg rating ," 259,355 ratings","32,654"
-The Tell-Tale Heart and Other Writings,Edgar Allan Poe, 4.19 avg rating ," 234,762 ratings","32,471"
-"Eldest (The Inheritance Cycle, #2)",Christopher Paolini, 4.01 avg rating ," 404,348 ratings","32,467"
-"Dark Lover (Black Dagger Brotherhood, #1)",J.R. Ward, 4.16 avg rating ," 321,336 ratings","32,342"
-"Beautiful Creatures (Caster Chronicles, #1)",Kami Garcia, 3.76 avg rating ," 577,469 ratings","32,253"
-A Separate Peace,John Knowles, 3.59 avg rating ," 207,487 ratings","32,234"
-As I Lay Dying,William Faulkner, 3.72 avg rating ," 153,549 ratings","32,023"
-All the Light We Cannot See,Anthony Doerr, 4.32 avg rating ," 1,359,903 ratings","31,866"
-"Harry Potter Series Box Set (Harry Potter, #1-7)",J.K. Rowling, 4.74 avg rating ," 273,541 ratings","31,376"
-"Brisingr (The Inheritance Cycle, #3)",Christopher Paolini, 4.07 avg rating ," 340,648 ratings","31,375"
-"A Child Called &quot;It&quot; (Dave Pelzer, #1)",Dave Pelzer, 4.12 avg rating ," 410,920 ratings","31,329"
-The Martian Chronicles,Ray Bradbury, 4.15 avg rating ," 241,834 ratings","31,325"
-Mansfield Park,Jane Austen, 3.86 avg rating ," 323,035 ratings","31,268"
-Steppenwolf,Hermann Hesse, 4.13 avg rating ," 164,038 ratings","31,171"
-Cloud Atlas,David Mitchell, 4.01 avg rating ," 236,167 ratings","31,160"
-Notre-Dame de Paris | The Hunchback of Notre-Dame,Victor Hugo, 4.01 avg rating ," 188,456 ratings","31,143"
-زندگی مه آلود پریا,سید مرتضی مصطفوی, 3.27 avg rating , 985 ratings,"31,007"
-Tao Te Ching,Lao Tzu, 4.29 avg rating ," 140,994 ratings","30,997"
-"Obsidian (Lux, #1)",Jennifer L. Armentrout, 4.15 avg rating ," 267,354 ratings","30,872"
-The Amazing Adventures of Kavalier &amp; Clay,Michael Chabon, 4.18 avg rating ," 195,220 ratings","30,757"
-"Robinson Crusoe (Robinson Crusoe, #1)",Daniel Defoe, 3.68 avg rating ," 282,302 ratings","30,324"
-Inferno,Dante Alighieri, 4.01 avg rating ," 164,026 ratings","30,282"
-"Stargirl (Stargirl, #1)",Jerry Spinelli, 3.77 avg rating ," 316,482 ratings","30,222"
-The English Patient,Michael Ondaatje, 3.87 avg rating ," 124,992 ratings","29,826"
-Midnight's Children,Salman Rushdie, 3.98 avg rating ," 115,259 ratings","29,812"
-Dear John,Nicholas Sparks, 4.04 avg rating ," 578,121 ratings","29,772"
-The Firm,Robin Waterfield, 4.05 avg rating ," 604,564 ratings","29,716"
-"The Amber Spyglass (His Dark Materials, #3)",Philip Pullman, 4.10 avg rating ," 337,456 ratings","29,716"
-The BFG,Roald Dahl, 4.22 avg rating ," 443,076 ratings","29,545"
-Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson, 3.83 avg rating ," 492,878 ratings","29,509"
-The Last Song,Nicholas Sparks, 4.16 avg rating ," 537,133 ratings","29,491"
-"Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values (Phaedrus, #1)",Robert M. Pirsig, 3.78 avg rating ," 218,311 ratings","29,484"
-Doctor Zhivago,Boris Pasternak, 4.01 avg rating ," 91,074 ratings","29,478"
-11/22/63,Stephen King, 4.32 avg rating ," 486,055 ratings","29,425"
-"Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante, #1)",Benjamin Alire Sáenz, 4.34 avg rating ," 483,776 ratings","29,394"
-Room,Emma Donoghue, 4.07 avg rating ," 770,282 ratings","29,320"
-"Crescendo (Hush, Hush, #2)",Becca Fitzpatrick, 4.00 avg rating ," 307,633 ratings","29,158"
-"City of Heavenly Fire (The Mortal Instruments, #6)",Cassandra Clare, 4.40 avg rating ," 350,669 ratings","28,920"
-"My Ántonia (Great Plains Trilogy, #3)",Willa Cather, 3.81 avg rating ," 129,810 ratings","28,817"
-War and Peace,Leo Tolstoy, 4.15 avg rating ," 301,366 ratings","28,441"
-Like Water for Chocolate,Laura Esquivel, 3.95 avg rating ," 348,497 ratings","28,430"
-The Plague,Albert Camus, 4.02 avg rating ," 224,395 ratings","28,201"
-"The House of Hades (The Heroes of Olympus, #4)",Rick Riordan, 4.55 avg rating ," 348,240 ratings","28,104"
-"Dragonfly in Amber (Outlander, #2)",Diana Gabaldon, 4.33 avg rating ," 328,005 ratings","28,010"
-The Remains of the Day,Kazuo Ishiguro, 4.14 avg rating ," 259,175 ratings","27,815"
-Breakfast at Tiffany's and Three Stories,Truman Capote, 3.86 avg rating ," 241,797 ratings","27,616"
-Breakfast of Champions,Kurt Vonnegut Jr., 4.07 avg rating ," 244,221 ratings","27,609"
-The Grapes of Wrath,John Steinbeck, 3.99 avg rating ," 842,307 ratings","27,567"
-"Flowers in the Attic (Dollanganger, #1)",V.C. Andrews, 3.84 avg rating ," 190,602 ratings","27,426"
-A Fine Balance,Rohinton Mistry, 4.37 avg rating ," 141,072 ratings","27,393"
-The Origin of Species,Charles Darwin, 4.00 avg rating ," 108,610 ratings","27,385"
-Midnight in the Garden of Good and Evil,John Berendt, 3.92 avg rating ," 251,110 ratings","27,377"
-"The Subtle Knife (His Dark Materials, #2)",Philip Pullman, 4.14 avg rating ," 410,884 ratings","27,195"
-A Streetcar Named Desire,Tennessee Williams, 3.98 avg rating ," 289,841 ratings","27,015"
-The Prince,Niccolò Machiavelli, 3.83 avg rating ," 304,098 ratings","26,756"
-"Miss Peregrine's Home for Peculiar Children (Miss Peregrine's Peculiar Children, #1)",Ransom Riggs, 3.92 avg rating ," 1,158,872 ratings","26,708"
-"Hopeless (Hopeless, #1)",Colleen Hoover, 4.29 avg rating ," 392,665 ratings","26,684"
-"Heir of Fire (Throne of Glass, #3)",Sarah J. Maas, 4.46 avg rating ," 480,629 ratings","26,613"
-"Daughter of Smoke &amp; Bone (Daughter of Smoke &amp; Bone, #1)",Laini Taylor, 4.00 avg rating ," 351,333 ratings","26,595"
-Infinite Jest,David Foster Wallace, 4.26 avg rating ," 84,743 ratings","26,368"
-Death of a Salesman,Arthur  Miller, 3.56 avg rating ," 213,462 ratings","26,329"
-"It Ends with Us (It Ends with Us, #1)",Colleen Hoover, 4.37 avg rating ," 1,756,118 ratings","26,117"
-"Evermore (The Immortals, #1)",Alyson Noel, 3.59 avg rating ," 281,985 ratings","26,097"
-"Unbroken: A World War II Story of Survival, Resilience and Redemption",Laura Hillenbrand, 4.37 avg rating ," 876,292 ratings","25,909"
-"Blood Meridian, or the Evening Redness in the West",Cormac McCarthy, 4.16 avg rating ," 130,060 ratings","25,750"
-"A Feast for Crows (A Song of Ice and Fire, #4)",George R.R. Martin, 4.15 avg rating ," 684,977 ratings","25,622"
-Snow Flower and the Secret Fan,Lisa See, 4.08 avg rating ," 360,226 ratings","25,502"
-"Anna and the French Kiss (Anna and the French Kiss, #1)",Stephanie Perkins, 3.99 avg rating ," 430,241 ratings","25,313"
-"Matched (Matched, #1)",Ally Condie, 3.63 avg rating ," 732,759 ratings","25,175"
-The Scarlet Pimpernel,Emmuska Orczy, 4.07 avg rating ," 130,479 ratings","25,017"
-The Virgin Suicides,Jeffrey Eugenides, 3.83 avg rating ," 272,447 ratings","24,979"
-"Pippi Longstocking (Pippi Långstrump, #1)",Astrid Lindgren, 4.14 avg rating ," 187,629 ratings","24,977"
-"The Angel Experiment (Maximum Ride, #1)",James Patterson, 4.07 avg rating ," 217,947 ratings","24,958"
-"Faust, First Part",Johann Wolfgang von Goethe, 3.89 avg rating ," 68,841 ratings","24,814"
-"The One (The Selection, #3)",Kiera Cass, 4.17 avg rating ," 579,946 ratings","24,712"
-Jonathan Strange &amp; Mr Norrell,Susanna Clarke, 3.85 avg rating ," 221,877 ratings","24,668"
-"Crown of Midnight (Throne of Glass, #2)",Sarah J. Maas, 4.36 avg rating ," 562,940 ratings","24,653"
-The Shipping News,Annie Proulx, 3.87 avg rating ," 139,477 ratings","24,591"
-"The Chosen (Reuven Malther, #1)",Chaim Potok, 4.06 avg rating ," 89,758 ratings","24,380"
-High Fidelity,Nick Hornby, 3.92 avg rating ," 190,064 ratings","24,376"
-"Artemis Fowl (Artemis Fowl, #1)",Eoin Colfer, 3.86 avg rating ," 531,451 ratings","24,365"
-Houdini Heart,Ki Longfellow, 3.82 avg rating ," 5,835 ratings","24,357"
-"The Host (The Host, #1)",Stephenie Meyer, 3.85 avg rating ," 963,483 ratings","24,242"
-The Tales of Beedle the Bard,J.K. Rowling, 4.05 avg rating ," 461,837 ratings","23,903"
-"I Know Why the Caged Bird Sings (Maya Angelou's Autobiography, #1)",Maya Angelou, 4.28 avg rating ," 485,341 ratings","23,860"
-Shantaram,Gregory David Roberts, 4.27 avg rating ," 194,282 ratings","23,762"
-Nineteen Minutes,Jodi Picoult, 4.15 avg rating ," 338,332 ratings","23,556"
-Carrie,Stephen King, 3.98 avg rating ," 632,469 ratings","23,437"
-The Reader,Bernhard Schlink, 3.77 avg rating ," 193,332 ratings","23,432"
-"Red Queen (Red Queen, #1)",Victoria Aveyard, 4.03 avg rating ," 840,331 ratings","23,392"
-"The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America",Erik Larson, 3.99 avg rating ," 618,218 ratings","23,369"
-Coraline,Neil Gaiman, 4.09 avg rating ," 600,447 ratings","23,319"
-Northanger Abbey,Jane Austen, 3.84 avg rating ," 358,838 ratings","23,272"
-Waiting for Godot,Samuel Beckett, 3.84 avg rating ," 184,111 ratings","23,106"
-All the Bright Places,Jennifer Niven, 4.14 avg rating ," 475,899 ratings","23,073"
-Redeeming Love,Francine Rivers, 4.50 avg rating ," 275,947 ratings","22,786"
-The Age of Innocence,Edith Wharton, 3.96 avg rating ," 158,822 ratings","22,725"
-"Neuromancer (Sprawl, #1)",William Gibson, 3.90 avg rating ," 298,868 ratings","22,637"
-"The Voyage of the Dawn Treader (Chronicles of Narnia, #3)",C.S. Lewis, 4.09 avg rating ," 438,197 ratings","22,588"
-Pet Sematary,Stephen King, 4.04 avg rating ," 517,825 ratings","22,389"
-"The Lost Symbol (Robert Langdon, #3)",Dan Brown, 3.73 avg rating ," 575,713 ratings","22,380"
-To the Lighthouse,Virginia Woolf, 3.79 avg rating ," 160,255 ratings","22,134"
-Dubliners,James Joyce, 3.85 avg rating ," 140,969 ratings","22,133"
-"Lover Awakened (Black Dagger Brotherhood, #3)",J.R. Ward, 4.44 avg rating ," 173,480 ratings","21,828"
-"Betrayed (House of Night, #2)",P.C. Cast, 3.92 avg rating ," 256,790 ratings","21,793"
-The Waste Land,T.S. Eliot, 4.10 avg rating ," 49,618 ratings","21,784"
-"I, Robot (Robot, #0.1)",Isaac Asimov, 4.21 avg rating ," 319,695 ratings","21,714"
-The Exorcist,William Peter Blatty, 4.19 avg rating ," 211,363 ratings","21,660"
-"A Dance with Dragons (A Song of Ice and Fire, #5)",George R.R. Martin, 4.33 avg rating ," 609,069 ratings","21,474"
-Divine Secrets of the Ya-Ya Sisterhood,Rebecca Wells, 3.84 avg rating ," 543,984 ratings","21,450"
-We Were Liars,E. Lockhart, 3.72 avg rating ," 933,443 ratings","21,365"
-The Pearl,John Steinbeck, 3.51 avg rating ," 215,217 ratings","21,306"
-The Twilight Collection,Stephenie Meyer, 3.81 avg rating ," 45,486 ratings","21,125"
-The Jungle,Upton Sinclair, 3.76 avg rating ," 137,938 ratings","21,008"
-"Untamed (House of Night, #4)",P.C. Cast, 3.94 avg rating ," 227,437 ratings","20,937"
-"Voyager (Outlander, #3)",Diana Gabaldon, 4.39 avg rating ," 286,790 ratings","20,925"
-Everything is Illuminated,Jonathan Safran Foer, 3.89 avg rating ," 174,246 ratings","20,675"
-Persuasion,Jane Austen, 4.15 avg rating ," 624,631 ratings","20,473"
-"I, Claudius (Claudius, #1)",Robert Graves, 4.24 avg rating ," 62,053 ratings","20,428"
-A Room with a View,E.M. Forster, 3.90 avg rating ," 170,207 ratings","20,328"
-Me Talk Pretty One Day,David Sedaris, 4.00 avg rating ," 670,595 ratings","20,315"
-"The 5th Wave (The 5th Wave, #1)",Rick Yancey, 4.02 avg rating ," 433,727 ratings","20,141"
-"The Return of the King (The Lord of the Rings, #3)",J.R.R. Tolkien, 4.55 avg rating ," 796,500 ratings","20,131"
-"The Last Battle (Chronicles of Narnia, #7)",C.S. Lewis, 4.01 avg rating ," 253,084 ratings","20,127"
-The Republic,Plato, 3.96 avg rating ," 189,661 ratings","20,019"
-Snow Falling on Cedars,David Guterson, 3.85 avg rating ," 179,361 ratings","19,893"
-"Ignite Me (Shatter Me, #3)",Tahereh Mafi, 4.45 avg rating ," 270,978 ratings","19,876"
-A Little Life,Hanya Yanagihara, 4.33 avg rating ," 394,467 ratings","19,789"
-Bleak House,Charles Dickens, 4.01 avg rating ," 104,158 ratings","19,762"
-"Chosen (House of Night, #3)",P.C. Cast, 3.91 avg rating ," 235,192 ratings","19,693"
-"Queen of Shadows (Throne of Glass, #4)",Sarah J. Maas, 4.56 avg rating ," 418,940 ratings","19,525"
-"City of Glass (The Mortal Instruments, #3)",Cassandra Clare, 4.29 avg rating ," 902,709 ratings","19,435"
-The Elephant Tree,R.D. Ronald, 3.69 avg rating ," 26,362 ratings","19,202"
-Of Human Bondage,W. Somerset Maugham, 4.13 avg rating ," 53,691 ratings","19,047"
-The God Delusion,Richard Dawkins, 3.90 avg rating ," 255,631 ratings","18,989"
-The Complete Poems of Emily Dickinson,Emily Dickinson, 4.25 avg rating ," 89,103 ratings","18,725"
-The War of the Worlds,H.G. Wells, 3.83 avg rating ," 285,194 ratings","18,709"
-North and South,Elizabeth Gaskell, 4.14 avg rating ," 158,935 ratings","18,657"
-World War Z: An Oral History of the Zombie War,Max Brooks, 4.01 avg rating ," 490,312 ratings","18,608"
-"Bloodlines (Bloodlines, #1)",Richelle Mead, 4.20 avg rating ," 180,251 ratings","18,546"
-"A Discovery of Witches (All Souls, #1)",Deborah Harkness, 4.02 avg rating ," 447,081 ratings","18,526"
-Brideshead Revisited,Evelyn Waugh, 4.00 avg rating ," 103,554 ratings","18,504"
-"The Cruel Prince (The Folk of the Air, #1)",Holly Black, 4.09 avg rating ," 741,246 ratings","18,460"
-A Christmas Carol,Charles Dickens, 4.07 avg rating ," 729,566 ratings","18,430"
-"Angels &amp; Demons (Robert Langdon, #1)",Dan Brown, 3.93 avg rating ," 3,005,165 ratings","18,405"
-"The Elite (The Selection, #2)",Kiera Cass, 3.97 avg rating ," 651,817 ratings","18,400"
-"The Iron King (The Iron Fey, #1)",Julie Kagawa, 3.88 avg rating ," 206,437 ratings","18,288"
-Vanity Fair,William Makepeace Thackeray, 3.80 avg rating ," 123,750 ratings","18,195"
-"Wizard's First Rule (Sword of Truth, #1)",Terry Goodkind, 4.12 avg rating ," 240,057 ratings","18,134"
-"The Witching Hour (Lives of the Mayfair Witches, #1)",Anne Rice, 4.11 avg rating ," 109,656 ratings","18,116"
-"Torment (Fallen, #2)",Lauren Kate, 3.85 avg rating ," 226,220 ratings","18,115"
-The Woman in White,Wilkie Collins, 4.00 avg rating ," 145,130 ratings","18,097"
-Snow Crash,Neal Stephenson, 4.03 avg rating ," 261,847 ratings","18,052"
-"The Hate U Give (The Hate U Give, #1)",Angie Thomas, 4.50 avg rating ," 762,944 ratings","18,049"
-انتحار فاشل,أحمد جمال الدين رمضان, 4.56 avg rating ," 2,343 ratings","18,045"
-"Unwind (Unwind, #1)",Neal Shusterman, 4.17 avg rating ," 213,217 ratings","17,971"
-2001: A Space Odyssey,Arthur C. Clarke, 4.16 avg rating ," 291,375 ratings","17,924"
-"Cry, the Beloved Country",Alan Paton, 3.91 avg rating ," 71,355 ratings","17,916"
-"Bared to You (Crossfire, #1)",Sylvia Day, 4.16 avg rating ," 500,371 ratings","17,902"
-"The Raven Boys (The Raven Cycle, #1)",Maggie Stiefvater, 4.05 avg rating ," 333,055 ratings","17,899"
-Johnny Got His Gun,Dalton Trumbo, 4.19 avg rating ," 39,765 ratings","17,878"
-العصبي,أحمد جمال الدين رمضان, 4.63 avg rating ," 2,039 ratings","17,850"
-"A Great and Terrible Beauty (Gemma Doyle, #1)",Libba Bray, 3.79 avg rating ," 218,379 ratings","17,639"
-The Goldfinch,Donna Tartt, 3.93 avg rating ," 836,431 ratings","17,632"
-"The Two Towers (The Lord of the Rings, #2)",J.R.R. Tolkien, 4.47 avg rating ," 851,066 ratings","17,377"
-"Cannery Row (Cannery Row, #1)",John Steinbeck, 4.05 avg rating ," 126,000 ratings","17,358"
-"Chocolat (Chocolat, #1)",Joanne Harris, 3.96 avg rating ," 120,770 ratings","17,327"
-"Halfway to the Grave (Night Huntress, #1)",Jeaniene Frost, 4.14 avg rating ," 151,540 ratings","17,316"
-"Perfect Chemistry (Perfect Chemistry, #1)",Simone Elkeles, 4.05 avg rating ," 255,391 ratings","17,248"
-"The Summoning (Darkest Powers, #1)",Kelley Armstrong, 4.02 avg rating ," 167,089 ratings","17,194"
-Are You My Mother?,P.D. Eastman, 4.20 avg rating ," 233,432 ratings","17,177"
-Much Ado About Nothing,William Shakespeare, 4.06 avg rating ," 231,954 ratings","17,118"
-"The Bad Beginning (A Series of Unfortunate Events, #1)",Lemony Snicket, 3.99 avg rating ," 473,875 ratings","17,110"
-"The Mortal Instruments Boxed Set: City of Bones; City of Ashes; City of Glass (The Mortal Instruments, #1-3)",Cassandra Clare, 4.55 avg rating ," 67,323 ratings","17,063"
-Three Cups of Tea: One Man's Mission to Promote Peace ... One School at a Time,Greg Mortenson, 3.66 avg rating ," 340,034 ratings","17,024"
-Just Listen,Sarah Dessen, 4.05 avg rating ," 243,116 ratings","17,021"
-Far From the Madding Crowd,Thomas Hardy, 3.95 avg rating ," 142,438 ratings","17,002"
-The Polar Express,Chris Van Allsburg, 4.31 avg rating ," 229,922 ratings","16,997"
-Sarah's Key,Tatiana de Rosnay, 4.17 avg rating ," 455,613 ratings","16,811"
-The Truth About Forever,Sarah Dessen, 4.12 avg rating ," 218,593 ratings","16,758"
-"Night  (The Night Trilogy, #1)",Elie Wiesel, 4.36 avg rating ," 1,129,740 ratings","16,742"
-Into Thin Air: A Personal Account of the Mount Everest Disaster,Jon Krakauer, 4.22 avg rating ," 458,709 ratings","16,667"
-"Ishmael (Ishmael, #1)",Daniel Quinn, 4.00 avg rating ," 91,236 ratings","16,630"
-"The Darkest Minds (The Darkest Minds, #1)",Alexandra Bracken, 4.16 avg rating ," 176,380 ratings","16,553"
-"Angelfall (Penryn &amp; the End of Days, #1)",Susan Ee, 4.12 avg rating ," 183,934 ratings","16,488"
-"Little House on the Prairie (Little House, #3)",Laura Ingalls Wilder, 4.21 avg rating ," 278,958 ratings","16,446"
-"The Horse and His Boy (Chronicles of Narnia, #5)",C.S. Lewis, 3.91 avg rating ," 318,534 ratings","16,445"
-Swann's Way,Marcel Proust, 4.14 avg rating ," 54,270 ratings","16,402"
-"Acheron (Dark-Hunter, #14)",Sherrilyn Kenyon, 4.56 avg rating ," 57,890 ratings","16,353"
-The Last Lecture,Randy Pausch, 4.26 avg rating ," 329,193 ratings","16,320"
-Sense and Sensibility,Jane Austen, 4.08 avg rating ," 1,096,339 ratings","16,319"
-Nine Stories,J.D. Salinger, 4.18 avg rating ," 141,541 ratings","16,260"
-"Silence (Hush, Hush, #3)",Becca Fitzpatrick, 4.09 avg rating ," 269,669 ratings","16,239"
-Lady Chatterley's Lover,D.H. Lawrence, 3.51 avg rating ," 111,837 ratings","16,235"
-"Hyperion (Hyperion Cantos, #1)",Dan Simmons, 4.25 avg rating ," 220,776 ratings","16,209"
-"Sabriel (Abhorsen,  #1)",Garth Nix, 4.16 avg rating ," 199,108 ratings","16,092"
-"You Are Special (Wemmicksville, #1)",Max Lucado, 4.44 avg rating ," 51,641 ratings","16,070"
-"Dead to the World (Sookie Stackhouse, #4)",Charlaine Harris, 4.12 avg rating ," 252,342 ratings","16,066"
-A Monster Calls,Patrick Ness, 4.35 avg rating ," 244,582 ratings","16,056"
-"Red, White &amp; Royal Blue",Casey McQuiston, 4.15 avg rating ," 623,075 ratings","16,026"
-Twelfth Night,William Shakespeare, 3.97 avg rating ," 171,432 ratings","16,021"
-"The Bronze Horseman (The Bronze Horseman, #1)",Paullina Simons, 4.30 avg rating ," 78,799 ratings","16,010"
-"The Unbecoming of Mara Dyer (Mara Dyer, #1)",Michelle Hodkin, 4.03 avg rating ," 168,365 ratings","15,992"
-I Capture the Castle,Dodie Smith, 4.00 avg rating ," 96,158 ratings","15,979"
-Cutting for Stone,Abraham   Verghese, 4.30 avg rating ," 357,913 ratings","15,965"
-"Trainspotting (Mark Renton, #2)",Irvine Welsh, 4.09 avg rating ," 159,258 ratings","15,957"
-"The Red Pyramid (The Kane Chronicles, #1)",Rick Riordan, 4.10 avg rating ," 366,630 ratings","15,946"
-"Slammed (Slammed, #1)",Colleen Hoover, 4.22 avg rating ," 258,913 ratings","15,892"
-The Hours,Michael Cunningham, 3.95 avg rating ," 133,713 ratings","15,891"
-"Little House in the Big Woods (Little House, #1)",Laura Ingalls Wilder, 4.19 avg rating ," 253,580 ratings","15,874"
-"I Am Number Four (Lorien Legacies, #1)",Pittacus Lore, 3.94 avg rating ," 332,328 ratings","15,842"
-"The Goose Girl (The Books of Bayern, #1)",Shannon Hale, 4.13 avg rating ," 139,700 ratings","15,842"
-The Zombie Room,R.D. Ronald, 3.75 avg rating ," 27,659 ratings","15,840"
-"Anne of Avonlea (Anne of Green Gables, #2)",L.M. Montgomery, 4.22 avg rating ," 176,554 ratings","15,774"
-The Nightingale,Kristin Hannah, 4.60 avg rating ," 1,012,292 ratings","15,774"
-Ugly Love,Colleen Hoover, 4.20 avg rating ," 990,296 ratings","15,738"
-No Country for Old Men,Cormac McCarthy, 4.14 avg rating ," 171,397 ratings","15,703"
-Demian: Die Geschichte von Emil Sinclairs Jugend,Hermann Hesse, 4.13 avg rating ," 94,649 ratings","15,689"
-Julius Caesar,William Shakespeare, 3.70 avg rating ," 189,159 ratings","15,679"
-The Glass Menagerie,Tennessee Williams, 3.72 avg rating ," 125,451 ratings","15,629"
-"Drums of Autumn (Outlander, #4)",Diana Gabaldon, 4.35 avg rating ," 232,519 ratings","15,628"
-Where the Crawdads Sing,Delia Owens, 4.43 avg rating ," 2,175,733 ratings","15,583"
-The Westing Game,Ellen Raskin, 4.01 avg rating ," 193,779 ratings","15,542"
-"P.S. I Love You (P.S. I Love You, #1)",Cecelia Ahern, 4.03 avg rating ," 366,072 ratings","15,531"
-Emma,Jane Austen, 4.04 avg rating ," 789,050 ratings","15,331"
-"The Last Unicorn (The Last Unicorn, #1)",Peter S. Beagle, 4.16 avg rating ," 102,150 ratings","15,197"
-"Speaker for the Dead (Ender's Saga, #2)",Orson Scott Card, 4.09 avg rating ," 240,810 ratings","15,177"
-The Arabian Nights,Anonymous, 4.05 avg rating ," 67,533 ratings","15,097"
-"Hunted (House of Night, #5)",P.C. Cast, 3.92 avg rating ," 175,133 ratings","15,093"
-Interpreter of Maladies,Jhumpa Lahiri, 4.17 avg rating ," 179,893 ratings","15,091"
-"Words of Radiance (The Stormlight Archive, #2)",Brandon Sanderson, 4.75 avg rating ," 278,989 ratings","15,089"
-I'll Give You the Sun,Jandy Nelson, 4.15 avg rating ," 310,009 ratings","15,080"
-"World Without End (Kingsbridge, #2)",Ken Follett, 4.29 avg rating ," 229,203 ratings","15,076"
-"A Court of Wings and Ruin (A Court of Thorns and Roses, #3)",Sarah J. Maas, 4.44 avg rating ," 675,673 ratings","15,035"
-"The Bean Trees (Greer Family, #1)",Barbara Kingsolver, 3.98 avg rating ," 144,874 ratings","14,994"
-We Need to Talk About Kevin,Lionel Shriver, 4.07 avg rating ," 181,922 ratings","14,989"
-"The Talisman (The Talisman, #1)",Stephen King, 4.13 avg rating ," 119,654 ratings","14,971"
-Cyrano de Bergerac,Edmond Rostand, 4.06 avg rating ," 79,815 ratings","14,852"
-"Cress (The Lunar Chronicles, #3)",Marissa Meyer, 4.42 avg rating ," 332,752 ratings","14,730"
-"Shadow and Bone (The Shadow and Bone Trilogy, #1)",Leigh Bardugo, 3.95 avg rating ," 783,929 ratings","14,729"
-The Art of War,Sun Tzu, 3.97 avg rating ," 419,943 ratings","14,705"
-Circe,Madeline Miller, 4.26 avg rating ," 760,054 ratings","14,666"
-"Scarlet (The Lunar Chronicles, #2)",Marissa Meyer, 4.26 avg rating ," 378,487 ratings","14,635"
-"Wicked Lovely (Wicked Lovely, #1)",Melissa Marr, 3.69 avg rating ," 160,840 ratings","14,569"
-"A Dog's Purpose (A Dog's Purpose, #1)",W. Bruce Cameron, 4.35 avg rating ," 124,696 ratings","14,536"
-Macbeth,William Shakespeare, 3.90 avg rating ," 803,978 ratings","14,533"
-Before I Fall,Lauren Oliver, 3.89 avg rating ," 325,082 ratings","14,496"
-"Lover Eternal (Black Dagger Brotherhood, #2)",J.R. Ward, 4.33 avg rating ," 185,710 ratings","14,473"
-All the King's Men,Robert Penn Warren, 4.08 avg rating ," 60,935 ratings","14,403"
-The Merchant of Venice,William Shakespeare, 3.79 avg rating ," 176,333 ratings","14,327"
-"The Knife of Never Letting Go (Chaos Walking, #1)",Patrick Ness, 3.97 avg rating ," 183,665 ratings","14,326"
-Peace Like a River,Leif Enger, 4.00 avg rating ," 86,137 ratings","14,247"
-"The Silver Chair (Chronicles of Narnia, #4)",C.S. Lewis, 3.96 avg rating ," 272,681 ratings","14,212"
-Invisible Monsters,Chuck Palahniuk, 3.99 avg rating ," 134,790 ratings","14,104"
-One Day in the Life of Ivan Denisovich,Aleksandr Solzhenitsyn, 3.97 avg rating ," 104,534 ratings","14,052"
-"Empire of Storms (Throne of Glass, #5)",Sarah J. Maas, 4.57 avg rating ," 349,604 ratings","13,963"
-"The Secret (The Secret, #1)",Rhonda Byrne, 3.72 avg rating ," 428,035 ratings","13,924"
-Gravity's Rainbow,Thomas Pynchon, 4.00 avg rating ," 40,938 ratings","13,924"
-"Inheritance (The Inheritance Cycle, #4)",Christopher Paolini, 4.12 avg rating ," 246,984 ratings","13,898"
-I Am Legend and Other Stories,Richard Matheson, 4.00 avg rating ," 126,514 ratings","13,873"
-The Yellow Wallpaper and Other Stories,Charlotte Perkins Gilman, 4.05 avg rating ," 82,268 ratings","13,838"
-"The Scorch Trials (The Maze Runner, #2)",James Dashner, 3.90 avg rating ," 528,092 ratings","13,781"
-"The Eyre Affair (Thursday Next, #1)",Jasper Fforde, 3.88 avg rating ," 128,357 ratings","13,761"
-"The Queen of the Damned (The Vampire Chronicles, #3)",Anne Rice, 3.90 avg rating ," 144,859 ratings","13,759"
-"Poison Study (Study, #1)",Maria V. Snyder, 4.10 avg rating ," 158,512 ratings","13,741"
-"A Wizard of Earthsea (Earthsea Cycle, #1)",Ursula K. Le Guin, 4.01 avg rating ," 282,638 ratings","13,609"
-"Left Behind (Left Behind, #1)",Tim LaHaye, 3.84 avg rating ," 220,558 ratings","13,604"
-The Memory Keeper's Daughter,Kim Edwards, 3.69 avg rating ," 586,758 ratings","13,576"
-"Prince Caspian (Chronicles of Narnia, #2)",C.S. Lewis, 3.98 avg rating ," 400,083 ratings","13,527"
-The Girl on the Train,Paula Hawkins, 3.95 avg rating ," 2,605,360 ratings","13,466"
-A Brief History of Time,Stephen Hawking, 4.20 avg rating ," 387,905 ratings","13,461"
-Mythology,Edith Hamilton, 4.02 avg rating ," 51,537 ratings","13,459"
-"1Q84 (1Q84, #1-3)",Haruki Murakami, 3.93 avg rating ," 237,526 ratings","13,447"
-"Where She Went (If I Stay, #2)",Gayle Forman, 3.99 avg rating ," 282,391 ratings","13,442"
-Foucault's Pendulum,Umberto Eco, 3.91 avg rating ," 65,978 ratings","13,381"
-Seabiscuit: An American Legend,Laura Hillenbrand, 4.21 avg rating ," 157,649 ratings","13,257"
-The Night Before Christmas,Clement C. Moore, 4.38 avg rating ," 116,362 ratings","13,207"
-The History of Love,Nicole Krauss, 3.92 avg rating ," 130,906 ratings","13,163"
-"Inferno (Robert Langdon, #4)",Dan Brown, 3.87 avg rating ," 520,221 ratings","13,162"
-"The Killer Angels (The Civil War Trilogy, #2)",Michael Shaara, 4.32 avg rating ," 81,454 ratings","13,120"
-"Darkfever (Fever, #1)",Karen Marie Moning, 4.06 avg rating ," 173,121 ratings","13,113"
-If on a Winter's Night a Traveler,Italo Calvino, 4.05 avg rating ," 87,151 ratings","13,106"
-"Shadowfever (Fever, #5)",Karen Marie Moning, 4.39 avg rating ," 105,239 ratings","13,089"
-"The Left Hand of Darkness (Hainish Cycle, #4)",Ursula K. Le Guin, 4.09 avg rating ," 153,101 ratings","13,071"
-"Oedipus Rex  (The Theban Plays, #1)",Sophocles, 3.72 avg rating ," 197,414 ratings","13,052"
-"The Bourne Identity (Jason Bourne, #1)",Robert Ludlum, 4.04 avg rating ," 421,486 ratings","13,037"
-Native Son,Richard Wright, 4.02 avg rating ," 94,361 ratings","13,019"
-Rosencrantz and Guildenstern Are Dead,Tom Stoppard, 4.04 avg rating ," 86,051 ratings","12,832"
-A People's History of the United States,Howard Zinn, 4.07 avg rating ," 226,092 ratings","12,788"
-Sapiens: A Brief History of Humankind,Yuval Noah Harari, 4.39 avg rating ," 829,852 ratings","12,767"
-"Carry On (Simon Snow, #1)",Rainbow Rowell, 4.20 avg rating ," 281,161 ratings","12,747"
-"Gone (Gone, #1)",Michael  Grant, 3.86 avg rating ," 193,780 ratings","12,700"
-"Oryx and Crake (MaddAddam, #1)",Margaret Atwood, 4.01 avg rating ," 248,926 ratings","12,664"
-"Pretties (Uglies, #2)",Scott Westerfeld, 3.84 avg rating ," 249,699 ratings","12,623"
-House of Sand and Fog,Andre Dubus III, 3.86 avg rating ," 129,496 ratings","12,610"
-John Adams,David McCullough, 4.06 avg rating ," 347,438 ratings","12,568"
-"Lover Unbound (Black Dagger Brotherhood, #5)",J.R. Ward, 4.32 avg rating ," 129,465 ratings","12,556"
-"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury, 3.92 avg rating ," 118,288 ratings","12,556"
-"City of Ashes (The Mortal Instruments, #2)",Cassandra Clare, 4.13 avg rating ," 867,179 ratings","12,515"
-The Magus,John Fowles, 4.05 avg rating ," 54,766 ratings","12,512"
-Possession,A.S. Byatt, 3.88 avg rating ," 77,203 ratings","12,499"
-"Call Me By Your Name (Call Me By Your Name, #1)",André Aciman, 4.13 avg rating ," 394,504 ratings","12,489"
-Twenty Thousand Leagues Under the Sea (Captain Nemo #2),Jules Verne, 3.89 avg rating ," 233,487 ratings","12,479"
-Mistress Suffragette,Diana   Forbes, 4.29 avg rating ," 4,866 ratings","12,464"
-The Wasp Factory,Iain Banks, 3.79 avg rating ," 88,193 ratings","12,433"
-The Bluest Eye,Toni Morrison, 4.10 avg rating ," 215,651 ratings","12,426"
-The Blind Assassin,Margaret Atwood, 3.96 avg rating ," 148,290 ratings","12,395"
-Watchers,Dean Koontz, 4.18 avg rating ," 158,475 ratings","12,372"
-Veronika Decides to Die,Paulo Coelho, 3.72 avg rating ," 202,868 ratings","12,347"
-"Champion (Legend, #3)",Marie Lu, 4.33 avg rating ," 200,268 ratings","12,339"
-"The Fiery Cross (Outlander, #5)",Diana Gabaldon, 4.25 avg rating ," 195,341 ratings","12,321"
-"One for the Money (Stephanie Plum, #1)",Janet Evanovich, 4.04 avg rating ," 520,703 ratings","12,295"
-"Alanna: The First Adventure (Song of the Lioness, #1)",Tamora Pierce, 4.26 avg rating ," 124,894 ratings","12,276"
-"Night Watch (Discworld, #29; City Watch, #6)",Terry Pratchett, 4.48 avg rating ," 104,882 ratings","12,273"
-Battle Royale,Koushun Takami, 4.25 avg rating ," 66,998 ratings","12,223"
-"The Lies of Locke Lamora (Gentleman Bastard, #1)",Scott Lynch, 4.29 avg rating ," 264,439 ratings","12,184"
-Papillon,Henri Charrière, 4.22 avg rating ," 64,948 ratings","12,182"
-"To All the Boys I've Loved Before (To All the Boys I've Loved Before, #1)",Jenny Han, 4.07 avg rating ," 746,545 ratings","12,113"
-"Assassin's Apprentice (Farseer Trilogy, #1)",Robin Hobb, 4.17 avg rating ," 283,823 ratings","12,091"
-"A Breath of Snow and Ashes (Outlander, #6)",Diana Gabaldon, 4.43 avg rating ," 164,019 ratings","12,066"
-Geek Love,Katherine Dunn, 3.96 avg rating ," 62,628 ratings","12,045"
-The Trigger: Hunting the Assassin Who Brought the World to War,Tim Butcher, 3.78 avg rating ," 3,922 ratings","11,919"
-"Unravel Me (Shatter Me, #2)",Tahereh Mafi, 4.18 avg rating ," 319,583 ratings","11,914"
-The Ocean at the End of the Lane,Neil Gaiman, 4.01 avg rating ," 559,142 ratings","11,908"
-From the Mixed-Up Files of Mrs. Basil E. Frankweiler,E.L. Konigsburg, 4.15 avg rating ," 202,471 ratings","11,896"
-Prodigal Summer,Barbara Kingsolver, 4.02 avg rating ," 105,253 ratings","11,891"
-"Simon vs. the Homo Sapiens Agenda (Simonverse, #1)",Becky Albertalli, 4.20 avg rating ," 391,196 ratings","11,828"
-Corelli's Mandolin,Louis de Bernières, 4.00 avg rating ," 83,034 ratings","11,776"
-"The Sisterhood of the Traveling Pants (Sisterhood, #1)",Ann Brashares, 3.82 avg rating ," 673,017 ratings","11,762"
-Grimm's Fairy Tales,Jacob Grimm, 4.13 avg rating ," 26,497 ratings","11,757"
-"Tempted (House of Night, #6)",P.C. Cast, 3.95 avg rating ," 161,044 ratings","11,696"
-Jitterbug Perfume,Tom Robbins, 4.22 avg rating ," 73,224 ratings","11,670"
-A Heartbreaking Work of Staggering Genius,Dave Eggers, 3.68 avg rating ," 177,245 ratings","11,610"
-Freakonomics: A Rogue Economist Explores the Hidden Side of Everything,Steven D. Levitt, 4.00 avg rating ," 804,116 ratings","11,598"
-"I'd Tell You I Love You, But Then I'd Have to Kill You (Gallagher Girls, #1)",Ally Carter, 3.83 avg rating ," 184,699 ratings","11,585"
-The Holy Bible: King James Version,Anonymous, 4.43 avg rating ," 257,216 ratings","11,574"
-Cosmos,Carl Sagan, 4.38 avg rating ," 135,939 ratings","11,569"
-House of Leaves,Mark Z. Danielewski, 4.09 avg rating ," 149,183 ratings","11,546"
-Howl and Other Poems,Allen Ginsberg, 4.13 avg rating ," 104,108 ratings","11,515"
-Under the Dome,Stephen King, 3.91 avg rating ," 281,915 ratings","11,501"
-The Invisible Life of Addie LaRue,V.E. Schwab, 4.22 avg rating ," 705,799 ratings","11,498"
-"Odd Thomas (Odd Thomas, #1)",Dean Koontz, 3.98 avg rating ," 261,478 ratings","11,473"
-"The Death Cure (The Maze Runner, #3)",James Dashner, 3.78 avg rating ," 403,797 ratings","11,425"
-The Sirens of Titan,Kurt Vonnegut Jr., 4.15 avg rating ," 129,288 ratings","11,424"
-The Aeneid,Virgil, 3.86 avg rating ," 119,541 ratings","11,418"
-On Writing: A Memoir of the Craft,Stephen King, 4.33 avg rating ," 261,747 ratings","11,410"
-Bury My Heart at Wounded Knee: An Indian History of the American West,Dee Brown, 4.23 avg rating ," 83,930 ratings","11,395"
-The Book of Mormon: Another Testament of Jesus Christ,Joseph Smith Jr., 4.28 avg rating ," 82,133 ratings","11,386"
-The Elegance of the Hedgehog,Muriel Barbery, 3.79 avg rating ," 171,223 ratings","11,266"
-"Prodigy (Legend, #2)",Marie Lu, 4.24 avg rating ," 241,941 ratings","11,263"
-Angle of Repose,Wallace Stegner, 4.25 avg rating ," 56,810 ratings","11,199"
-"The Alienist (Dr. Laszlo Kreizler, #1)",Caleb Carr, 4.06 avg rating ," 165,418 ratings","11,189"
-"Love Story (Love Story, #1)",Erich Segal, 3.64 avg rating ," 57,680 ratings","11,171"
-The Big Sleep,Raymond Chandler, 3.96 avg rating ," 144,481 ratings","11,140"
-The Glass Castle,Jeannette Walls, 4.30 avg rating ," 1,072,068 ratings","11,131"
-"Death on the Nile (Hercule Poirot, #16)",Agatha Christie, 4.12 avg rating ," 213,763 ratings","11,121"
-Anthem,Ayn Rand, 3.62 avg rating ," 145,400 ratings","11,097"
-It's Kind of a Funny Story,Ned Vizzini, 4.10 avg rating ," 237,009 ratings","11,064"
-The Witch of Blackbird Pond,Elizabeth George Speare, 4.00 avg rating ," 145,614 ratings","11,061"
-"The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency, #1)",Alexander McCall Smith, 3.80 avg rating ," 253,516 ratings","11,046"
-The Corrections,Jonathan Franzen, 3.82 avg rating ," 172,373 ratings","11,025"
-Message in a Bottle,Nicholas Sparks, 3.97 avg rating ," 228,200 ratings","11,006"
-"Red Rising (Red Rising Saga, #1)",Pierce Brown, 4.26 avg rating ," 312,598 ratings","10,997"
-Ivanhoe,Walter Scott, 3.76 avg rating ," 91,363 ratings","10,993"
-"Confessions of a Shopaholic (Shopaholic, #1)",Sophie Kinsella, 3.68 avg rating ," 707,374 ratings","10,959"
-Walk Two Moons,Sharon Creech, 3.98 avg rating ," 161,953 ratings","10,928"
-"Ender's Shadow (The Shadow Series, #1)",Orson Scott Card, 4.31 avg rating ," 164,772 ratings","10,921"
-"Lover Revealed (Black Dagger Brotherhood, #4)",J.R. Ward, 4.29 avg rating ," 131,528 ratings","10,881"
-"The Hero of Ages (Mistborn, #3)",Brandon Sanderson, 4.51 avg rating ," 342,334 ratings","10,840"
-One Day,David Nicholls, 3.81 avg rating ," 310,564 ratings","10,816"
-The Jungle Books,Rudyard Kipling, 4.01 avg rating ," 86,264 ratings","10,812"
-The Magic Mountain,Thomas Mann, 4.12 avg rating ," 43,852 ratings","10,774"
-Digital Fortress,Dan Brown, 3.68 avg rating ," 608,740 ratings","10,765"
-The Shell Seekers,Rosamunde Pilcher, 4.18 avg rating ," 103,829 ratings","10,763"
-"One Fish, Two Fish, Red Fish, Blue Fish",Dr. Seuss, 4.16 avg rating ," 190,049 ratings","10,758"
-"Rubinrot (Edelstein-Trilogie, #1)",Kerstin Gier, 4.12 avg rating ," 138,528 ratings","10,744"
-Hard-Boiled Wonderland and the End of the World,Haruki Murakami, 4.14 avg rating ," 123,302 ratings","10,731"
-"Glass Houses (The Morganville Vampires, #1)",Rachel Caine, 3.91 avg rating ," 98,574 ratings","10,702"
-"A Canticle for Leibowitz (St. Leibowitz, #1)",Walter M. Miller Jr., 3.98 avg rating ," 102,372 ratings","10,653"
-"The Edge of Never (The Edge of Never, #1)",J.A. Redmerski, 4.22 avg rating ," 146,620 ratings","10,639"
-"Dandelion Wine (Green Town, #1)",Ray Bradbury, 4.08 avg rating ," 63,757 ratings","10,623"
-"Princess Academy (Princess Academy, #1)",Shannon Hale, 4.03 avg rating ," 112,219 ratings","10,611"
-"Club Dead (Sookie Stackhouse, #3)",Charlaine Harris, 4.01 avg rating ," 228,942 ratings","10,611"
-Chasing the Devil: The Search for Africa's Fighting Spirit,Tim Butcher, 4.12 avg rating ," 1,784 ratings","10,583"
-The Power of Myth,Joseph Campbell, 4.26 avg rating ," 48,740 ratings","10,568"
-We Have Always Lived in the Castle,Shirley Jackson, 3.96 avg rating ," 173,693 ratings","10,556"
-"Lover Avenged (Black Dagger Brotherhood, #7)",J.R. Ward, 4.36 avg rating ," 111,766 ratings","10,538"
-Song of Solomon,Toni Morrison, 4.12 avg rating ," 101,444 ratings","10,532"
-How to Win Friends and Influence People,Dale Carnegie, 4.21 avg rating ," 838,731 ratings","10,509"
-The Story of My Life,Helen Keller, 4.07 avg rating ," 143,207 ratings","10,500"
-Because of Winn-Dixie,Kate DiCamillo, 4.08 avg rating ," 237,227 ratings","10,471"
-"Living Dead in Dallas (Sookie Stackhouse, #2)",Charlaine Harris, 3.96 avg rating ," 244,645 ratings","10,423"
-Jude the Obscure,Thomas Hardy, 3.83 avg rating ," 68,089 ratings","10,402"
-"Worm Holes (Quantum Roots, #2)",Kyle Keyes, 4.33 avg rating ," 2,161 ratings","10,345"
-"Antigone (The Theban Plays, #3)",Sophocles, 3.67 avg rating ," 131,396 ratings","10,317"
-"The Blood of Olympus (The Heroes of Olympus, #5)",Rick Riordan, 4.43 avg rating ," 272,486 ratings","10,305"
-The Portrait of a Lady,Henry James, 3.78 avg rating ," 76,917 ratings","10,303"
-The Omnivore's Dilemma: A Natural History of Four Meals,Michael Pollan, 4.18 avg rating ," 197,092 ratings","10,293"
-Sharp Objects,Gillian Flynn, 4.01 avg rating ," 872,235 ratings","10,203"
-My Name Is Asher Lev,Chaim Potok, 4.22 avg rating ," 38,973 ratings","10,194"
-Ficciones,Jorge Luis Borges, 4.43 avg rating ," 59,499 ratings","10,179"
-Starship Troopers,Robert A. Heinlein, 4.01 avg rating ," 213,670 ratings","10,150"
-Cryptonomicon,Neal Stephenson, 4.24 avg rating ," 107,190 ratings","10,133"
-The Moon Is a Harsh Mistress,Robert A. Heinlein, 4.16 avg rating ," 123,020 ratings","10,122"
-"The Color of Magic (Discworld, #1; Rincewind, #1)",Terry Pratchett, 4.00 avg rating ," 357,723 ratings","10,105"
-Still Alice,Lisa Genova, 4.31 avg rating ," 324,175 ratings","10,104"
-The Iliad,Homer, 3.89 avg rating ," 410,251 ratings","10,103"
-"The Passage (The Passage, #1)",Justin Cronin, 4.04 avg rating ," 201,288 ratings","10,087"
-Howards End,E.M. Forster, 3.96 avg rating ," 84,741 ratings","10,050"
-The Namesake,Jhumpa Lahiri, 4.00 avg rating ," 255,907 ratings","10,048"
-Swan Song,Robert McCammon, 4.28 avg rating ," 62,116 ratings","10,007"
-The Invention of Hugo Cabret,Brian Selznick, 4.22 avg rating ," 176,166 ratings","9,969"
-The Long Walk,Richard Bachman, 4.10 avg rating ," 156,756 ratings","9,951"
-"Around the World in Eighty Days (Extraordinary Voyages, #11)",Jules Verne, 3.94 avg rating ," 222,652 ratings","9,947"
-"Small Gods (Discworld, #13)",Terry Pratchett, 4.31 avg rating ," 112,081 ratings","9,946"
-An Abundance of Katherines,John Green, 3.53 avg rating ," 504,317 ratings","9,879"
-"Fire (Graceling Realm, #2)",Kristin Cashore, 4.10 avg rating ," 176,722 ratings","9,870"
-"The Murder of Roger Ackroyd (Hercule Poirot, #3)",Agatha Christie, 4.26 avg rating ," 219,886 ratings","9,853"
-Choke,Chuck Palahniuk, 3.70 avg rating ," 200,702 ratings","9,837"
-The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey, 4.15 avg rating ," 664,471 ratings","9,817"
-"An Ember in the Ashes (An Ember in the Ashes, #1)",Sabaa Tahir, 4.26 avg rating ," 256,782 ratings","9,815"
-"Finale (Hush, Hush, #4)",Becca Fitzpatrick, 4.14 avg rating ," 163,181 ratings","9,726"
-Wild Swans: Three Daughters of China,Jung Chang, 4.26 avg rating ," 105,580 ratings","9,724"
-"Mary Poppins (Mary Poppins, #1)",P.L. Travers, 4.02 avg rating ," 126,481 ratings","9,713"
-The Sea of Tranquility,Katja Millay, 4.30 avg rating ," 83,966 ratings","9,704"
-Survivor,Chuck Palahniuk, 3.93 avg rating ," 113,439 ratings","9,682"
-Holy Bible: New International Version,Anonymous, 4.60 avg rating ," 75,188 ratings","9,665"
-Pale Fire,Vladimir Nabokov, 4.16 avg rating ," 46,150 ratings","9,650"
-"Walking Disaster (Beautiful, #2)",Jamie McGuire, 4.17 avg rating ," 184,749 ratings","9,593"
-They Both Die at the End,Adam Silvera, 3.83 avg rating ," 529,857 ratings","9,593"
-"Linger (The Wolves of Mercy Falls, #2)",Maggie Stiefvater, 3.89 avg rating ," 164,142 ratings","9,534"
-Exodus,Leon Uris, 4.34 avg rating ," 96,096 ratings","9,467"
-Tender Is the Night,F. Scott Fitzgerald, 3.80 avg rating ," 126,529 ratings","9,433"
-"Mort (Discworld, #4; Death, #1)",Terry Pratchett, 4.23 avg rating ," 223,964 ratings","9,375"
-I Am the Messenger,Markus Zusak, 4.04 avg rating ," 151,586 ratings","9,371"
-The Forgotten Garden,Kate Morton, 4.14 avg rating ," 210,540 ratings","9,368"
-Gift from the Sea,Anne Morrow Lindbergh, 4.15 avg rating ," 47,064 ratings","9,368"
-Ethan Frome,Edith Wharton, 3.43 avg rating ," 118,561 ratings","9,319"
-"The Awakening (Darkest Powers, #2)",Kelley Armstrong, 4.14 avg rating ," 112,967 ratings","9,313"
-"Forrest Gump (Forrest Gump, #1)",Winston Groom, 4.04 avg rating ," 64,938 ratings","9,292"
-"The Dark Tower (The Dark Tower, #7)",Stephen King, 4.27 avg rating ," 160,608 ratings","9,291"
-"The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy, #2)",Douglas Adams, 4.21 avg rating ," 263,993 ratings","9,284"
-Cold Sassy Tree,Olive Ann Burns, 4.02 avg rating ," 101,209 ratings","9,272"
-Shutter Island,Dennis Lehane, 4.10 avg rating ," 181,178 ratings","9,267"
-Mystic River,Dennis Lehane, 4.16 avg rating ," 137,646 ratings","9,243"
-Revolutionary Road,Richard Yates, 3.92 avg rating ," 84,125 ratings","9,228"
-"Daughter of the Forest  (Sevenwaters, #1)",Juliet Marillier, 4.27 avg rating ," 60,752 ratings","9,190"
-Nausea,Jean-Paul Sartre, 3.93 avg rating ," 103,579 ratings","9,190"
-"The Hunt for Red October (Jack Ryan, #3)",Tom Clancy, 4.10 avg rating ," 360,840 ratings","9,163"
-"The Sparrow (The Sparrow, #1)",Mary Doria Russell, 4.13 avg rating ," 70,063 ratings","9,154"
-"The Reckoning (Darkest Powers, #3)",Kelley Armstrong, 4.18 avg rating ," 114,740 ratings","9,149"
-Illusions: The Adventures of a Reluctant Messiah,Richard Bach, 4.15 avg rating ," 61,500 ratings","9,129"
-"Dreamfever (Fever, #4)",Karen Marie Moning, 4.38 avg rating ," 98,261 ratings","9,111"
-"Gabriel's Inferno (Gabriel's Inferno, #1)",Sylvain Reynard, 3.99 avg rating ," 154,209 ratings","9,078"
-"Kane &amp; Abel (Kane &amp; Abel, #1)",Jeffrey Archer, 4.32 avg rating ," 114,209 ratings","9,077"
-"A Darker Shade of Magic (Shades of Magic, #1)",V.E. Schwab, 4.07 avg rating ," 290,251 ratings","9,036"
-The Bridges of Madison County,Robert James Waller, 3.66 avg rating ," 89,536 ratings","9,028"
-The Hotel New Hampshire,John Irving, 3.92 avg rating ," 62,708 ratings","9,006"
-The Fall,Albert Camus, 4.04 avg rating ," 88,099 ratings","8,978"
-"Absalom, Absalom!",William Faulkner, 3.97 avg rating ," 42,064 ratings","8,969"
-Meditations,Marcus Aurelius, 4.25 avg rating ," 182,471 ratings","8,947"
-"Reflected in You (Crossfire, #2)",Sylvia Day, 4.31 avg rating ," 335,586 ratings","8,931"
-The Sorrows of Young Werther,Johann Wolfgang von Goethe, 3.69 avg rating ," 110,554 ratings","8,931"
-A Million Little Pieces,James Frey, 3.67 avg rating ," 241,249 ratings","8,924"
-Shakespeare's Sonnets,William Shakespeare, 4.25 avg rating ," 97,393 ratings","8,870"
-"Guilty Pleasures (Anita Blake, Vampire Hunter, #1)",Laurell K. Hamilton, 4.02 avg rating ," 142,251 ratings","8,842"
-"Specials (Uglies, #3)",Scott Westerfeld, 3.76 avg rating ," 181,729 ratings","8,813"
-"84, Charing Cross Road",Helene Hanff, 4.16 avg rating ," 70,979 ratings","8,810"
-A Man Called Ove,Fredrik Backman, 4.37 avg rating ," 805,888 ratings","8,785"
-The Gargoyle,Andrew Davidson, 3.96 avg rating ," 47,629 ratings","8,773"
-Naked Lunch,William S. Burroughs, 3.45 avg rating ," 85,476 ratings","8,767"
-Orlando,Virginia Woolf, 3.87 avg rating ," 76,742 ratings","8,737"
-"The Millennium Trilogy (Millennium Trilogy, #1-3)",Stieg Larsson, 4.46 avg rating ," 53,300 ratings","8,699"
-"One Foot in the Grave (Night Huntress, #2)",Jeaniene Frost, 4.29 avg rating ," 101,383 ratings","8,698"
-"The Assassin's Blade (Throne of Glass, #0.1-0.5)",Sarah J. Maas, 4.33 avg rating ," 259,906 ratings","8,698"
-Where the Heart Is,Billie Letts, 4.03 avg rating ," 244,111 ratings","8,696"
-"The Well of Ascension (Mistborn, #2)",Brandon Sanderson, 4.37 avg rating ," 372,308 ratings","8,692"
-"Dead as a Doornail (Sookie Stackhouse, #5)",Charlaine Harris, 4.00 avg rating ," 211,478 ratings","8,686"
-"Lover Mine (Black Dagger Brotherhood, #8)",J.R. Ward, 4.39 avg rating ," 109,433 ratings","8,684"
-"Fablehaven (Fablehaven, #1)",Brandon Mull, 4.12 avg rating ," 152,837 ratings","8,678"
-Christy,Catherine Marshall, 4.23 avg rating ," 52,616 ratings","8,675"
-"The City of Ember (Book of Ember, #1)",Jeanne DuPrau, 3.89 avg rating ," 267,449 ratings","8,673"
-The Bonfire of the Vanities,Tom Wolfe, 3.88 avg rating ," 76,752 ratings","8,669"
-"Burned (House of Night, #7)",P.C. Cast, 3.96 avg rating ," 152,658 ratings","8,663"
-"The Golden Lily (Bloodlines, #2)",Richelle Mead, 4.31 avg rating ," 114,949 ratings","8,644"
-The Pact,Jodi Picoult, 4.02 avg rating ," 292,157 ratings","8,626"
-"Crank (Crank, #1)",Ellen Hopkins, 4.16 avg rating ," 135,944 ratings","8,623"
-Still Life with Woodpecker,Tom Robbins, 4.03 avg rating ," 77,320 ratings","8,597"
-A Connecticut Yankee in King Arthur's Court,Mark Twain, 3.77 avg rating ," 99,897 ratings","8,593"
-"Definitely Dead (Sookie Stackhouse, #6)",Charlaine Harris, 4.01 avg rating ," 198,132 ratings","8,592"
-"Opal (Lux, #3)",Jennifer L. Armentrout, 4.26 avg rating ," 143,652 ratings","8,531"
-The Story of Edgar Sawtelle,David Wroblewski, 3.63 avg rating ," 95,849 ratings","8,530"
-The Agony and the Ecstasy,Irving Stone, 4.07 avg rating ," 86,967 ratings","8,530"
-The Lucky One,Nicholas Sparks, 4.12 avg rating ," 348,291 ratings","8,520"
-Let the Right One In,John Ajvide Lindqvist, 4.04 avg rating ," 102,459 ratings","8,517"
-A Walk in the Woods: Rediscovering America on the Appalachian Trail,Bill Bryson, 4.06 avg rating ," 381,870 ratings","8,478"
-Dark Places,Gillian Flynn, 3.95 avg rating ," 675,498 ratings","8,424"
-Deception Point,Dan Brown, 3.74 avg rating ," 640,643 ratings","8,415"
-A Moveable Feast,Ernest Hemingway, 4.03 avg rating ," 137,222 ratings","8,410"
-"Pandemonium (Delirium, #2)",Lauren Oliver, 4.04 avg rating ," 231,871 ratings","8,352"
-How Green Was My Valley,Richard Llewellyn, 4.19 avg rating ," 16,365 ratings","8,349"
-The Poetry of Robert Frost,Robert Frost, 4.23 avg rating ," 46,532 ratings","8,311"
-The 5 Love Languages: The Secret to Love that Lasts,Gary Chapman, 4.26 avg rating ," 375,537 ratings","8,308"
-Journey to the End of the Night,Louis-Ferdinand Céline, 4.21 avg rating ," 37,660 ratings","8,304"
-We,Yevgeny Zamyatin, 3.90 avg rating ," 85,904 ratings","8,286"
-"Will Grayson, Will Grayson",John Green, 3.72 avg rating ," 378,644 ratings","8,282"
-Beach Music,Pat Conroy, 4.17 avg rating ," 47,491 ratings","8,276"
-"Night World, No. 1 (Night World, #1-3)",L.J. Smith, 4.06 avg rating ," 63,398 ratings","8,273"
-The House of Mirth,Edith Wharton, 3.96 avg rating ," 91,446 ratings","8,248"
-"Easy (Contours of the Heart, #1)",Tammara Webber, 4.08 avg rating ," 225,286 ratings","8,247"
-"A Study in Scarlet (Sherlock Holmes, #1)",Arthur Conan Doyle, 4.14 avg rating ," 398,400 ratings","8,231"
-The Brief Wondrous Life of Oscar Wao,Junot Díaz, 3.89 avg rating ," 250,795 ratings","8,227"
-"Into the Wild (Warriors, #1)",Erin Hunter, 4.31 avg rating ," 91,665 ratings","8,218"
-Sometimes a Great Notion,Ken Kesey, 4.25 avg rating ," 21,331 ratings","8,214"
-"The Wedding (The Notebook, #2)",Nicholas Sparks, 3.99 avg rating ," 151,179 ratings","8,179"
-The Runaway Jury,John Grisham, 4.01 avg rating ," 291,950 ratings","8,171"
-"Winter (The Lunar Chronicles, #4)",Marissa Meyer, 4.43 avg rating ," 246,498 ratings","8,166"
-"Thoughtless (Thoughtless, #1)",S.C. Stephens, 4.09 avg rating ," 138,404 ratings","8,160"
-Archer's Voice,Mia Sheridan, 4.32 avg rating ," 195,293 ratings","8,149"
-Valley of the Dolls,Jacqueline Susann, 3.80 avg rating ," 59,266 ratings","8,144"
-"The Amulet of Samarkand (Bartimaeus, #1)",Jonathan Stroud, 4.02 avg rating ," 122,965 ratings","8,144"
-The Turn of the Screw,Henry James, 3.40 avg rating ," 136,004 ratings","8,140"
-Safe Haven,Nicholas Sparks, 4.21 avg rating ," 364,184 ratings","8,126"
-The Fountainhead,Ayn Rand, 3.88 avg rating ," 312,290 ratings","8,115"
-Beauty: A Retelling of the Story of Beauty and the Beast,Robin McKinley, 4.05 avg rating ," 77,726 ratings","8,109"
-Childhood's End,Arthur C. Clarke, 4.11 avg rating ," 146,957 ratings","8,105"
-The Bhagavad Gita,Krishna-Dwaipayana Vyasa, 4.16 avg rating ," 63,683 ratings","8,069"
-On the Beach,Nevil Shute, 3.96 avg rating ," 40,491 ratings","8,065"
-"Onyx (Lux, #2)",Jennifer L. Armentrout, 4.25 avg rating ," 171,718 ratings","8,059"
-"From Dead to Worse (Sookie Stackhouse, #8)",Charlaine Harris, 4.01 avg rating ," 183,097 ratings","8,020"
-Educated,Tara Westover, 4.47 avg rating ," 1,233,599 ratings","8,012"
-"Faefever (Fever, #3)",Karen Marie Moning, 4.29 avg rating ," 99,478 ratings","7,989"
-"All Together Dead (Sookie Stackhouse, #7)",Charlaine Harris, 4.05 avg rating ," 195,511 ratings","7,987"
-"Passion (Fallen, #3)",Lauren Kate, 3.86 avg rating ," 161,675 ratings","7,985"
-"Kingdom of Ash (Throne of Glass, #7)",Sarah J. Maas, 4.62 avg rating ," 266,902 ratings","7,984"
-"Bitten (Otherworld, #1)",Kelley Armstrong, 4.02 avg rating ," 99,235 ratings","7,973"
-"Roll of Thunder, Hear My Cry (Logans, #4)",Mildred D. Taylor, 3.87 avg rating ," 120,065 ratings","7,950"
-"Wizard and Glass (The Dark Tower, #4)",Stephen King, 4.25 avg rating ," 183,143 ratings","7,928"
-"The Ruins of Gorlan (Ranger's Apprentice, #1)",John Flanagan, 4.24 avg rating ," 144,050 ratings","7,917"
-Light in August,William Faulkner, 3.94 avg rating ," 58,826 ratings","7,893"
-"Dead and Gone (Sookie Stackhouse, #9)",Charlaine Harris, 4.01 avg rating ," 183,145 ratings","7,869"
-The Taming of the Shrew,William Shakespeare, 3.77 avg rating ," 163,588 ratings","7,839"
-"Every Day (Every Day, #1)",David Levithan, 3.91 avg rating ," 221,631 ratings","7,818"
-Stoner,John  Williams, 4.31 avg rating ," 134,623 ratings","7,811"
-Thus Spoke Zarathustra,Friedrich Nietzsche, 4.07 avg rating ," 133,031 ratings","7,794"
-A Room of One's Own,Virginia Woolf, 4.20 avg rating ," 167,256 ratings","7,780"
-"Fantasy Lover (Hunter Legends, #1)",Sherrilyn Kenyon, 4.15 avg rating ," 90,272 ratings","7,764"
-This Lullaby,Sarah Dessen, 4.02 avg rating ," 176,411 ratings","7,762"
-"The Awakening / The Struggle (The Vampire Diaries, #1-2)",L.J. Smith, 3.68 avg rating ," 87,553 ratings","7,756"
-Silas Marner,George Eliot, 3.67 avg rating ," 81,405 ratings","7,749"
-"Redwall (Redwall, #1)",Brian Jacques, 4.13 avg rating ," 112,468 ratings","7,746"
-Disgrace,J.M. Coetzee, 3.85 avg rating ," 97,888 ratings","7,726"
-White Noise,Don DeLillo, 3.87 avg rating ," 99,019 ratings","7,724"
-The Rime of the Ancient Mariner,Samuel Taylor Coleridge, 3.95 avg rating ," 56,297 ratings","7,711"
-Between Shades of Gray,Ruta Sepetys, 4.37 avg rating ," 211,179 ratings","7,707"
-The Dead Zone,Stephen King, 3.95 avg rating ," 206,127 ratings","7,679"
-"Wings (Wings, #1)",Aprilynne Pike, 3.75 avg rating ," 79,024 ratings","7,675"
-"The Drawing of the Three (The Dark Tower, #2)",Stephen King, 4.23 avg rating ," 240,248 ratings","7,641"
-The Silent Patient,Alex Michaelides, 4.17 avg rating ," 1,236,617 ratings","7,637"
-"Tiger's Curse (The Tiger Saga, #1)",Colleen Houck, 4.05 avg rating ," 61,351 ratings","7,630"
-"These Is My Words: The Diary of Sarah Agnes Prine, 1881-1901, Arizona Territories (Sarah Agnes Prine, #1)",Nancy E. Turner, 4.35 avg rating ," 70,400 ratings","7,625"
-The Guardian,Nicholas Sparks, 4.16 avg rating ," 173,212 ratings","7,615"
-"The Dispossessed (Hainish Cycle, #6)",Ursula K. Le Guin, 4.23 avg rating ," 107,537 ratings","7,612"
-"One of Us Is Lying (One of Us is Lying, #1)",Karen M. McManus, 3.99 avg rating ," 616,125 ratings","7,609"
-"A Good Girl's Guide to Murder (A Good Girl's Guide to Murder, #1)",Holly  Jackson, 4.36 avg rating ," 409,588 ratings","7,588"
-گم شده ای در مه,سید مرتضی مصطفوی, 3.78 avg rating , 682 ratings,"7,587"
-The Horse Whisperer,Nicholas Evans, 3.83 avg rating ," 55,653 ratings","7,577"
-The Far Pavilions,M.M. Kaye, 4.20 avg rating ," 42,960 ratings","7,565"
-The Story of Ferdinand,Munro Leaf, 4.36 avg rating ," 89,776 ratings","7,557"
-Animal Farm / 1984,George Orwell, 4.30 avg rating ," 184,815 ratings","7,531"
-"The Mysterious Benedict Society (The Mysterious Benedict Society, #1)",Trenton Lee Stewart, 4.19 avg rating ," 147,458 ratings","7,528"
-The Tempest,William Shakespeare, 3.80 avg rating ," 193,871 ratings","7,521"
-The Love Hypothesis,Ali Hazelwood, 4.27 avg rating ," 769,644 ratings","7,508"
-"Lady Midnight (The Dark Artifices, #1)",Cassandra Clare, 4.38 avg rating ," 208,985 ratings","7,504"
-"All the Pretty Horses (The Border Trilogy, #1)",Cormac McCarthy, 4.01 avg rating ," 106,835 ratings","7,478"
-Collected Fictions,Jorge Luis Borges, 4.57 avg rating ," 22,555 ratings","7,456"
-"Finding Hope in the Darkness of Grief: Spiritual Insights Expressed Through Art, Poetry and Prose",Diamante Lavendar, 4.29 avg rating ," 1,539 ratings","7,414"
-Along for the Ride,Sarah Dessen, 4.04 avg rating ," 200,641 ratings","7,410"
-The Pilgrim's Progress,John Bunyan, 4.03 avg rating ," 125,280 ratings","7,381"
-The Immortal Life of Henrietta Lacks,Rebecca Skloot, 4.10 avg rating ," 674,337 ratings","7,374"
-"Hatchet (Brian's Saga, #1)",Gary Paulsen, 3.76 avg rating ," 356,585 ratings","7,348"
-"The Last of the Mohicans (The Leatherstocking Tales, #2)",James Fenimore Cooper, 3.70 avg rating ," 94,362 ratings","7,328"
-Running with Scissors,Augusten Burroughs, 3.75 avg rating ," 376,546 ratings","7,327"
-"The Wicked King (The Folk of the Air, #2)",Holly Black, 4.34 avg rating ," 457,769 ratings","7,327"
-"Unearthly (Unearthly, #1)",Cynthia Hand, 4.02 avg rating ," 125,902 ratings","7,312"
-Helter Skelter: The True Story of the Manson Murders,Vincent Bugliosi, 4.05 avg rating ," 138,251 ratings","7,309"
-Requiem for a Dream,Hubert Selby Jr., 4.10 avg rating ," 57,530 ratings","7,308"
-A Doll's House,Henrik Ibsen, 3.75 avg rating ," 127,770 ratings","7,288"
-Verity,Colleen Hoover, 4.41 avg rating ," 1,314,562 ratings","7,269"
-The Razor's Edge,W. Somerset Maugham, 4.19 avg rating ," 43,502 ratings","7,257"
-The Maltese Falcon,Dashiell Hammett, 3.89 avg rating ," 99,446 ratings","7,248"
-Smilla's Sense of Snow,Peter Høeg, 3.74 avg rating ," 46,577 ratings","7,224"
-"Blue Bloods (Blue Bloods, #1)",Melissa de la Cruz, 3.69 avg rating ," 138,364 ratings","7,224"
-Songs of Innocence and of Experience,William Blake, 4.10 avg rating ," 45,115 ratings","7,201"
-Shot Down: The True Story of Pilot Howard Snyder and the Crew of the B-17 Susan Ruth,Steve Snyder, 4.21 avg rating ," 8,802 ratings","7,193"
-Suzanne's Diary for Nicholas,James Patterson, 4.16 avg rating ," 146,158 ratings","7,186"
-A Bend in the Road,Nicholas Sparks, 4.04 avg rating ," 147,596 ratings","7,184"
-"Red Dragon (Hannibal Lecter, #1)",Thomas  Harris, 4.05 avg rating ," 308,919 ratings","7,178"
-"Hogfather (Discworld, #20; Death, #4)",Terry Pratchett, 4.24 avg rating ," 86,036 ratings","7,168"
-The Client,John Grisham, 4.04 avg rating ," 426,567 ratings","7,134"
-The Collector,John Fowles, 3.98 avg rating ," 69,540 ratings","7,130"
-A Passage to India,E.M. Forster, 3.68 avg rating ," 75,398 ratings","7,114"
-Eleven Minutes,Paulo Coelho, 3.71 avg rating ," 166,250 ratings","7,103"
-The Man in the High Castle,Philip K. Dick, 3.61 avg rating ," 194,795 ratings","7,095"
-"Everything, Everything",Nicola Yoon, 4.00 avg rating ," 542,967 ratings","7,081"
-"At Grave's End (Night Huntress, #3)",Jeaniene Frost, 4.29 avg rating ," 87,217 ratings","7,074"
-Walks Away Woman,Ki Longfellow, 4.37 avg rating ," 1,132 ratings","7,074"
-"The Devil Wears Prada (The Devil Wears Prada, #1)",Lauren Weisberger, 3.78 avg rating ," 847,130 ratings","7,065"
-"Beastly (Beastly, #1; Kendra Chronicles, #1)",Alex Flinn, 3.83 avg rating ," 174,557 ratings","7,020"
-"Point of Retreat (Slammed, #2)",Colleen Hoover, 4.23 avg rating ," 166,389 ratings","7,017"
-"Breaking Dawn (The Twilight Saga, #4)",Stephenie Meyer, 3.72 avg rating ," 1,551,006 ratings","7,013"
-"Dirk Gently's Holistic Detective Agency (Dirk Gently, #1)",Douglas Adams, 3.97 avg rating ," 133,680 ratings","7,001"
-The Short Second Life of Bree Tanner,Stephenie Meyer, 3.51 avg rating ," 205,353 ratings","6,993"
-"Dead Witch Walking (The Hollows, #1)",Kim Harrison, 4.03 avg rating ," 121,929 ratings","6,991"
-The Great Divorce,C.S. Lewis, 4.30 avg rating ," 131,547 ratings","6,985"
-The Complete Persepolis,Marjane Satrapi, 4.38 avg rating ," 159,918 ratings","6,971"
-Forbidden,Tabitha Suzuma, 4.00 avg rating ," 67,606 ratings","6,963"
-"Magician (The Riftwar Saga, #1-2)",Raymond E. Feist, 4.31 avg rating ," 64,364 ratings","6,952"
+naslov,avtor,ocena,stevilo_ocen,score,stevilo_glasov
+"The Hunger Games (The Hunger Games, #1)",Suzanne Collins, 4.33," 7,829,902","3,423,857","34,859"
+"Harry Potter and the Order of the Phoenix (Harry Potter, #5)",J.K. Rowling, 4.50," 3,098,075","2,930,001","29,941"
+Pride and Prejudice,Jane Austen, 4.28," 3,870,343","2,437,709","25,043"
+To Kill a Mockingbird,Harper Lee, 4.27," 5,602,806","2,289,552","23,385"
+The Book Thief,Markus Zusak, 4.39," 2,323,037","1,650,380","16,989"
+"Twilight (The Twilight Saga, #1)",Stephenie Meyer, 3.64," 6,076,112","1,592,058","16,226"
+Animal Farm,George Orwell, 3.98," 3,504,828","1,455,202","15,091"
+"The Chronicles of Narnia (Chronicles of Narnia, #1-7)",C. S. Lewis, 4.27," 609,552","1,362,404","14,216"
+J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings,J.R.R. Tolkien, 4.61," 126,217","1,354,967","14,088"
+The Fault in Our Stars,John Green, 4.15," 4,680,539","1,243,352","12,883"
+Gone with the Wind,Margaret Mitchell, 4.30," 1,172,062","1,134,221","11,692"
+The Giving Tree,Shel Silverstein, 4.38," 1,056,580","1,109,906","11,501"
+Wuthering Heights,Emily Brontë, 3.88," 1,657,010","1,096,878","11,464"
+The Picture of Dorian Gray,Oscar Wilde, 4.12," 1,330,817","1,084,207","11,366"
+"Harry Potter and the Philosopher’s Stone (Harry Potter, #1)",J.K. Rowling, 4.47," 9,123,198","976,420","10,296"
+Jane Eyre,Charlotte Brontë, 4.14," 1,947,330","969,065","10,206"
+The Perks of Being a Wallflower,Stephen Chbosky, 4.22," 1,627,357","961,343","10,050"
+"The Da Vinci Code (Robert Langdon, #2)",Dan Brown, 3.90," 2,225,735","946,576","9,953"
+The Great Gatsby,F. Scott Fitzgerald, 3.93," 4,754,997","918,586","9,828"
+Alice's Adventures in Wonderland / Through the Looking-Glass,Lewis Carroll, 4.07," 529,995","911,704","9,616"
+Memoirs of a Geisha,Arthur Golden, 4.14," 1,913,915","911,602","9,498"
+The Little Prince,Antoine de Saint-Exupéry, 4.32," 1,880,352","889,774","9,441"
+"Divergent (Divergent, #1)",Veronica Roth, 4.15," 3,651,022","887,095","9,312"
+Les Misérables,Victor Hugo, 4.19," 760,676","885,482","9,300"
+Crime and Punishment,Fyodor Dostoevsky, 4.25," 801,758","870,722","9,085"
+"The Lightning Thief (Percy Jackson and the Olympians, #1)",Rick Riordan, 4.29," 2,641,716","862,957","9,105"
+Lord of the Flies,William Golding, 3.69," 2,700,204","846,530","8,997"
+Romeo and Juliet,William Shakespeare, 3.74," 2,436,859","832,947","8,928"
+"Anne of Green Gables (Anne of Green Gables, #1)",L.M. Montgomery, 4.30," 903,422","805,615","8,484"
+"City of Bones (The Mortal Instruments, #1)",Cassandra Clare, 4.08," 1,895,178","797,512","8,383"
+"The Hitchhiker's Guide to the Galaxy (The Hitchhiker's Guide to the Galaxy, #1)",Douglas Adams, 4.23," 1,717,640","778,879","8,070"
+The Help,Kathryn Stockett, 4.47," 2,568,252","773,358","8,266"
+"Ender’s Game (Ender's Saga, #1)",Orson Scott Card, 4.31," 1,295,077","758,213","7,906"
+Charlotte's Web,E.B. White, 4.19," 1,703,693","741,782","8,002"
+Dracula,Bram Stoker, 4.01," 1,155,369","735,555","7,913"
+Of Mice and Men,John Steinbeck, 3.88," 2,358,704","730,525","7,876"
+The Alchemist,Paulo Coelho, 3.90," 2,735,097","706,374","7,366"
+Brave New World,Aldous Huxley, 3.99," 1,716,959","689,690","7,397"
+The Catcher in the Rye,J.D. Salinger, 3.81," 3,271,245","689,501","7,430"
+The Time Traveler's Wife,Audrey Niffenegger, 3.99," 1,724,817","683,381","7,152"
+One Hundred Years of Solitude,Gabriel García Márquez, 4.11," 897,819","682,395","7,177"
+Fahrenheit 451,Ray Bradbury, 3.97," 2,171,412","678,071","7,201"
+A Thousand Splendid Suns,Khaled Hosseini, 4.42," 1,404,431","663,031","7,018"
+The Princess Bride,William Goldman, 4.26," 863,097","650,793","6,928"
+The Secret Garden,Frances Hodgson Burnett, 4.15," 1,081,570","645,287","7,077"
+"A Game of Thrones (A Song of Ice and Fire, #1)",George R.R. Martin, 4.44," 2,328,043","630,469","6,724"
+The Outsiders,S.E. Hinton, 4.12," 1,198,444","604,068","6,503"
+"A Wrinkle in Time (Time Quintet, #1)",Madeleine L&#39;Engle, 3.99," 1,143,530","602,251","6,435"
+The Odyssey,Homer, 3.80," 1,004,282","559,099","6,123"
+The Adventures of Huckleberry Finn,Mark Twain, 3.83," 1,230,270","542,311","5,968"
+The Lovely Bones,Alice Sebold, 3.84," 2,249,913","539,634","5,822"
+Where the Wild Things Are,Maurice Sendak, 4.24," 953,588","533,697","5,815"
+The Kite Runner,Khaled Hosseini, 4.33," 2,912,469","529,054","5,741"
+Green Eggs and Ham,Dr. Seuss, 4.30," 727,578","528,007","5,805"
+Little Women,Louisa May Alcott, 4.13," 2,052,336","527,716","5,882"
+1984,George Orwell, 4.19," 4,114,167","525,428","5,662"
+Life of Pi,Yann Martel, 3.93," 1,535,890","523,499","5,659"
+Frankenstein: The 1818 Text,Mary Wollstonecraft Shelley, 3.85," 1,441,442","520,936","5,784"
+A Tale of Two Cities,Charles Dickens, 3.86," 903,388","519,008","5,689"
+"The Handmaid’s Tale (The Handmaid's Tale, #1)",Margaret Atwood, 4.13," 1,857,966","511,508","5,589"
+"The Giver (The Giver, #1)",Lois Lowry, 4.13," 2,246,341","506,751","5,503"
+"Harry Potter and the Deathly Hallows (Harry Potter, #7)",J.K. Rowling, 4.62," 3,417,877","504,093","5,457"
+Lolita,Vladimir Nabokov, 3.88," 781,765","501,714","5,399"
+Water for Elephants,Sara Gruen, 4.10," 1,544,069","488,366","5,261"
+Slaughterhouse-Five,Kurt Vonnegut Jr., 4.09," 1,287,291","483,266","5,220"
+"Dune (Dune, #1)",Frank Herbert, 4.26," 1,174,227","477,931","5,145"
+The Stand,Stephen King, 4.34," 714,101","428,314","4,625"
+Catch-22,Joseph Heller, 3.99," 797,841","426,179","4,649"
+The Bell Jar,Sylvia Plath, 4.04," 803,751","417,475","4,552"
+Matilda,Roald Dahl, 4.33," 856,096","414,412","4,592"
+"Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",J.K. Rowling, 4.58," 3,728,612","414,257","4,549"
+"The Pillars of the Earth (Kingsbridge, #1)",Ken Follett, 4.33," 724,362","413,196","4,443"
+"The Adventures of Sherlock Holmes (Sherlock Holmes, #3)",Arthur Conan Doyle, 4.30," 281,553","408,563","4,570"
+"Watership Down (Watership Down, #1)",Richard  Adams, 4.08," 464,765","393,576","4,300"
+Great Expectations,Charles Dickens, 3.79," 753,653","389,600","4,467"
+Rebecca,Daphne du Maurier, 4.24," 573,153","382,370","4,266"
+"Outlander (Outlander, #1)",Diana Gabaldon, 4.25," 977,957","371,994","3,984"
+"The Girl with the Dragon Tattoo (Millennium, #1)",Stieg Larsson, 4.16," 3,004,140","371,430","4,139"
+"The Fellowship of the Ring (The Lord of the Rings, #1)",J.R.R. Tolkien, 4.38," 2,659,945","369,325","4,150"
+One Flew Over the Cuckoo's Nest,Ken Kesey, 4.20," 698,752","368,968","4,175"
+The Color Purple,Alice Walker, 4.25," 624,043","361,292","4,089"
+My Sister's Keeper,Jodi Picoult, 4.09," 1,166,555","357,624","3,934"
+Anna Karenina,Leo Tolstoy, 4.08," 788,504","345,281","3,784"
+The Brothers Karamazov,Fyodor Dostoevsky, 4.35," 294,824","328,981","3,630"
+A Tree Grows in Brooklyn,Betty  Smith, 4.29," 437,644","328,219","3,610"
+A Clockwork Orange,Anthony Burgess, 4.00," 674,754","322,911","3,635"
+The Road,Cormac McCarthy, 3.98," 828,604","317,537","3,486"
+"Angela's Ashes (Frank McCourt, #1)",Frank McCourt, 4.14," 603,605","300,159","3,349"
+"Vampire Academy (Vampire Academy, #1)",Richelle Mead, 4.11," 622,781","297,586","3,200"
+Siddhartha,Hermann Hesse, 4.06," 708,854","296,191","3,304"
+"The Golden Compass (His Dark Materials, #1)",Philip Pullman, 4.01," 1,452,671","293,854","3,275"
+The Poisonwood Bible,Barbara Kingsolver, 4.08," 711,535","282,328","3,099"
+It,Stephen King, 4.25," 1,009,028","281,570","3,030"
+And Then There Were None,Agatha Christie, 4.28," 1,179,223","279,450","3,086"
+The Shining,Stephen King, 4.26," 1,365,895","277,668","3,071"
+The Complete Stories and Poems,Edgar Allan Poe, 4.38," 243,365","277,540","3,151"
+"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice, 4.01," 551,245","277,085","3,100"
+To Kill a Mockingbird,Harper Lee, 4.27," 5,602,806","276,914","2,979"
+Don Quixote,Miguel de Cervantes Saavedra, 3.89," 249,738","276,061","3,140"
+The Old Man and the Sea,Ernest Hemingway, 3.80," 1,040,648","268,127","3,081"
+Atlas Shrugged,Ayn Rand, 3.69," 378,246","257,235","2,825"
+"The Notebook (The Notebook, #1)",Nicholas Sparks, 4.14," 1,577,466","249,204","2,807"
+"Winnie-the-Pooh (Winnie-the-Pooh, #1)",A.A. Milne, 4.35," 310,705","246,524","2,887"
+"Harry Potter and the Goblet of Fire (Harry Potter, #4)",J.K. Rowling, 4.56," 3,335,948","241,706","2,732"
+Fahrenheit 451,Ray Bradbury, 3.97," 2,171,412","239,453","2,621"
+A Prayer for Owen Meany,John Irving, 4.24," 308,879","218,118","2,396"
+"Moby-Dick or, the Whale",Herman Melville, 3.53," 529,853","214,918","2,479"
+"Harry Potter and the Half-Blood Prince (Harry Potter, #6)",J.K. Rowling, 4.58," 3,001,478","210,622","2,418"
+"Clockwork Angel (The Infernal Devices, #1)",Cassandra Clare, 4.32," 787,456","190,381","2,090"
+The Secret Life of Bees,Sue Monk Kidd, 4.08," 1,237,757","184,620","2,113"
+The Red Tent,Anita Diamant, 4.19," 573,599","184,370","2,064"
+The Stranger,Albert Camus, 4.01," 932,311","177,078","2,020"
+"The Name of the Wind (The Kingkiller Chronicle, #1)",Patrick Rothfuss, 4.52," 877,025","169,867","1,801"
+The Master and Margarita,Mikhail Bulgakov, 4.30," 310,952","166,611","1,817"
+"Harry Potter and the Chamber of Secrets (Harry Potter, #2)",J.K. Rowling, 4.43," 3,527,484","164,576","1,950"
+Flowers for Algernon,Daniel Keyes, 4.18," 600,523","160,366","1,856"
+Middlesex,Jeffrey Eugenides, 4.02," 621,603","159,478","1,782"
+The Metamorphosis,Franz Kafka, 3.84," 891,108","158,563","1,855"
+"Eragon (The Inheritance Cycle, #1)",Christopher Paolini, 3.93," 1,657,230","154,832","1,767"
+The Adventures of Tom Sawyer,Mark Twain, 3.92," 881,715","154,482","1,900"
+The Alchemist,Paulo Coelho, 3.90," 2,735,097","153,269","1,614"
+"Charlie and the Chocolate Factory (Charlie Bucket, #1)",Roald Dahl, 4.15," 794,188","152,785","1,825"
+Looking for Alaska,John Green, 3.98," 1,460,080","152,438","1,669"
+The Very Hungry Caterpillar,Eric Carle, 4.32," 474,712","148,630","1,730"
+The Curious Incident of the Dog in the Night-Time,Mark Haddon, 3.89," 1,396,598","148,613","1,708"
+"The Hobbit (The Lord of the Rings, #0)",J.R.R. Tolkien, 4.28," 3,597,522","147,201","1,724"
+"The Shadow of the Wind (The Cemetery of Forgotten Books, #1)",Carlos Ruiz Zafón, 4.29," 579,282","146,588","1,624"
+On the Road,Jack Kerouac, 3.62," 388,127","144,225","1,638"
+Tuesdays with Morrie,Mitch Albom, 4.15," 939,466","144,191","1,647"
+"The Last Olympian (Percy Jackson and the Olympians, #5)",Rick Riordan, 4.53," 877,173","142,595","1,626"
+The Unbearable Lightness of Being,Milan Kundera, 4.11," 419,780","142,412","1,600"
+The Name of the Rose,Umberto Eco, 4.13," 344,072","141,735","1,645"
+The Count of Monte Cristo,Alexandre Dumas, 4.28," 857,539","141,136","1,615"
+"The Lion, the Witch and the Wardrobe (Chronicles of Narnia, #1)",C.S. Lewis, 4.23," 2,584,849","138,933","1,713"
+"The Godfather (The Godfather, #1)",Mario Puzo, 4.38," 392,027","138,401","1,630"
+Where the Red Fern Grows,Wilson Rawls, 4.10," 384,718","137,473","1,600"
+In Cold Blood,Truman Capote, 4.08," 614,336","135,212","1,603"
+The Scarlet Letter,Nathaniel Hawthorne, 3.43," 816,192","133,926","1,666"
+"Holes (Holes, #1)",Louis Sachar, 3.99," 1,126,167","132,420","1,575"
+Fight Club,Chuck Palahniuk, 4.19," 555,776","131,568","1,516"
+The Five People You Meet in Heaven,Mitch Albom, 3.97," 671,617","130,569","1,501"
+Perfume: The Story of a Murderer,Patrick Süskind, 4.03," 416,816","130,232","1,482"
+"American Gods (American Gods, #1)",Neil Gaiman, 4.11," 872,370","127,609","1,447"
+"The Cat in the Hat (The Cat in the Hat, #1)",Dr. Seuss, 4.18," 509,618","126,461","1,557"
+"Hush, Hush (Hush, Hush, #1)",Becca Fitzpatrick, 3.93," 671,350","126,111","1,395"
+Watchmen,Alan Moore, 4.37," 534,191","124,066","1,405"
+The Divine Comedy,Dante Alighieri, 4.07," 140,536","123,566","1,461"
+"Lonesome Dove (Lonesome Dove, #1)",Larry McMurtry, 4.51," 173,812","123,206","1,384"
+"The Little House Collection (Little House, #1-9)",Laura Ingalls Wilder, 4.35," 149,638","121,680","1,440"
+All Quiet on the Western Front,Erich Maria Remarque, 4.04," 415,766","120,629","1,412"
+Peter Pan,J.M. Barrie, 4.04," 326,507","120,161","1,488"
+The Addiction Manifesto,Jerry Weaver, 4.88," 1,056","115,064","1,151"
+"Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",Terry Pratchett, 4.25," 669,102","112,577","1,276"
+Love in the Time of Cholera,Gabriel García Márquez, 3.93," 474,572","111,427","1,326"
+"Insurgent (Divergent, #2)",Veronica Roth, 3.99," 1,398,610","110,598","1,261"
+A Walk to Remember,Nicholas Sparks, 4.19," 774,502","109,641","1,279"
+The Thorn Birds,Colleen McCullough, 4.24," 338,837","108,568","1,313"
+The Compleat Works of Wllm Shkspr,Adam Long, 4.46," 8,667","108,483","1,248"
+"Shadow Kiss (Vampire Academy, #3)",Richelle Mead, 4.34," 353,236","107,032","1,191"
+"The Battle of the Labyrinth (Percy Jackson and the Olympians, #4)",Rick Riordan, 4.41," 954,762","104,166","1,221"
+How the Grinch Stole Christmas!,Dr. Seuss, 4.37," 389,560","103,987","1,338"
+"The Ultimate Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1-5)",Douglas Adams, 4.38," 311,487","103,681","1,220"
+The Importance of Being Earnest,Oscar Wilde, 4.18," 346,761","102,997","1,277"
+Their Eyes Were Watching God,Zora Neale Hurston, 3.97," 317,388","102,936","1,188"
+"Clockwork Princess (The Infernal Devices, #3)",Cassandra Clare, 4.56," 416,212","102,161","1,137"
+"Eat, Pray, Love",Elizabeth Gilbert, 3.61," 1,664,477","102,066","1,180"
+"The Wonderful Wizard of Oz (Oz, #1)",L. Frank Baum, 3.99," 427,685","101,850","1,324"
+"The Titan's Curse (Percy Jackson and the Olympians, #3)",Rick Riordan, 4.36," 914,007","101,603","1,211"
+Atonement,Ian McEwan, 3.93," 493,052","101,586","1,215"
+"The Three Musketeers (The D'Artagnan Romances, #1)",Alexandre Dumas, 4.09," 307,680","100,593","1,259"
+"The Sea of Monsters (Percy Jackson and the Olympians, #2)",Rick Riordan, 4.24," 1,008,438","98,429","1,174"
+The Lorax,Dr. Seuss, 4.34," 326,578","98,105","1,198"
+Goodnight Moon,Margaret Wise Brown, 4.30," 355,261","98,090","1,220"
+"Frostbite (Vampire Academy, #2)",Richelle Mead, 4.26," 341,155","96,377","1,096"
+A Midsummer Night's Dream,William Shakespeare, 3.95," 508,648","95,782","1,251"
+Tess of the D’Urbervilles,Thomas Hardy, 3.82," 269,110","93,161","1,140"
+"The Maze Runner (The Maze Runner, #1)",James Dashner, 4.04," 1,376,203","93,019","1,072"
+Heart of Darkness,Joseph Conrad, 3.43," 479,815","91,753","1,135"
+"Blood Promise (Vampire Academy, #4)",Richelle Mead, 4.31," 301,754","91,108","1,040"
+The Prophet,Kahlil Gibran, 4.23," 278,459","90,496","1,088"
+"The Hunger Games Trilogy Boxset (The Hunger Games, #1-3)",Suzanne Collins, 4.49," 210,119","90,317","1,063"
+"The Good Earth (House of Earth, #1)",Pearl S. Buck, 4.00," 240,990","89,822","1,093"
+Bridge to Terabithia,Katherine Paterson, 4.03," 515,096","89,227","1,121"
+The Haunting of Hill House,Shirley Jackson, 3.83," 250,522","87,766",926
+The Call of the Wild,Jack London, 3.89," 400,070","87,560","1,138"
+"Six of Crows (Six of Crows, #1)",Leigh Bardugo, 4.49," 759,076","87,141",934
+Alice in Wonderland,Jane Carruth, 4.03," 385,136","86,851","1,130"
+The Joy Luck Club,Amy Tan, 3.95," 649,562","86,719","1,085"
+"The Mists of Avalon (Avalon, #1)",Marion Zimmer Bradley, 4.13," 201,549","86,139","1,021"
+The Phantom Tollbooth,Norton Juster, 4.19," 273,355","85,938","1,010"
+"Catching Fire (The Hunger Games, #2)",Suzanne Collins, 4.31," 3,168,216","85,556","1,027"
+"Murder on the Orient Express (Hercule Poirot, #9)",Agatha Christie, 4.20," 541,729","85,263","1,087"
+Madame Bovary,Gustave Flaubert, 3.70," 307,326","85,213","1,065"
+"Throne of Glass (Throne of Glass, #1)",Sarah J. Maas, 4.19," 967,072","85,114",940
+"Oh, the Places You'll Go!",Dr. Seuss, 4.36," 383,924","85,065","1,080"
+Jonathan Livingston Seagull,Richard Bach, 3.85," 237,057","84,318","1,029"
+Oliver Twist,Charles Dickens, 3.88," 365,949","84,293","1,134"
+Treasure Island,Robert Louis Stevenson, 3.84," 459,222","83,217","1,116"
+"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris, 4.23," 523,755","82,944","1,013"
+"The Girl Who Played with Fire (Millennium, #2)",Stieg Larsson, 4.25," 885,991","82,690","1,027"
+The Neverending Story,Michael Ende, 4.18," 189,135","82,656","1,006"
+Ulysses,James Joyce, 3.75," 121,523","81,791",972
+The Night Circus,Erin Morgenstern, 4.03," 877,113","80,087",906
+"Fifty Shades of Grey (Fifty Shades, #1)",E.L. James, 3.66," 2,399,301","80,020",903
+"The Selection (The Selection, #1)",Kiera Cass, 4.09," 1,371,457","79,734",900
+"A Storm of Swords (A Song of Ice and Fire, #3)",George R.R. Martin, 4.54," 736,083","79,541",923
+"The Clan of the Cave Bear (Earth's Children, #1)",Jean M. Auel, 4.08," 255,345","78,349",966
+The Boy in the Striped Pajamas,John Boyne, 4.15," 725,875","76,850",947
+A Farewell to Arms,Ernest Hemingway, 3.81," 300,894","76,765",982
+The Canterbury Tales,Geoffrey Chaucer, 3.52," 211,755","76,357","1,017"
+The World According to Garp,John Irving, 4.10," 220,687","76,187",946
+"Jurassic Park (Jurassic Park, #1)",Michael Crichton, 4.08," 904,451","75,541",936
+David Copperfield,Charles Dickens, 4.02," 222,845","75,141",988
+The Secret History,Donna Tartt, 4.17," 540,623","74,690",836
+Beloved,Toni Morrison, 3.93," 396,894","74,285",915
+Thirteen Reasons Why,Jay Asher, 3.86," 918,176","73,937",849
+A Little Princess,Frances Hodgson Burnett, 4.21," 294,915","73,261",928
+Misery,Stephen King, 4.20," 624,678","73,225",901
+"Wicked: The Life and Times of the Wicked Witch of the West (The Wicked Years, #1)",Gregory Maguire, 3.54," 587,589","72,303",877
+"The Lost Hero (The Heroes of Olympus, #1)",Rick Riordan, 4.32," 766,946","72,192",869
+His Dark Materials (His Dark Materials #1-3),Philip Pullman, 4.28," 156,094","72,081",842
+The Diary of a Young Girl,Anne Frank, 4.18," 3,436,622","71,283",899
+Shōgun,James Clavell, 4.40," 166,590","70,915",867
+Schindler's List,Thomas Keneally, 4.34," 156,135","70,882",931
+"A Court of Mist and Fury (A Court of Thorns and Roses, #2)",Sarah J. Maas, 4.63," 960,994","70,169",751
+Extremely Loud &amp; Incredibly Close,Jonathan Safran Foer, 3.97," 408,721","69,636",796
+The Green Mile,Stephen King, 4.47," 293,583","68,904",859
+A Story of Yesterday,Sergio Cobo, 4.59," 10,435","68,800",688
+"The Other Boleyn Girl (The Plantagenet and Tudor Novels, #9)",Philippa Gregory, 4.08," 485,430","68,350",839
+The Silmarillion,J.R.R. Tolkien, 3.98," 263,790","68,270",822
+The Velveteen Rabbit,Margery Williams Bianco, 4.29," 249,196","67,939",906
+The Trial,Franz Kafka, 3.96," 286,962","67,698",829
+"The Chain Between Worlds (The Lost Artefacts, #1)",Johnathon Nicolaou, 4.68, 858,"67,384",674
+"Clockwork Prince (The Infernal Devices, #2)",Cassandra Clare, 4.43," 522,453","67,276",792
+"Last Sacrifice (Vampire Academy, #6)",Richelle Mead, 4.38," 277,729","66,702",784
+"Fallen (Fallen, #1)",Lauren Kate, 3.72," 560,618","66,575",771
+The Iliad / The Odyssey,Homer, 4.06," 71,717","66,298",873
+A Confederacy of Dunces,Walker Percy, 3.88," 261,057","65,468",756
+The Secret Magdalene,Ki Longfellow, 4.16," 4,424","65,375",671
+The Sun Also Rises,Ernest Hemingway, 3.80," 414,274","65,124",831
+The Song of Achilles,Madeline Miller, 4.37," 1,088,338","64,984",691
+"Cinder (The Lunar Chronicles, #1)",Marissa Meyer, 4.13," 853,043","64,805",745
+The Crucible,Arthur  Miller, 3.60," 381,572","63,400",843
+Man's Search for Meaning,Viktor E. Frankl, 4.37," 606,354","63,019",735
+Cat's Cradle,Kurt Vonnegut Jr., 4.16," 379,708","62,202",760
+The Screwtape Letters,C.S. Lewis, 4.25," 405,192","62,032",760
+"Spirit Bound (Vampire Academy, #5)",Richelle Mead, 4.33," 284,156","61,918",734
+"City of Fallen Angels (The Mortal Instruments, #4)",Cassandra Clare, 4.09," 567,981","61,625",762
+The God of Small Things,Arundhati Roy, 3.95," 279,819","61,499",723
+The Wind in the Willows,Kenneth Grahame, 4.00," 203,124","61,027",811
+A Light in the Attic,Shel Silverstein, 4.35," 424,783","60,562",804
+The Hiding Place: The Triumphant True Story of Corrie Ten Boom,Corrie ten Boom, 4.45," 301,460","60,333",723
+The Phantom of the Opera,Gaston Leroux, 3.96," 225,237","59,837",761
+Girl with a Pearl Earring,Tracy Chevalier, 3.92," 706,143","59,521",776
+Gone Girl,Gillian Flynn, 4.12," 2,830,438","59,068",709
+Blindness,José Saramago, 4.16," 259,539","58,826",681
+"Howl’s Moving Castle (Howl’s Moving Castle, #1)",Diana Wynne Jones, 4.29," 296,035","58,370",691
+"Uglies (Uglies, #1)",Scott Westerfeld, 3.85," 631,567","57,927",692
+"Ella Enchanted (Ella Enchanted, #1)",Gail Carson Levine, 4.00," 404,399","57,697",718
+The Wind-Up Bird Chronicle,Haruki Murakami, 4.15," 260,733","57,430",645
+"A Clash of Kings  (A Song of Ice and Fire, #2)",George R.R. Martin, 4.41," 880,278","57,293",705
+She's Come Undone,Wally Lamb, 3.90," 336,588","57,065",692
+Marley and Me: Life and Love With the World's Worst Dog,John Grogan, 4.14," 462,779","56,752",712
+"Shiver (The Wolves of Mercy Falls, #1)",Maggie Stiefvater, 3.76," 467,756","56,479",658
+The House of the Spirits,Isabel Allende, 4.27," 238,831","55,467",695
+The Guernsey Literary and Potato Peel Pie Society,Mary Ann Shaffer, 4.18," 710,798","55,330",678
+The Shack,William Paul Young, 3.81," 613,088","54,813",651
+The Sound and the Fury,William Faulkner, 3.86," 173,509","54,811",685
+Fear and Loathing in Las Vegas,Hunter S. Thompson, 4.07," 331,346","54,212",655
+For Whom the Bell Tolls,Ernest Hemingway, 3.98," 277,730","54,180",740
+"Marked (House of Night, #1)",P.C. Cast, 3.81," 473,782","53,600",633
+The Complete Calvin and Hobbes,Bill Watterson, 4.80," 38,751","53,581",670
+Roots: The Saga of an American Family,Alex Haley, 4.44," 156,366","52,618",692
+Norwegian Wood,Haruki Murakami, 4.03," 516,507","52,463",600
+Stranger in a Strange Land,Robert A. Heinlein, 3.92," 301,122","52,442",653
+Speak,Laurie Halse Anderson, 4.04," 558,441","52,419",642
+Island of the Blue Dolphins,Scott O&#39;Dell, 3.86," 320,141","51,720",669
+Paper Towns,John Green, 3.73," 1,238,570","51,611",608
+"The Girl Who Kicked the Hornet's Nest (Millennium, #3)",Stieg Larsson, 4.23," 706,454","51,197",658
+Othello,William Shakespeare, 3.89," 364,535","51,148",734
+Blood River: A Journey to Africa's Broken Heart,Tim Butcher, 3.97," 11,077","50,874",515
+Into the Wild,Jon Krakauer, 4.00," 1,027,564","50,290",637
+The Idiot,Fyodor Dostoevsky, 4.20," 163,488","50,259",638
+"Beautiful Disaster (Beautiful, #1)",Jamie McGuire, 4.04," 640,220","50,169",566
+"Inkheart (Inkworld, #1)",Anthea Bell, 3.91," 406,686","50,132",633
+King Lear,William Shakespeare, 3.91," 205,745","49,984",683
+Kafka on the Shore,Haruki Murakami, 4.14," 414,057","49,938",566
+"Delirium (Delirium, #1)",Lauren Oliver, 3.96," 454,392","49,890",574
+White Oleander,Janet Fitch, 3.98," 343,333","49,548",618
+"Neverwhere (London Below, #1)",Neil Gaiman, 4.17," 495,051","49,406",603
+"Mockingjay (The Hunger Games, #3)",Suzanne Collins, 4.07," 2,890,463","49,097",624
+Uncle Tom's Cabin,Harriet Beecher Stowe, 3.90," 217,245","48,988",679
+The Complete Sherlock Holmes,Arthur Conan Doyle, 4.50," 192,448","48,940",636
+"The Vampire Lestat (The Vampire Chronicles, #2)",Anne Rice, 4.09," 191,377","48,922",627
+Midnight Sun [2008 Draft],Stephenie Meyer, 4.01," 148,488","48,741",572
+Different Seasons,Stephen King, 4.35," 194,998","48,563",638
+Invisible Man,Ralph Ellison, 3.90," 177,468","48,517",606
+The Once and Future King,T.H. White, 4.07," 105,339","47,946",598
+I Know This Much Is True,Wally Lamb, 4.20," 304,924","47,945",572
+"All Creatures Great and Small (All Creatures Great and Small, #1-2)",James Herriot, 4.33," 138,129","47,822",630
+Flow Down Like Silver: Hypatia of Alexandria,Ki Longfellow, 3.98," 4,584","47,789",494
+The Lord of the Rings,J.R.R. Tolkien, 4.52," 638,013","47,789",573
+The Historian,Elizabeth Kostova, 3.79," 257,779","46,689",561
+"Lamb: The Gospel According to Biff, Christ's Childhood Pal",Christopher Moore, 4.23," 167,731","46,600",521
+The Things They Carried,Tim O&#39;Brien, 4.14," 290,701","46,558",567
+Paradise Lost,John Milton, 3.83," 155,701","46,414",624
+Candide,Voltaire, 3.76," 259,527","46,315",609
+"Foundation (Foundation, #1)",Isaac Asimov, 4.17," 498,475","46,301",565
+The Complete Works,William Shakespeare, 4.47," 54,826","45,972",597
+The Thirteenth Tale,Diane Setterfield, 3.97," 302,513","45,817",554
+James and the Giant Peach,Roald Dahl, 4.02," 445,527","45,703",645
+Never Let Me Go,Kazuo Ishiguro, 3.84," 612,854","45,627",553
+The Time Machine,H.G. Wells, 3.90," 485,417","45,059",634
+Leaves of Grass,Walt Whitman, 4.11," 97,237","44,911",609
+Heidi,Johanna Spyri, 4.01," 190,619","44,819",625
+"Graceling (Graceling Realm, #1)",Kristin Cashore, 4.07," 438,742","44,347",525
+"The Way of Kings (The Stormlight Archive, #1)",Brandon Sanderson, 4.65," 413,911","44,333",467
+"The Wise Man's Fear (The Kingkiller Chronicle, #2)",Patrick Rothfuss, 4.55," 511,473","44,092",487
+"City of Lost Souls (The Mortal Instruments, #5)",Cassandra Clare, 4.23," 501,173","44,040",548
+The Cider House Rules,John Irving, 4.15," 177,099","43,926",591
+"The Son of Neptune (The Heroes of Olympus, #2)",Rick Riordan, 4.42," 524,763","43,716",550
+"Ready Player One (Ready Player One, #1)",Ernest Cline, 4.24," 1,070,547","43,680",490
+"Are You There God? It's Me, Margaret",Judy Blume, 3.92," 204,678","42,804",574
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid, 4.46," 1,905,845","42,475",448
+Walden,Henry David Thoreau, 3.78," 179,302","42,216",568
+"The Mark of Athena (The Heroes of Olympus, #3)",Rick Riordan, 4.47," 541,717","42,058",516
+Sophie's World,Jostein Gaarder, 3.96," 242,744","42,037",509
+"Wonder (Wonder, #1)",R.J. Palacio, 4.38," 999,037","42,001",489
+Fangirl,Rainbow Rowell, 3.97," 709,608","41,793",482
+"Me Before You (Me Before You, #1)",Jojo Moyes, 4.26," 1,485,664","40,710",471
+Mrs. Dalloway,Virginia Woolf, 3.79," 274,138","40,354",527
+The Awakening,Kate Chopin, 3.67," 194,346","40,307",514
+Fried Green Tomatoes at the Whistle Stop Cafe,Fannie Flagg, 4.28," 293,236","39,891",554
+"The Final Empire (Mistborn, #1)",Brandon Sanderson, 4.47," 564,483","39,767",436
+Sophie's Choice,William Styron, 4.18," 87,997","39,742",541
+"Legend (Legend, #1)",Marie Lu, 4.16," 496,636","39,667",451
+'Salem's Lot,Stephen King, 4.05," 410,371","39,648",507
+"Crooked Kingdom (Six of Crows, #2)",Leigh Bardugo, 4.61," 511,024","39,424",425
+The Prince of Tides,Pat Conroy, 4.25," 203,623","38,952",513
+East of Eden,John Steinbeck, 4.40," 496,663","38,780",462
+Middlemarch,George Eliot, 4.00," 152,883","38,752",484
+"Fifty Shades Darker (Fifty Shades, #2)",E.L. James, 3.83," 852,884","38,586",457
+"The Hound of the Baskervilles (Sherlock Holmes, #5)",Arthur Conan Doyle, 4.13," 318,256","38,567",531
+"Dead Until Dark (Sookie Stackhouse, #1)",Charlaine Harris, 3.96," 525,010","38,312",485
+"Things Fall Apart (The African Trilogy, #1)",Chinua Achebe, 3.72," 342,774","38,083",494
+Do Androids Dream of Electric Sheep?,Philip K. Dick, 4.09," 413,464","38,031",489
+Stardust,Neil Gaiman, 4.10," 420,357","37,917",493
+The Monster at the End of this Book,Jon Stone, 4.45," 123,396","37,778",468
+Eleanor &amp; Park,Rainbow Rowell, 3.96," 1,096,277","37,297",436
+The Martian,Andy Weir, 4.41," 1,019,179","37,245",438
+"Bridget Jones's Diary (Bridget Jones, #1)",Helen Fielding, 3.80," 947,152","37,186",512
+"The Magician's Nephew (Chronicles of Narnia, #6)",C.S. Lewis, 4.05," 498,304","37,158",518
+"A Time to Kill (Jake Brigance, #1)",John Grisham, 4.10," 778,593","37,027",501
+Hamlet,William Shakespeare, 4.03," 877,938","36,801",464
+Black Beauty,Anna Sewell, 3.98," 265,583","36,730",531
+Franny and Zooey,J.D. Salinger, 3.97," 208,843","36,693",470
+V for Vendetta,Alan Moore, 4.26," 297,610","36,512",476
+The Complete Maus,Art Spiegelman, 4.56," 194,200","36,380",465
+Number the Stars,Lois Lowry, 4.18," 529,848","36,245",481
+"The Power of One (The Power of One, #1)",Bryce Courtenay, 4.34," 85,544","36,190",415
+A Short History of Nearly Everything,Bill Bryson, 4.21," 361,680","36,175",437
+"Shatter Me (Shatter Me, #1)",Tahereh Mafi, 3.90," 602,610","36,110",410
+The Art of Racing in the Rain,Garth Stein, 4.22," 495,770","36,054",427
+The Graveyard Book,Neil Gaiman, 4.15," 505,755","35,930",459
+"If I Stay (If I Stay, #1)",Gayle Forman, 3.93," 847,694","35,853",434
+The Witches,Roald Dahl, 4.17," 373,564","35,795",478
+"The Gunslinger (The Dark Tower, #1)",Stephen King, 3.93," 574,571","35,652",439
+"Allegiant (Divergent, #3)",Veronica Roth, 3.61," 982,368","35,441",439
+Love You Forever,Robert Munsch, 4.37," 227,888","35,316",449
+White Fang,Jack London, 4.01," 178,000","35,161",498
+The Complete Novels,Jane Austen, 4.57," 32,102","35,123",472
+"A Court of Thorns and Roses (A Court of Thorns and Roses, #1)",Sarah J. Maas, 4.20," 1,339,676","35,057",402
+Gulliver's Travels: Travels into Several Remote Nations of the World.,Jonathan Swift, 3.58," 260,947","34,920",533
+Beowulf,Unknown, 3.47," 284,752","34,545",494
+American Psycho,Bret Easton Ellis, 3.82," 282,208","34,544",416
+All the Light We Cannot See,Anthony Doerr, 4.32," 1,410,207","34,490",402
+A Portrait of the Artist as a Young Man,James Joyce, 3.63," 143,397","34,384",454
+Bel Canto,Ann Patchett, 3.93," 267,566","34,229",416
+القرآن الكريم,Anonymous, 4.38," 64,828","34,123",384
+"Fifty Shades Freed (Fifty Shades, #3)",E.L. James, 3.84," 808,860","34,035",406
+Tuck Everlasting,Natalie Babbitt, 3.89," 260,142","33,732",460
+"The Eye of the World (The Wheel of Time, #1)",Robert Jordan, 4.19," 491,545","33,458",389
+Cold Mountain,Charles Frazier, 3.88," 236,276","32,918",450
+Go Ask Alice,Beatrice Sparks, 3.75," 262,834","32,736",439
+The Tell-Tale Heart and Other Writings,Edgar Allan Poe, 4.19," 235,840","32,712",479
+As I Lay Dying,William Faulkner, 3.72," 156,165","32,578",436
+"Dark Lover (Black Dagger Brotherhood, #1)",J.R. Ward, 4.16," 323,946","32,494",382
+A Separate Peace,John Knowles, 3.59," 209,639","32,324",438
+"Harry Potter Series Box Set (Harry Potter, #1-7)",J.K. Rowling, 4.74," 276,502","32,290",390
+"Beautiful Creatures (Caster Chronicles, #1)",Kami Garcia, 3.77," 581,826","32,283",400
+"Eldest (The Inheritance Cycle, #2)",Christopher Paolini, 4.01," 410,743","32,067",413
+Cloud Atlas,David Mitchell, 4.01," 238,433","31,833",384
+The Martian Chronicles,Ray Bradbury, 4.15," 245,873","31,736",422
+Mansfield Park,Jane Austen, 3.86," 327,585","31,602",449
+"A Child Called &quot;It&quot; (Dave Pelzer, #1)",Dave Pelzer, 4.12," 415,352","31,549",410
+Tao Te Ching,Lao Tzu, 4.30," 144,137","31,502",400
+Steppenwolf,Hermann Hesse, 4.13," 168,002","31,494",400
+Notre-Dame de Paris | The Hunchback of Notre-Dame,Victor Hugo, 4.01," 190,715","31,453",450
+"Obsidian (Lux, #1)",Jennifer L. Armentrout, 4.15," 270,523","31,237",353
+"Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante, #1)",Benjamin Alire Sáenz, 4.34," 513,548","31,191",338
+"Brisingr (The Inheritance Cycle, #3)",Christopher Paolini, 4.08," 346,009","31,154",405
+زندگی مه آلود پریا,سید مرتضی مصطفوی, 3.27, 988,"31,007",312
+The Amazing Adventures of Kavalier &amp; Clay,Michael Chabon, 4.18," 196,459","30,644",376
+Inferno,Dante Alighieri, 4.02," 167,293","30,587",417
+11/22/63,Stephen King, 4.32," 495,215","30,372",366
+"Robinson Crusoe (Robinson Crusoe, #1)",Daniel Defoe, 3.68," 286,825","30,245",451
+"Stargirl (Stargirl, #1)",Jerry Spinelli, 3.77," 318,380","30,153",364
+Dear John,Nicholas Sparks, 4.04," 582,640","30,043",385
+"Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values (Phaedrus, #1)",Robert M. Pirsig, 3.78," 220,624","30,009",380
+Midnight's Children,Salman Rushdie, 3.98," 116,860","29,956",365
+The English Patient,Michael Ondaatje, 3.87," 126,238","29,932",410
+"The Amber Spyglass (His Dark Materials, #3)",Philip Pullman, 4.10," 342,352","29,932",386
+The Firm,Robin Waterfield, 4.05," 608,837","29,878",436
+Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson, 3.83," 511,767","29,806",431
+The BFG,Roald Dahl, 4.22," 451,418","29,751",401
+The Last Song,Nicholas Sparks, 4.16," 540,778","29,720",366
+Doctor Zhivago,Boris Pasternak, 4.01," 92,192","29,687",447
+Room,Emma Donoghue, 4.07," 777,616","29,680",367
+War and Peace,Leo Tolstoy, 4.15," 306,315","29,455",360
+The Grapes of Wrath,John Steinbeck, 4.00," 854,835","29,175",387
+"City of Heavenly Fire (The Mortal Instruments, #6)",Cassandra Clare, 4.40," 357,180","29,171",364
+"Crescendo (Hush, Hush, #2)",Becca Fitzpatrick, 3.99," 310,780","29,062",359
+"The House of Hades (The Heroes of Olympus, #4)",Rick Riordan, 4.56," 359,133","28,978",360
+The Plague,Albert Camus, 4.02," 231,645","28,779",390
+"My Ántonia (Great Plains Trilogy, #3)",Willa Cather, 3.82," 131,047","28,721",391
+"It Ends with Us (It Ends with Us, #1)",Colleen Hoover, 4.30," 2,170,049","28,687",308
+Like Water for Chocolate,Laura Esquivel, 3.95," 351,507","28,520",404
+The Remains of the Day,Kazuo Ishiguro, 4.14," 267,112","28,433",393
+Breakfast of Champions,Kurt Vonnegut Jr., 4.07," 247,334","28,212",356
+"Dragonfly in Amber (Outlander, #2)",Diana Gabaldon, 4.33," 333,073","28,101",355
+Breakfast at Tiffany's and Three Stories,Truman Capote, 3.86," 246,774","27,821",390
+"Flowers in the Attic (Dollanganger, #1)",V.C. Andrews, 3.84," 194,862","27,742",363
+The Origin of Species,Charles Darwin, 4.00," 109,833","27,696",380
+A Fine Balance,Rohinton Mistry, 4.37," 142,556","27,614",329
+Midnight in the Garden of Good and Evil,John Berendt, 3.92," 254,392","27,605",389
+"The Subtle Knife (His Dark Materials, #2)",Philip Pullman, 4.14," 416,064","27,602",370
+"Heir of Fire (Throne of Glass, #3)",Sarah J. Maas, 4.46," 517,014","27,518",319
+A Streetcar Named Desire,Tennessee Williams, 3.98," 293,877","27,312",415
+The Prince,Niccolò Machiavelli, 3.83," 310,394","26,986",378
+"Hopeless (Hopeless, #1)",Colleen Hoover, 4.28," 426,611","26,944",302
+"Daughter of Smoke &amp; Bone (Daughter of Smoke &amp; Bone, #1)",Laini Taylor, 4.00," 354,714","26,771",316
+"Miss Peregrine's Home for Peculiar Children (Miss Peregrine's Peculiar Children, #1)",Ransom Riggs, 3.92," 1,182,593","26,698",335
+Death of a Salesman,Arthur  Miller, 3.56," 217,827","26,677",413
+Infinite Jest,David Foster Wallace, 4.26," 85,935","26,531",291
+"Evermore (The Immortals, #1)",Alyson Noel, 3.59," 283,445","26,194",317
+"Unbroken: A World War II Story of Survival, Resilience and Redemption",Laura Hillenbrand, 4.37," 888,718","26,161",315
+"Blood Meridian, or the Evening Redness in the West",Cormac McCarthy, 4.16," 134,106","26,101",302
+"A Feast for Crows (A Song of Ice and Fire, #4)",George R.R. Martin, 4.15," 692,483","25,796",338
+Snow Flower and the Secret Fan,Lisa See, 4.08," 362,148","25,662",327
+"Crown of Midnight (Throne of Glass, #2)",Sarah J. Maas, 4.36," 603,602","25,453",304
+"Pippi Longstocking (Pippi Långstrump, #1)",Astrid Lindgren, 4.15," 189,441","25,364",369
+Jonathan Strange &amp; Mr Norrell,Susanna Clarke, 3.85," 224,797","25,352",312
+"Matched (Matched, #1)",Ally Condie, 3.63," 742,731","25,206",315
+"The One (The Selection, #3)",Kiera Cass, 4.17," 603,548","25,177",297
+The Virgin Suicides,Jeffrey Eugenides, 3.83," 282,492","25,160",326
+"Anna and the French Kiss (Anna and the French Kiss, #1)",Stephanie Perkins, 3.98," 435,909","25,155",292
+"The Angel Experiment (Maximum Ride, #1)",James Patterson, 4.07," 219,042","25,082",308
+The Scarlet Pimpernel,Emmuska Orczy, 4.07," 131,240","25,021",324
+"Faust, First Part",Johann Wolfgang von Goethe, 3.88," 70,510","24,911",335
+The Shipping News,Annie Proulx, 3.87," 140,745","24,682",338
+"Artemis Fowl (Artemis Fowl, #1)",Eoin Colfer, 3.86," 534,132","24,663",321
+High Fidelity,Nick Hornby, 3.92," 192,016","24,569",306
+"The Host (The Host, #1)",Stephenie Meyer, 3.85," 971,889","24,437",303
+Coraline,Neil Gaiman, 4.10," 617,790","24,414",322
+"The Chosen (Reuven Malther, #1)",Chaim Potok, 4.06," 90,429","24,380",330
+Houdini Heart,Ki Longfellow, 3.82," 5,686","24,357",252
+The Tales of Beedle the Bard,J.K. Rowling, 4.05," 466,606","24,240",348
+"I Know Why the Caged Bird Sings (Maya Angelou's Autobiography, #1)",Maya Angelou, 4.28," 494,365","24,207",341
+Carrie,Stephen King, 3.98," 649,995","24,195",342
+"Red Queen (Red Queen, #1)",Victoria Aveyard, 4.02," 875,265","24,154",274
+Shantaram,Gregory David Roberts, 4.27," 199,016","23,917",271
+"The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America",Erik Larson, 4.00," 631,099","23,882",312
+Northanger Abbey,Jane Austen, 3.84," 366,654","23,781",347
+All the Bright Places,Jennifer Niven, 4.14," 498,447","23,745",258
+Nineteen Minutes,Jodi Picoult, 4.15," 343,876","23,599",297
+Waiting for Godot,Samuel Beckett, 3.84," 187,605","23,569",314
+The Reader,Bernhard Schlink, 3.77," 196,515","23,433",332
+Redeeming Love,Francine Rivers, 4.50," 286,085","23,055",262
+Pet Sematary,Stephen King, 4.04," 531,960","22,894",307
+"Neuromancer (Sprawl, #1)",William Gibson, 3.90," 304,080","22,859",285
+To the Lighthouse,Virginia Woolf, 3.80," 164,220","22,743",307
+"The Voyage of the Dawn Treader (Chronicles of Narnia, #3)",C.S. Lewis, 4.09," 443,802","22,734",329
+The Age of Innocence,Edith Wharton, 3.96," 161,334","22,693",318
+"The Lost Symbol (Robert Langdon, #3)",Dan Brown, 3.74," 582,296","22,482",291
+Dubliners,James Joyce, 3.85," 143,684","22,343",315
+The Exorcist,William Peter Blatty, 4.19," 215,281","22,035",313
+We Were Liars,E. Lockhart, 3.71," 987,504","22,016",245
+The Waste Land,T.S. Eliot, 4.10," 50,450","21,959",305
+"I, Robot (Robot, #0.1)",Isaac Asimov, 4.21," 324,416","21,954",305
+"Ignite Me (Shatter Me, #3)",Tahereh Mafi, 4.46," 308,537","21,911",251
+"Betrayed (House of Night, #2)",P.C. Cast, 3.92," 258,487","21,851",285
+"Lover Awakened (Black Dagger Brotherhood, #3)",J.R. Ward, 4.44," 174,606","21,849",266
+"A Dance with Dragons (A Song of Ice and Fire, #5)",George R.R. Martin, 4.33," 617,335","21,719",288
+The Pearl,John Steinbeck, 3.51," 219,343","21,683",338
+Divine Secrets of the Ya-Ya Sisterhood,Rebecca Wells, 3.85," 547,119","21,604",318
+Persuasion,Jane Austen, 4.15," 641,190","21,410",273
+The Twilight Collection,Stephenie Meyer, 3.81," 45,631","21,135",270
+A Little Life,Hanya Yanagihara, 4.34," 426,388","21,036",221
+"Voyager (Outlander, #3)",Diana Gabaldon, 4.39," 290,703","21,017",269
+The Jungle,Upton Sinclair, 3.76," 139,179","21,008",292
+"Untamed (House of Night, #4)",P.C. Cast, 3.94," 228,778","20,937",272
+Everything is Illuminated,Jonathan Safran Foer, 3.89," 175,232","20,859",257
+"I, Claudius (Claudius, #1)",Robert Graves, 4.24," 62,771","20,762",281
+"The Cruel Prince (The Folk of the Air, #1)",Holly Black, 4.08," 833,368","20,660",229
+The Republic,Plato, 3.96," 192,429","20,658",306
+Me Talk Pretty One Day,David Sedaris, 4.00," 676,783","20,477",278
+"Queen of Shadows (Throne of Glass, #4)",Sarah J. Maas, 4.56," 450,976","20,472",237
+"The Return of the King (The Lord of the Rings, #3)",J.R.R. Tolkien, 4.55," 815,372","20,460",281
+A Room with a View,E.M. Forster, 3.90," 172,633","20,364",307
+"The Last Battle (Chronicles of Narnia, #7)",C.S. Lewis, 4.01," 257,377","20,276",298
+"The 5th Wave (The 5th Wave, #1)",Rick Yancey, 4.02," 438,538","20,260",246
+Snow Falling on Cedars,David Guterson, 3.85," 180,714","20,011",289
+Bleak House,Charles Dickens, 4.01," 105,060","19,935",278
+"Chosen (House of Night, #3)",P.C. Cast, 3.91," 236,684","19,696",258
+"City of Glass (The Mortal Instruments, #3)",Cassandra Clare, 4.29," 914,581","19,535",259
+The Elephant Tree,R.D. Ronald, 3.69," 26,572","19,297",217
+The God Delusion,Richard Dawkins, 3.90," 258,088","19,078",242
+A Christmas Carol,Charles Dickens, 4.07," 769,427","18,993",275
+Of Human Bondage,W. Somerset Maugham, 4.13," 54,304","18,992",264
+The Complete Poems of Emily Dickinson,Emily Dickinson, 4.26," 91,087","18,877",298
+The War of the Worlds,H.G. Wells, 3.83," 290,659","18,821",286
+World War Z: An Oral History of the Zombie War,Max Brooks, 4.02," 496,871","18,772",240
+North and South,Elizabeth Gaskell, 4.15," 160,844","18,733",245
+"Angels &amp; Demons (Robert Langdon, #1)",Dan Brown, 3.93," 3,046,813","18,709",244
+Brideshead Revisited,Evelyn Waugh, 4.01," 104,805","18,703",255
+"The Hate U Give (The Hate U Give, #1)",Angie Thomas, 4.49," 794,162","18,677",211
+"The Elite (The Selection, #2)",Kiera Cass, 3.96," 678,458","18,593",231
+The Goldfinch,Donna Tartt, 3.93," 852,866","18,591",218
+"Bloodlines (Bloodlines, #1)",Richelle Mead, 4.20," 181,210","18,524",236
+"A Discovery of Witches (All Souls, #1)",Deborah Harkness, 4.02," 455,213","18,503",219
+"The Raven Boys (The Raven Cycle, #1)",Maggie Stiefvater, 4.05," 339,864","18,437",214
+"The Iron King (The Iron Fey, #1)",Julie Kagawa, 3.88," 207,446","18,377",225
+Snow Crash,Neal Stephenson, 4.03," 265,339","18,333",215
+"The Witching Hour (Lives of the Mayfair Witches, #1)",Anne Rice, 4.11," 111,277","18,279",246
+"Wizard's First Rule (Sword of Truth, #1)",Terry Goodkind, 4.12," 241,189","18,255",220
+"Unwind (Unwind, #1)",Neal Shusterman, 4.17," 215,794","18,248",215
+The Woman in White,Wilkie Collins, 4.00," 146,199","18,239",262
+Vanity Fair,William Makepeace Thackeray, 3.80," 124,561","18,210",263
+"Torment (Fallen, #2)",Lauren Kate, 3.85," 227,743","18,021",233
+2001: A Space Odyssey,Arthur C. Clarke, 4.16," 295,817","18,020",245
+"Cry, the Beloved Country",Alan Paton, 3.91," 71,949","18,002",248
+Johnny Got His Gun,Dalton Trumbo, 4.19," 40,521","17,974",220
+انتحار فاشل,أحمد جمال الدين رمضان, 4.56," 2,434","17,850",181
+"Bared to You (Crossfire, #1)",Sylvia Day, 4.16," 505,760","17,812",209
+"A Great and Terrible Beauty (Gemma Doyle, #1)",Libba Bray, 3.79," 218,913","17,741",219
+"Cannery Row (Cannery Row, #1)",John Steinbeck, 4.05," 128,058","17,737",259
+العصبي,أحمد جمال الدين رمضان, 4.63," 2,114","17,655",179
+"The Bad Beginning (A Series of Unfortunate Events, #1)",Lemony Snicket, 3.99," 483,632","17,653",237
+"The Two Towers (The Lord of the Rings, #2)",J.R.R. Tolkien, 4.47," 872,811","17,632",249
+Where the Crawdads Sing,Delia Owens, 4.42," 2,396,169","17,407",195
+"Night  (The Night Trilogy, #1)",Elie Wiesel, 4.36," 1,153,426","17,402",220
+"Chocolat (Chocolat, #1)",Joanne Harris, 3.96," 121,692","17,327",260
+"The Mortal Instruments Boxed Set: City of Bones; City of Ashes; City of Glass (The Mortal Instruments, #1-3)",Cassandra Clare, 4.55," 67,490","17,318",221
+Are You My Mother?,P.D. Eastman, 4.20," 235,325","17,295",259
+"Red, White &amp; Royal Blue",Casey McQuiston, 4.13," 680,594","17,282",189
+"Halfway to the Grave (Night Huntress, #1)",Jeaniene Frost, 4.14," 152,534","17,278",207
+"The Summoning (Darkest Powers, #1)",Kelley Armstrong, 4.02," 167,789","17,273",216
+"Perfect Chemistry (Perfect Chemistry, #1)",Simone Elkeles, 4.05," 256,282","17,248",203
+The Polar Express,Chris Van Allsburg, 4.31," 232,682","17,157",272
+Far From the Madding Crowd,Thomas Hardy, 3.96," 144,162","17,124",249
+Three Cups of Tea: One Man's Mission to Promote Peace ... One School at a Time,Greg Mortenson, 3.66," 340,930","17,117",233
+Just Listen,Sarah Dessen, 4.05," 243,780","17,112",207
+Sarah's Key,Tatiana de Rosnay, 4.17," 459,198","17,027",223
+Much Ado About Nothing,William Shakespeare, 4.06," 234,072","17,026",256
+Sense and Sensibility,Jane Austen, 4.08," 1,115,967","17,017",242
+Into Thin Air: A Personal Account of the Mount Everest Disaster,Jon Krakauer, 4.22," 467,846","16,981",240
+Ugly Love,Colleen Hoover, 4.15," 1,204,078","16,802",186
+The Truth About Forever,Sarah Dessen, 4.12," 219,329","16,758",205
+"Ishmael (Ishmael, #1)",Daniel Quinn, 4.00," 92,481","16,724",202
+"The Darkest Minds (The Darkest Minds, #1)",Alexandra Bracken, 4.16," 179,133","16,694",192
+The Nightingale,Kristin Hannah, 4.60," 1,064,923","16,693",191
+"The Horse and His Boy (Chronicles of Narnia, #5)",C.S. Lewis, 3.91," 324,696","16,628",252
+"Little House on the Prairie (Little House, #3)",Laura Ingalls Wilder, 4.21," 281,110","16,575",263
+Emma,Jane Austen, 4.04," 808,787","16,514",225
+"Angelfall (Penryn &amp; the End of Days, #1)",Susan Ee, 4.12," 185,157","16,512",189
+"Hyperion (Hyperion Cantos, #1)",Dan Simmons, 4.25," 226,221","16,440",194
+Swann’s Way,Marcel Proust, 4.14," 55,437","16,425",209
+"Trainspotting (Mark Renton, #2)",Irvine Welsh, 4.09," 160,634","16,393",204
+Nine Stories,J.D. Salinger, 4.18," 142,566","16,386",218
+The Last Lecture,Randy Pausch, 4.26," 331,878","16,379",205
+"Silence (Hush, Hush, #3)",Becca Fitzpatrick, 4.08," 272,286","16,320",210
+"Sabriel (Abhorsen,  #1)",Garth Nix, 4.16," 200,653","16,316",201
+Circe,Madeline Miller, 4.25," 819,473","16,299",184
+Lady Chatterley's Lover,D.H. Lawrence, 3.50," 115,629","16,273",253
+"Acheron (Dark-Hunter, #14)",Sherrilyn Kenyon, 4.56," 58,121","16,258",188
+A Monster Calls,Patrick Ness, 4.35," 248,749","16,202",181
+Cutting for Stone,Abraham   Verghese, 4.30," 360,163","16,188",203
+"Dead to the World (Sookie Stackhouse, #4)",Charlaine Harris, 4.12," 253,247","16,132",218
+"I Am Number Four (Lorien Legacies, #1)",Pittacus Lore, 3.94," 333,818","16,120",207
+"The Unbecoming of Mara Dyer (Mara Dyer, #1)",Michelle Hodkin, 4.03," 170,694","16,087",184
+The Hours,Michael Cunningham, 3.95," 135,147","16,077",230
+I Capture the Castle,Dodie Smith, 4.00," 97,599","16,073",207
+"You Are Special (Wemmicksville, #1)",Max Lucado, 4.45," 51,813","16,070",190
+"Anne of Avonlea (Anne of Green Gables, #2)",L.M. Montgomery, 4.22," 180,619","16,065",253
+"Slammed (Slammed, #1)",Colleen Hoover, 4.21," 276,324","16,063",182
+"The Red Pyramid (The Kane Chronicles, #1)",Rick Riordan, 4.10," 371,977","16,055",216
+"A Court of Wings and Ruin (A Court of Thorns and Roses, #3)",Sarah J. Maas, 4.45," 772,360","16,042",183
+"The Bronze Horseman (The Bronze Horseman, #1)",Paullina Simons, 4.30," 80,376","16,010",176
+Twelfth Night,William Shakespeare, 3.97," 172,801","15,995",246
+"The Goose Girl (The Books of Bayern, #1)",Shannon Hale, 4.13," 140,276","15,917",197
+The Westing Game,Ellen Raskin, 4.01," 197,610","15,876",206
+"Little House in the Big Woods (Little House, #1)",Laura Ingalls Wilder, 4.20," 256,581","15,875",251
+The Zombie Room,R.D. Ronald, 3.74," 27,799","15,840",180
+No Country for Old Men,Cormac McCarthy, 4.14," 175,409","15,833",213
+Julius Caesar,William Shakespeare, 3.70," 192,080","15,780",251
+"Drums of Autumn (Outlander, #4)",Diana Gabaldon, 4.35," 235,792","15,728",200
+The Glass Menagerie,Tennessee Williams, 3.73," 127,044","15,702",260
+"P.S. I Love You (P.S. I Love You, #1)",Cecelia Ahern, 4.03," 369,588","15,586",201
+Demian: Die Geschichte von Emil Sinclairs Jugend,Hermann Hesse, 4.14," 98,426","15,584",192
+I'll Give You the Sun,Jandy Nelson, 4.16," 315,991","15,561",172
+"Speaker for the Dead (Ender's Saga, #2)",Orson Scott Card, 4.09," 243,439","15,542",197
+"The Last Unicorn (The Last Unicorn, #1)",Peter S. Beagle, 4.16," 103,213","15,406",196
+"Shadow and Bone (The Shadow and Bone Trilogy, #1)",Leigh Bardugo, 3.95," 821,345","15,370",187
+Macbeth,William Shakespeare, 3.90," 824,759","15,267",208
+"World Without End (Kingsbridge, #2)",Ken Follett, 4.29," 232,853","15,229",203
+"Words of Radiance (The Stormlight Archive, #2)",Brandon Sanderson, 4.75," 289,960","15,224",162
+Interpreter of Maladies,Jhumpa Lahiri, 4.17," 182,501","15,188",200
+The Arabian Nights,Anonymous, 4.05," 68,122","15,171",228
+The Art of War,Sun Tzu, 3.97," 433,873","15,137",209
+"Hunted (House of Night, #5)",P.C. Cast, 3.92," 176,297","15,093",199
+"The Talisman (The Talisman, #1)",Stephen King, 4.12," 121,649","15,035",201
+Cyrano de Bergerac,Edmond Rostand, 4.06," 80,709","15,025",217
+"Cress (The Lunar Chronicles, #3)",Marissa Meyer, 4.42," 339,536","15,019",182
+"The Bean Trees (Greer Family, #1)",Barbara Kingsolver, 3.99," 146,486","14,995",220
+We Need to Talk About Kevin,Lionel Shriver, 4.08," 184,276","14,989",186
+"A Dog's Purpose (A Dog's Purpose, #1)",W. Bruce Cameron, 4.35," 126,328","14,699",171
+All the King's Men,Robert Penn Warren, 4.08," 61,485","14,640",202
+"Scarlet (The Lunar Chronicles, #2)",Marissa Meyer, 4.25," 386,499","14,598",182
+"Wicked Lovely (Wicked Lovely, #1)",Melissa Marr, 3.69," 161,184","14,569",182
+"Empire of Storms (Throne of Glass, #5)",Sarah J. Maas, 4.57," 377,346","14,472",170
+"The Knife of Never Letting Go (Chaos Walking, #1)",Patrick Ness, 3.97," 185,606","14,465",165
+Before I Fall,Lauren Oliver, 3.89," 327,836","14,405",173
+"Lover Eternal (Black Dagger Brotherhood, #2)",J.R. Ward, 4.33," 186,857","14,382",183
+"The Silver Chair (Chronicles of Narnia, #4)",C.S. Lewis, 3.96," 277,274","14,345",223
+Invisible Monsters,Chuck Palahniuk, 3.99," 136,282","14,344",175
+One Day in the Life of Ivan Denisovich,Aleksandr Solzhenitsyn, 3.97," 106,168","14,308",208
+The Merchant of Venice,William Shakespeare, 3.79," 178,451","14,299",231
+Gravity's Rainbow,Thomas Pynchon, 4.00," 41,414","14,190",166
+Peace Like a River,Leif Enger, 4.00," 86,826","14,155",171
+"The Secret (The Secret, #1)",Rhonda Byrne, 3.72," 439,099","14,057",186
+I Am Legend and Other Stories,Richard Matheson, 4.00," 127,247","14,020",190
+The Invisible Life of Addie LaRue,V.E. Schwab, 4.22," 783,055","14,010",154
+A Brief History of Time,Stephen Hawking, 4.21," 397,471","13,947",200
+The Yellow Wallpaper and Other Stories,Charlotte Perkins Gilman, 4.05," 82,771","13,892",197
+"The Eyre Affair (Thursday Next, #1)",Jasper Fforde, 3.88," 128,970","13,857",176
+"A Wizard of Earthsea (Earthsea Cycle, #1)",Ursula K. Le Guin, 4.01," 288,418","13,853",186
+"The Scorch Trials (The Maze Runner, #2)",James Dashner, 3.90," 538,421","13,840",177
+"The Queen of the Damned (The Vampire Chronicles, #3)",Anne Rice, 3.90," 146,171","13,771",200
+"Inheritance (The Inheritance Cycle, #4)",Christopher Paolini, 4.12," 251,237","13,763",177
+"Poison Study (Study, #1)",Maria V. Snyder, 4.10," 159,612","13,741",166
+"1Q84 (1Q84, #1-3)",Haruki Murakami, 3.94," 241,756","13,690",163
+"Where She Went (If I Stay, #2)",Gayle Forman, 3.99," 285,204","13,557",172
+Foucault's Pendulum,Umberto Eco, 3.91," 66,700","13,541",178
+Mythology,Edith Hamilton, 4.03," 52,327","13,533",205
+"Prince Caspian (Chronicles of Narnia, #2)",C.S. Lewis, 3.98," 407,163","13,529",231
+"Inferno (Robert Langdon, #4)",Dan Brown, 3.88," 526,436","13,510",170
+The Memory Keeper's Daughter,Kim Edwards, 3.69," 589,544","13,485",190
+"Left Behind (Left Behind, #1)",Tim LaHaye, 3.85," 223,176","13,444",181
+The Girl on the Train,Paula Hawkins, 3.95," 2,682,992","13,386",168
+"Oedipus Rex  (The Theban Plays, #1)",Sophocles, 3.72," 201,281","13,341",199
+The Left Hand of Darkness,Ursula K. Le Guin, 4.09," 157,653","13,315",178
+Seabiscuit: An American Legend,Laura Hillenbrand, 4.22," 158,603","13,310",195
+"The Bourne Identity (Jason Bourne, #1)",Robert Ludlum, 4.04," 423,987","13,269",196
+Sapiens: A Brief History of Humankind,Yuval Noah Harari, 4.38," 871,839","13,263",145
+The History of Love,Nicole Krauss, 3.92," 131,731","13,258",160
+The Night Before Christmas,Clement Clarke Moore, 4.38," 118,614","13,256",215
+Native Son,Richard Wright, 4.02," 95,194","13,171",191
+"Call Me By Your Name (Call Me By Your Name, #1)",André Aciman, 4.12," 418,497","13,141",141
+"Oryx and Crake (MaddAddam, #1)",Margaret Atwood, 4.01," 252,179","13,127",169
+"Darkfever (Fever, #1)",Karen Marie Moning, 4.06," 174,389","13,118",169
+"Shadowfever (Fever, #5)",Karen Marie Moning, 4.39," 105,778","13,089",152
+If on a Winter's Night a Traveler,Italo Calvino, 4.04," 89,017","13,065",160
+"Carry On (Simon Snow, #1)",Rainbow Rowell, 4.19," 288,429","13,046",148
+A People's History of the United States,Howard Zinn, 4.07," 229,791","13,034",178
+"The Killer Angels (The Civil War Trilogy, #2)",Michael Shaara, 4.32," 82,152","13,020",167
+The Magus,John Fowles, 4.05," 55,392","12,916",166
+"Something Wicked This Way Comes (Green Town, #2)",Ray Bradbury, 3.92," 120,873","12,900",178
+Rosencrantz and Guildenstern Are Dead,Tom Stoppard, 4.04," 86,697","12,896",180
+"The Lies of Locke Lamora (Gentleman Bastard, #1)",Scott Lynch, 4.30," 269,796","12,859",147
+"Into the Wild (Warriors, #1)",Erin Hunter, 4.31," 94,084","12,801",146
+The Bluest Eye,Toni Morrison, 4.10," 221,546","12,762",167
+The Wasp Factory,Iain Banks, 3.79," 89,724","12,704",155
+"Gone (Gone, #1)",Michael  Grant, 3.86," 195,216","12,700",152
+"Twenty Thousand Leagues Under the Sea (Captain Nemo, #2)",Jules Verne, 3.89," 237,083","12,668",188
+John Adams,David McCullough, 4.07," 350,283","12,656",174
+"Dandelion Wine (Green Town, #1)",Ray Bradbury, 4.08," 64,812","12,619",159
+We Have Always Lived in the Castle,Shirley Jackson, 3.96," 182,701","12,619",147
+House of Sand and Fog,Andre Dubus III, 3.86," 130,131","12,610",180
+"Champion (Legend, #3)",Marie Lu, 4.33," 203,570","12,599",150
+The Blind Assassin,Margaret Atwood, 3.96," 149,493","12,585",174
+"Lover Unbound (Black Dagger Brotherhood, #5)",J.R. Ward, 4.32," 130,276","12,559",165
+"Pretties (Uglies, #2)",Scott Westerfeld, 3.84," 251,687","12,556",171
+"To All the Boys I've Loved Before (To All the Boys I've Loved Before, #1)",Jenny Han, 4.06," 781,869","12,556",148
+"City of Ashes (The Mortal Instruments, #2)",Cassandra Clare, 4.13," 880,912","12,543",180
+Possession,A.S. Byatt, 3.89," 77,628","12,499",171
+"The Fiery Cross (Outlander, #5)",Diana Gabaldon, 4.25," 198,188","12,487",163
+Watchers,Dean Koontz, 4.18," 159,466","12,469",157
+Mistress Suffragette,Diana   Forbes, 4.29," 4,834","12,464",139
+"Night Watch (Discworld, #29; City Watch, #6)",Terry Pratchett, 4.49," 105,835","12,450",155
+"Alanna: The First Adventure (Song of the Lioness, #1)",Tamora Pierce, 4.26," 125,734","12,419",155
+Papillon,Henri Charrière, 4.22," 65,995","12,364",171
+The Ocean at the End of the Lane,Neil Gaiman, 4.01," 569,855","12,356",146
+Veronika Decides to Die,Paulo Coelho, 3.72," 206,633","12,347",153
+The Long Walk,Richard Bachman, 4.10," 161,961","12,337",148
+"One for the Money (Stephanie Plum, #1)",Janet Evanovich, 4.04," 527,063","12,337",168
+"Assassin's Apprentice (Farseer Trilogy, #1)",Robin Hobb, 4.17," 291,158","12,287",149
+"Unravel Me (Shatter Me, #2)",Tahereh Mafi, 4.18," 361,813","12,265",149
+"A Breath of Snow and Ashes (Outlander, #6)",Diana Gabaldon, 4.43," 166,515","12,236",158
+Battle Royale,Koushun Takami, 4.25," 68,669","12,223",141
+Geek Love,Katherine Dunn, 3.96," 63,567","12,108",149
+House of Leaves,Mark Z. Danielewski, 4.09," 152,787","12,096",136
+From the Mixed-Up Files of Mrs. Basil E. Frankweiler,E.L. Konigsburg, 4.15," 204,057","12,045",167
+"The Dark Tower (The Dark Tower, #7)",Stephen King, 4.27," 162,828","11,969",154
+The Glass Castle,Jeannette Walls, 4.30," 1,099,630","11,934",149
+On Writing: A Memoir of the Craft,Stephen King, 4.33," 266,564","11,933",158
+"Simon vs. the Homo Sapiens Agenda (Simonverse, #1)",Becky Albertalli, 4.19," 401,728","11,921",133
+The Trigger: Hunting the Assassin Who Brought the World to War,Tim Butcher, 3.78," 3,883","11,919",123
+Corelli's Mandolin,Louis de Bernières, 4.00," 83,565","11,905",161
+Grimm's Fairy Tales,Jacob Grimm, 4.13," 26,760","11,901",200
+Jitterbug Perfume,Tom Robbins, 4.23," 73,836","11,832",149
+Prodigal Summer,Barbara Kingsolver, 4.02," 106,473","11,800",163
+Freakonomics: A Rogue Economist Explores the Hidden Side of Everything,Steven D. Levitt, 4.00," 814,333","11,790",154
+A Heartbreaking Work of Staggering Genius,Dave Eggers, 3.69," 177,837","11,757",151
+The Holy Bible: King James Version,Anonymous, 4.43," 264,761","11,752",146
+The Sirens of Titan,Kurt Vonnegut Jr., 4.15," 131,353","11,750",146
+"The Sisterhood of the Traveling Pants (Sisterhood, #1)",Ann Brashares, 3.83," 680,416","11,719",168
+"Tempted (House of Night, #6)",P.C. Cast, 3.95," 161,993","11,696",161
+Cosmos,Carl Sagan, 4.38," 138,084","11,624",155
+Under the Dome,Stephen King, 3.91," 285,059","11,607",161
+Bury My Heart at Wounded Knee: An Indian History of the American West,Dee Brown, 4.23," 85,627","11,557",183
+"I'd Tell You I Love You, But Then I'd Have to Kill You (Gallagher Girls, #1)",Ally Carter, 3.83," 185,422","11,533",144
+Howl and Other Poems,Allen Ginsberg, 4.13," 105,651","11,514",163
+"Prodigy (Legend, #2)",Marie Lu, 4.24," 245,964","11,511",141
+"The Death Cure (The Maze Runner, #3)",James Dashner, 3.78," 412,691","11,506",148
+"The Alienist (Dr. Laszlo Kreizler, #1)",Caleb Carr, 4.06," 166,890","11,471",164
+"Odd Thomas (Odd Thomas, #1)",Dean Koontz, 3.98," 262,749","11,437",158
+The Aeneid,Virgil, 3.86," 121,669","11,418",168
+"Death on the Nile (Hercule Poirot, #16)",Agatha Christie, 4.12," 223,450","11,398",178
+The Book of Mormon: Another Testament of Jesus Christ,Joseph Smith Jr., 4.27," 82,997","11,386",125
+The Elegance of the Hedgehog,Muriel Barbery, 3.79," 173,725","11,336",144
+"The Big Sleep (Philip Marlowe, #1)",Raymond Chandler, 3.96," 146,371","11,271",155
+"Love Story (Love Story, #1)",Erich Segal, 3.64," 58,248","11,222",175
+"The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency, #1)",Alexander McCall Smith, 3.80," 255,716","11,217",173
+The Witch of Blackbird Pond,Elizabeth George Speare, 4.01," 146,632","11,165",162
+Ivanhoe,Walter Scott, 3.76," 91,920","11,135",169
+Anthem,Ayn Rand, 3.62," 147,385","11,102",147
+Angle of Repose,Wallace Stegner, 4.24," 57,297","11,088",142
+"One Fish, Two Fish, Red Fish, Blue Fish",Dr. Seuss, 4.16," 192,978","11,071",184
+"Red Rising (Red Rising Saga, #1)",Pierce Brown, 4.26," 324,100","11,070",127
+The Corrections,Jonathan Franzen, 3.82," 174,457","11,054",150
+Message in a Bottle,Nicholas Sparks, 3.97," 230,334","11,051",160
+"Rubinrot (Edelstein-Trilogie, #1)",Kerstin Gier, 4.12," 141,751","11,030",129
+Walk Two Moons,Sharon Creech, 3.99," 162,993","11,023",142
+It's Kind of a Funny Story,Ned Vizzini, 4.09," 240,208","11,006",127
+"The Hero of Ages (Mistborn, #3)",Brandon Sanderson, 4.52," 355,553","10,983",126
+"Confessions of a Shopaholic (Shopaholic, #1)",Sophie Kinsella, 3.68," 716,681","10,959",144
+"Lover Revealed (Black Dagger Brotherhood, #4)",J.R. Ward, 4.29," 132,422","10,946",146
+"Ender's Shadow (The Shadow Series, #1)",Orson Scott Card, 4.31," 166,130","10,921",138
+The Magic Mountain,Thomas Mann, 4.12," 44,859","10,899",140
+How to Win Friends and Influence People,Dale Carnegie, 4.22," 868,419","10,848",153
+One Day,David Nicholls, 3.81," 312,816","10,819",132
+Digital Fortress,Dan Brown, 3.69," 614,975","10,765",138
+The Shell Seekers,Rosamunde Pilcher, 4.18," 104,945","10,763",164
+The Jungle Books,Rudyard Kipling, 4.01," 86,426","10,742",178
+"A Canticle for Leibowitz (St. Leibowitz, #1)",Walter M. Miller Jr., 3.98," 103,632","10,739",144
+Hard-Boiled Wonderland and the End of the World,Haruki Murakami, 4.13," 125,789","10,724",131
+Song of Solomon,Toni Morrison, 4.12," 103,351","10,718",153
+"Glass Houses (The Morganville Vampires, #1)",Rachel Caine, 3.91," 98,861","10,702",138
+"Princess Academy (Princess Academy, #1)",Shannon Hale, 4.03," 112,987","10,671",146
+The Story of My Life,Helen Keller, 4.08," 143,931","10,667",182
+"The Edge of Never (The Edge of Never, #1)",J.A. Redmerski, 4.22," 146,927","10,639",124
+"Club Dead (Sookie Stackhouse, #3)",Charlaine Harris, 4.01," 230,053","10,628",155
+The Power of Myth,Joseph Campbell, 4.26," 49,119","10,617",149
+"Lover Avenged (Black Dagger Brotherhood, #7)",J.R. Ward, 4.36," 112,359","10,603",142
+They Both Die at the End,Adam Silvera, 3.81," 587,565","10,598",114
+Chasing the Devil: The Search for Africa's Fighting Spirit,Tim Butcher, 4.12," 1,790","10,583",108
+"The Murder of Roger Ackroyd (Hercule Poirot, #3)",Agatha Christie, 4.26," 229,791","10,565",145
+Jude the Obscure,Thomas Hardy, 3.83," 68,778","10,561",155
+The Iliad,Homer, 3.89," 418,684","10,543",141
+"Antigone (The Theban Plays, #3)",Sophocles, 3.66," 136,189","10,529",161
+Sharp Objects,Gillian Flynn, 4.01," 905,233","10,490",124
+"The Color of Magic (Discworld, #1; Rincewind, #1)",Terry Pratchett, 4.00," 362,809","10,489",146
+"The Blood of Olympus (The Heroes of Olympus, #5)",Rick Riordan, 4.43," 282,027","10,447",139
+"Living Dead in Dallas (Sookie Stackhouse, #2)",Charlaine Harris, 3.96," 245,774","10,435",147
+Because of Winn-Dixie,Kate DiCamillo, 4.08," 241,105","10,434",150
+The Omnivore's Dilemma: A Natural History of Four Meals,Michael Pollan, 4.18," 198,636","10,386",137
+Ficciones,Jorge Luis Borges, 4.43," 60,914","10,358",126
+The Portrait of a Lady,Henry James, 3.79," 77,528","10,348",153
+"Worm Holes (Quantum Roots, #2)",Kyle Keyes, 4.33," 2,165","10,345",115
+My Name Is Asher Lev,Chaim Potok, 4.23," 39,583","10,285",140
+"The Passage (The Passage, #1)",Justin Cronin, 4.04," 202,798","10,231",127
+The Moon Is a Harsh Mistress,Robert A. Heinlein, 4.16," 124,426","10,217",130
+The Invention of Hugo Cabret,Brian Selznick, 4.22," 177,570","10,212",134
+Swan Song,Robert McCammon, 4.29," 63,027","10,203",117
+Cryptonomicon,Neal Stephenson, 4.24," 108,039","10,193",122
+An Abundance of Katherines,John Green, 3.53," 509,973","10,173",126
+Naked Lunch,William S. Burroughs, 3.46," 86,572","10,155",127
+Starship Troopers,Robert A. Heinlein, 4.01," 216,289","10,150",133
+Around the World in Eighty Days,Jules Verne, 3.94," 227,551","10,120",163
+Howards End,E.M. Forster, 3.96," 85,567","10,116",155
+Still Alice,Lisa Genova, 4.32," 327,566","10,113",129
+Choke,Chuck Palahniuk, 3.70," 202,580","10,088",131
+A Man Called Ove,Fredrik Backman, 4.37," 858,022","10,060",117
+The Namesake,Jhumpa Lahiri, 4.01," 258,551","10,048",142
+"Small Gods (Discworld, #13)",Terry Pratchett, 4.31," 113,641","10,045",128
+"A Good Girl's Guide to Murder (A Good Girl's Guide to Murder, #1)",Holly  Jackson, 4.36," 517,879","9,952",104
+"Fire (Graceling Realm, #2)",Kristin Cashore, 4.10," 178,254","9,921",135
+Wild Swans: Three Daughters of China,Jung Chang, 4.27," 106,792","9,915",135
+The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey, 4.15," 682,284","9,897",144
+"Mary Poppins (Mary Poppins, #1)",P.L. Travers, 4.02," 127,967","9,887",181
+Survivor,Chuck Palahniuk, 3.93," 114,334","9,833",123
+"An Ember in the Ashes (An Ember in the Ashes, #1)",Sabaa Tahir, 4.26," 263,382","9,821",111
+Exodus,Leon Uris, 4.34," 96,491","9,735",154
+Pale Fire,Vladimir Nabokov, 4.16," 46,985","9,734",125
+The Forgotten Garden,Kate Morton, 4.14," 212,333","9,723",124
+The Sea of Tranquility,Katja Millay, 4.29," 84,486","9,704",112
+"Finale (Hush, Hush, #4)",Becca Fitzpatrick, 4.13," 165,694","9,692",124
+Let the Right One In,John Ajvide Lindqvist, 4.04," 104,075","9,692",121
+Holy Bible: New International Version,Anonymous, 4.60," 77,074","9,659",122
+"Walking Disaster (Beautiful, #2)",Jamie McGuire, 4.17," 186,663","9,593",118
+"Linger (The Wolves of Mercy Falls, #2)",Maggie Stiefvater, 3.88," 165,066","9,582",131
+I Am the Messenger,Markus Zusak, 4.04," 153,339","9,541",112
+Tender Is the Night,F. Scott Fitzgerald, 3.79," 128,261","9,469",139
+"A Darker Shade of Magic (Shades of Magic, #1)",V.E. Schwab, 4.07," 301,771","9,459",105
+Gift from the Sea,Anne Morrow Lindbergh, 4.15," 47,669","9,428",133
+"The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy, #2)",Douglas Adams, 4.21," 268,169","9,408",137
+Ethan Frome,Edith Wharton, 3.43," 120,122","9,403",138
+"The Awakening (Darkest Powers, #2)",Kelley Armstrong, 4.14," 113,269","9,390",126
+"Forrest Gump (Forrest Gump, #1)",Winston Groom, 4.03," 65,596","9,343",152
+Illusions: The Adventures of a Reluctant Messiah,Richard Bach, 4.15," 61,988","9,289",119
+Mystic River,Dennis Lehane, 4.16," 138,663","9,289",135
+"Mort (Discworld, #4; Death, #1)",Terry Pratchett, 4.24," 227,886","9,283",126
+Cold Sassy Tree,Olive Ann Burns, 4.02," 101,527","9,272",133
+Shutter Island,Dennis Lehane, 4.10," 183,292","9,267",125
+"Daughter of the Forest  (Sevenwaters, #1)",Juliet Marillier, 4.28," 61,537","9,245",111
+Revolutionary Road,Richard Yates, 3.92," 84,762","9,228",121
+"The Reckoning (Darkest Powers, #3)",Kelley Armstrong, 4.18," 114,857","9,225",123
+"The Hunt for Red October (Jack Ryan, #3)",Tom Clancy, 4.10," 363,627","9,221",138
+Nausea,Jean-Paul Sartre, 3.93," 106,430","9,190",120
+"Absalom, Absalom!",William Faulkner, 3.97," 42,456","9,179",120
+"Kane &amp; Abel (Kane &amp; Abel, #1)",Jeffrey Archer, 4.32," 115,566","9,173",108
+The Bridges of Madison County,Robert James Waller, 3.67," 90,817","9,154",146
+"The Sparrow (The Sparrow, #1)",Mary Doria Russell, 4.13," 70,994","9,154",112
+The Hotel New Hampshire,John Irving, 3.92," 63,282","9,126",130
+"Dreamfever (Fever, #4)",Karen Marie Moning, 4.38," 98,843","9,111",115
+The Fall,Albert Camus, 4.04," 91,188","9,058",118
+Meditations,Marcus Aurelius, 4.26," 193,811","9,045",115
+"Specials (Uglies, #3)",Scott Westerfeld, 3.76," 183,201","8,989",128
+The Silent Patient,Alex Michaelides, 4.18," 1,398,837","8,989",103
+"Gabriel's Inferno (Gabriel's Inferno, #1)",Sylvain Reynard, 3.99," 154,937","8,978",105
+Orlando,Virginia Woolf, 3.87," 79,399","8,965",127
+The Sorrows of Young Werther,Johann Wolfgang von Goethe, 3.69," 114,601","8,930",112
+A Million Little Pieces,James Frey, 3.67," 243,604","8,924",117
+"84, Charing Cross Road",Helene Hanff, 4.16," 72,606","8,886",131
+Shakespeare's Sonnets,William Shakespeare, 4.25," 99,109","8,886",142
+"The Assassin's Blade (Throne of Glass, #0.1-0.5)",Sarah J. Maas, 4.32," 283,658","8,883",109
+"The Millennium Trilogy (Millennium Trilogy, #1-3)",Stieg Larsson, 4.46," 53,668","8,877",119
+"Reflected in You (Crossfire, #2)",Sylvia Day, 4.31," 338,760","8,842",109
+The Gargoyle,Andrew Davidson, 3.96," 47,805","8,842",108
+"Guilty Pleasures (Anita Blake, Vampire Hunter, #1)",Laurell K. Hamilton, 4.02," 143,080","8,842",120
+Educated,Tara Westover, 4.47," 1,292,894","8,811",99
+Where the Heart Is,Billie Letts, 4.03," 244,909","8,788",137
+"The Well of Ascension (Mistborn, #2)",Brandon Sanderson, 4.38," 387,439","8,778",103
+Christy,Catherine Marshall, 4.24," 52,850","8,774",132
+"One Foot in the Grave (Night Huntress, #2)",Jeaniene Frost, 4.29," 101,937","8,759",112
+"Dead as a Doornail (Sookie Stackhouse, #5)",Charlaine Harris, 4.00," 212,287","8,742",129
+"Fablehaven (Fablehaven, #1)",Brandon Mull, 4.12," 155,321","8,726",113
+A Walk in the Woods: Rediscovering America on the Appalachian Trail,Bill Bryson, 4.06," 387,904","8,704",121
+The Bonfire of the Vanities,Tom Wolfe, 3.88," 77,489","8,702",134
+Dark Places,Gillian Flynn, 3.95," 690,344","8,701",106
+"Lover Mine (Black Dagger Brotherhood, #8)",J.R. Ward, 4.39," 109,990","8,687",120
+A Connecticut Yankee in King Arthur's Court,Mark Twain, 3.77," 100,541","8,681",135
+"The City of Ember (Book of Ember, #1)",Jeanne DuPrau, 3.89," 269,849","8,677",120
+"Burned (House of Night, #7)",P.C. Cast, 3.96," 153,504","8,663",126
+Still Life with Woodpecker,Tom Robbins, 4.03," 77,867","8,662",116
+We,Yevgeny Zamyatin, 3.90," 88,150","8,652",109
+"Definitely Dead (Sookie Stackhouse, #6)",Charlaine Harris, 4.01," 198,949","8,647",129
+"The Golden Lily (Bloodlines, #2)",Richelle Mead, 4.31," 115,525","8,644",116
+The Story of Edgar Sawtelle,David Wroblewski, 3.63," 96,487","8,630",116
+The Agony and the Ecstasy,Irving Stone, 4.08," 87,497","8,628",124
+The Pact,Jodi Picoult, 4.02," 295,299","8,626",115
+"Crank (Crank, #1)",Ellen Hopkins, 4.16," 137,657","8,623",109
+Archer's Voice,Mia Sheridan, 4.31," 239,055","8,612",99
+"Kingdom of Ash (Throne of Glass, #7)",Sarah J. Maas, 4.63," 291,564","8,601",98
+A Moveable Feast,Ernest Hemingway, 4.03," 139,647","8,586",122
+Verity,Colleen Hoover, 4.38," 1,640,516","8,584",92
+"Opal (Lux, #3)",Jennifer L. Armentrout, 4.26," 145,187","8,531",110
+Beach Music,Pat Conroy, 4.17," 47,936","8,463",118
+The Lucky One,Nicholas Sparks, 4.12," 351,234","8,427",115
+"The Wicked King (The Folk of the Air, #2)",Holly Black, 4.33," 512,456","8,424",98
+Deception Point,Dan Brown, 3.74," 646,500","8,417",109
+Journey to the End of the Night,Louis-Ferdinand Céline, 4.20," 38,389","8,386",99
+The Love Hypothesis,Ali Hazelwood, 4.23," 932,083","8,383",89
+"Pandemonium (Delirium, #2)",Lauren Oliver, 4.04," 233,277","8,352",101
+How Green Was My Valley,Richard Llewellyn, 4.20," 16,571","8,349",123
+The Poetry of Robert Frost,Robert Frost, 4.24," 46,803","8,318",145
+Sometimes a Great Notion,Ken Kesey, 4.25," 21,520","8,312",105
+"A Study in Scarlet (Sherlock Holmes, #1)",Arthur Conan Doyle, 4.14," 407,507","8,305",126
+The Fountainhead,Ayn Rand, 3.88," 314,302","8,302",103
+The 5 Love Languages: The Secret to Love that Lasts,Gary Chapman, 4.27," 387,602","8,299",115
+Valley of the Dolls,Jacqueline Susann, 3.80," 60,688","8,288",125
+"Night World, No. 1 (Night World, #1-3)",L.J. Smith, 4.06," 63,619","8,273",107
+The Runaway Jury,John Grisham, 4.01," 294,568","8,263",126
+The Brief Wondrous Life of Oscar Wao,Junot Díaz, 3.89," 253,363","8,252",110
+"Easy (Contours of the Heart, #1)",Tammara Webber, 4.08," 225,557","8,247",102
+Daisy Jones &amp; The Six,Taylor Jenkins Reid, 4.24," 885,786","8,227",90
+"Winter (The Lunar Chronicles, #4)",Marissa Meyer, 4.43," 252,581","8,225",99
+The House of Mirth,Edith Wharton, 3.96," 92,407","8,192",118
+"Will Grayson, Will Grayson",John Green, 3.72," 383,461","8,191",98
+The Turn of the Screw,Henry James, 3.40," 139,871","8,183",122
+"One of Us Is Lying (One of Us is Lying, #1)",Karen M. McManus, 3.97," 670,525","8,171",90
+"Thoughtless (Thoughtless, #1)",S.C. Stephens, 4.09," 138,574","8,160",92
+"Onyx (Lux, #2)",Jennifer L. Armentrout, 4.25," 173,695","8,152",106
+Childhood's End,Arthur C. Clarke, 4.12," 149,204","8,146",110
+"The Amulet of Samarkand (Bartimaeus, #1)",Jonathan Stroud, 4.02," 123,741","8,145",99
+"The Wedding (The Notebook, #2)",Nicholas Sparks, 3.99," 152,876","8,129",108
+Beauty: A Retelling of the Story of Beauty and the Beast,Robin McKinley, 4.05," 78,102","8,109",103
+On the Beach,Nevil Shute, 3.96," 41,098","8,096",122
+Safe Haven,Nicholas Sparks, 4.21," 367,968","8,082",106
+"Heartstopper: Volume One (Heartstopper, #1)",Alice Oseman, 4.51," 521,430","8,056",88
+Between Shades of Gray,Ruta Sepetys, 4.37," 217,477","8,052",99
+"From Dead to Worse (Sookie Stackhouse, #8)",Charlaine Harris, 4.01," 183,846","8,040",117
+The Bhagavad Gita,Krishna-Dwaipayana Vyasa, 4.16," 66,649","8,032",119
+"All Together Dead (Sookie Stackhouse, #7)",Charlaine Harris, 4.05," 196,298","8,011",118
+"Faefever (Fever, #3)",Karen Marie Moning, 4.29," 100,164","7,989",103
+"Passion (Fallen, #3)",Lauren Kate, 3.86," 162,847","7,988",112
+"Bitten (Otherworld, #1)",Kelley Armstrong, 4.02," 99,613","7,973",100
+"Roll of Thunder, Hear My Cry (Logans, #4)",Mildred D. Taylor, 3.88," 120,830","7,950",113
+"Wizard and Glass (The Dark Tower, #4)",Stephen King, 4.25," 186,019","7,926",106
+The Dead Zone,Stephen King, 3.95," 209,513","7,907",117
+Light in August,William Faulkner, 3.94," 59,331","7,895",112
+"Dead and Gone (Sookie Stackhouse, #9)",Charlaine Harris, 4.01," 183,937","7,889",120
+"The Ruins of Gorlan (Ranger's Apprentice, #1)",John Flanagan, 4.24," 147,129","7,872",96
+Thus Spoke Zarathustra,Friedrich Nietzsche, 4.07," 136,507","7,853",96
+A Room of One's Own,Virginia Woolf, 4.20," 174,224","7,824",114
+White Noise,Don DeLillo, 3.87," 103,457","7,821",105
+The Dispossessed: An Ambiguous Utopia,Ursula K. Le Guin, 4.24," 110,410","7,819",100
+"The Mysterious Benedict Society (The Mysterious Benedict Society, #1)",Trenton Lee Stewart, 4.19," 150,491","7,813",95
+The Immortal Life of Henrietta Lacks,Rebecca Skloot, 4.10," 686,103","7,785",105
+"Fantasy Lover (Hunter Legends, #1)",Sherrilyn Kenyon, 4.15," 90,798","7,767",102
+This Lullaby,Sarah Dessen, 4.02," 176,763","7,762",100
+"The Awakening / The Struggle (The Vampire Diaries, #1-2)",L.J. Smith, 3.68," 88,130","7,756",105
+Stoner,John  Williams, 4.32," 139,687","7,754",87
+Silas Marner,George Eliot, 3.67," 82,443","7,749",125
+"Every Day (Every Day, #1)",David Levithan, 3.91," 224,208","7,729",90
+Disgrace,J.M. Coetzee, 3.85," 99,434","7,725",110
+The Taming of the Shrew,William Shakespeare, 3.77," 165,025","7,723",135
+The Rime of the Ancient Mariner,Samuel Taylor Coleridge, 3.95," 56,691","7,711",125
+"The Monarch's Ring (The Lost Artefacts, #2)",Johnathon Nicolaou, 4.48, 115,"7,692",79
+"Redwall (Redwall, #1)",Brian Jacques, 4.13," 113,623","7,681",109
+"Wings (Wings, #1)",Aprilynne Pike, 3.76," 79,272","7,675",97
+Animal Farm / 1984,George Orwell, 4.30," 187,485","7,659",119
+The Story of Ferdinand,Munro Leaf, 4.36," 90,200","7,643",113
+"The Drawing of the Three (The Dark Tower, #2)",Stephen King, 4.23," 244,189","7,633",105
+"Tiger's Curse (The Tiger Saga, #1)",Colleen Houck, 4.05," 61,814","7,631",90
+Collected Fictions,Jorge Luis Borges, 4.57," 22,806","7,630",107
+"These Is My Words: The Diary of Sarah Agnes Prine, 1881-1901, Arizona Territories (Sarah Agnes Prine, #1)",Nancy E. Turner, 4.35," 70,885","7,625",91
+The Horse Whisperer,Nicholas Evans, 3.84," 56,181","7,619",119
+"The Queen of Nothing (The Folk of the Air, #3)",Holly Black, 4.37," 457,506","7,607",87
+گم شده ای در مه,سید مرتضی مصطفوی, 3.78, 683,"7,587",77
+"All the Pretty Horses (The Border Trilogy, #1)",Cormac McCarthy, 4.02," 109,442","7,578",110
+"Lady Midnight (The Dark Artifices, #1)",Cassandra Clare, 4.37," 212,791","7,578",93
+Helter Skelter: The True Story of the Manson Murders,Vincent Bugliosi, 4.05," 139,629","7,573",114
+"The Inheritance Games (The Inheritance Games, #1)",Jennifer Lynn Barnes, 4.23," 374,150","7,569",81
+The Far Pavilions,M.M. Kaye, 4.20," 43,096","7,565",105
+The Guardian,Nicholas Sparks, 4.16," 175,065","7,523",105
+"Hatchet (Brian's Saga, #1)",Gary Paulsen, 3.76," 363,731","7,499",109
+The Tempest,William Shakespeare, 3.79," 197,078","7,433",117
+"Finding Hope in the Darkness of Grief: Spiritual Insights Expressed Through Art, Poetry and Prose",Diamante Lavendar, 4.29," 1,543","7,414",83
+Along for the Ride,Sarah Dessen, 4.04," 201,978","7,410",94
+The Maltese Falcon,Dashiell Hammett, 3.89," 100,689","7,370",119
+Songs of Innocence and of Experience,William Blake, 4.10," 45,963","7,367",115
+"House of Earth and Blood (Crescent City, #1)",Sarah J. Maas, 4.48," 360,217","7,345",83
+"Keeper of the Lost Cities (Keeper of the Lost Cities, #1)",Shannon Messenger, 4.43," 61,507","7,336",80
+"The Last of the Mohicans (The Leatherstocking Tales, #2)",James Fenimore Cooper, 3.70," 95,025","7,328",119
+Running with Scissors,Augusten Burroughs, 3.75," 379,460","7,327",101
+"Unearthly (Unearthly, #1)",Cynthia Hand, 4.02," 125,918","7,312",95
+Requiem for a Dream,Hubert Selby Jr., 4.10," 57,969","7,309",86
+A Doll's House,Henrik Ibsen, 3.75," 131,112","7,287",126
+"Breaking Dawn (The Twilight Saga, #4)",Stephenie Meyer, 3.73," 1,583,029","7,283",97
+The Razor's Edge,W. Somerset Maugham, 4.19," 44,452","7,257",107
+"Hogfather (Discworld, #20; Death, #4)",Terry Pratchett, 4.24," 88,375","7,255",99
+"Red Dragon (Hannibal Lecter, #1)",Thomas  Harris, 4.05," 313,143","7,241",104
+The Pilgrim's Progress,John Bunyan, 4.03," 127,815","7,236",108
+The Complete Persepolis,Marjane Satrapi, 4.39," 164,292","7,229",102
+Smilla's Sense of Snow,Tiina Nunnally, 3.74," 47,080","7,226",108
+"Blue Bloods (Blue Bloods, #1)",Melissa de la Cruz, 3.69," 138,802","7,224",103
+Shot Down: The True Story of Pilot Howard Snyder and the Crew of the B-17 Susan Ruth,Steve Snyder, 4.21," 8,764","7,193",79
+Suzanne's Diary for Nicholas,James Patterson, 4.17," 146,949","7,186",98
+The Man in the High Castle,Philip K. Dick, 3.61," 198,028","7,176",97
+"Dirk Gently's Holistic Detective Agency (Dirk Gently, #1)",Douglas Adams, 3.97," 134,952","7,174",96
+A Passage to India,E.M. Forster, 3.68," 76,261","7,170",126
+The Client,John Grisham, 4.04," 430,856","7,134",118
+The Collector,John Fowles, 3.98," 71,513","7,123",108
+Eleven Minutes,Paulo Coelho, 3.71," 168,348","7,103",86
+A Bend in the Road,Nicholas Sparks, 4.04," 149,656","7,091",96
+Eugene Onegin,Alexander Pushkin, 4.10," 59,911","7,088",99
+"Everything, Everything",Nicola Yoon, 4.00," 562,530","7,081",80
+"At Grave's End (Night Huntress, #3)",Jeaniene Frost, 4.29," 87,610","7,074",95
+Walks Away Woman,Ki Longfellow, 4.37," 1,140","7,074",74
