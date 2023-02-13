@@ -1,14 +1,15 @@
 # Analiza podatkov o knjigah
 
-Analizirala bom podatke o 1000 knjigah iz seznama najboljših knjig po mnenju bralcev s strani [Goodreads](https://www.goodreads.com/)
+Projektna naloga obsega analizo podatkov o knjigah s seznama najboljših knjig po mnenju bralcev, dostopnega na [Best Books Ever](https://www.goodreads.com/list/show/1.Best_Books_Ever), s pomočjo seznama najboljših knjig 21. stoletja po mnenju bralcev, dostopnega na [Best Books of the 21st Century](https://www.goodreads.com/list/show/7.Best_Books_of_the_21st_Century).
 
-Zajela bom naslednje podatke:
+
+Zajeti podatki z obeh seznamov:
 - Naslov knjige
 - Avtor knjige
 - Ocena bralcev in število ocen
-- Rezultat glasov za uvrstitev na seznam
+- Vrednost (score) in število glasov
 
 Hipoteze:
 - Ocene knjig se ne skladajo z uvrstitvijo na seznamu
 - Na seznam je uvrščenih več knjig istega avtorja oziroma več knjig iz ene serije
-- Razmerje med oceno knjige in številom ocen
+- Na seznamu prevladujejo knjige iz 21. stoletja
