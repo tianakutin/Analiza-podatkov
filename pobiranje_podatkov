@@ -4,12 +4,14 @@ import os
 import re
 import requests
 
-
-knj_url = 'https://www.goodreads.com/list/show/7.Best_Books_of_the_21st_Century?page='
+knj_url = 'https://www.goodreads.com/list/show/1.Best_Books_Ever?page='
+knj_21_url = 'https://www.goodreads.com/list/show/7.Best_Books_of_the_21st_Century?page='
 
 knj_directory = 'podatki_knjig'
-knj_filename = 'knjige21.html'
-csv_filename = 'knjige21_csv'
+knj_filename = 'knjige.html'
+knj_csv_filename = 'knjige_csv'
+knj_21_filename = 'knjige21.html'
+knj_21_csv_filename = 'knjige21_csv'
 
 
 def download_url_to_string(url):
@@ -25,21 +27,21 @@ def download_url_to_string(url):
         return None
 
 
-def save_string_to_file(text):
+def save_string_to_file(text, filename):
     os.makedirs(knj_directory, exist_ok=True)
-    path = os.path.join(knj_directory, knj_filename)
+    path = os.path.join(knj_directory, filename)
     with open(path, 'w', encoding='utf-8') as file_out:
         file_out.write(text)
     return None
 
-def save_page(url):
+def save_page(url, filename):
     txt = download_url_to_string(url)
-    save_string_to_file(txt)
+    save_string_to_file(txt, filename)
     return None
 
 
-def read_file_to_string():
-    path = os.path.join(knj_directory, knj_filename)
+def read_file_to_string(directory, filename):
+    path = os.path.join(directory, filename)
     with open(path, 'r', encoding='utf-8') as file_in:
         return file_in.read()
 
@@ -71,17 +73,7 @@ def slovar(block):
 
     return knj_dict
 
-
-def knjige_iz_datoteke():
-    page = read_file_to_string(knj_filename, knj_directory)
-    blocks = stran_v_knjige(page)
-    knjige = [slovar(block) for block in blocks]
-    return knjige
-
-def knjige_frontpage():
-    return knjige_iz_datoteke()
-
-def write_csv(fieldnames, rows):
+def write_csv(csv_filename, fieldnames, rows):
     os.makedirs(knj_directory, exist_ok=True)
     path = os.path.join(knj_directory, csv_filename)
     with open(path, 'w', encoding='utf-8') as csv_file:
@@ -91,21 +83,32 @@ def write_csv(fieldnames, rows):
             writer.writerow(row)
     return None
 
-def to_csv(knjige):
+def to_csv(knjige, csv_filename):
     assert knjige and (all(j.keys() == knjige[0].keys() for j in knjige))
-    write_csv(knjige[0].keys(), knjige)
+    write_csv(csv_filename, knjige[0].keys(), knjige)
 
 def main(redownload=True, reparse=True):
     knjige_nice = []
 
     for i in range(1, 11):
-        url = knj_url + str(i)
-        save_page(url)
+        url1 = knj_url + str(i)
+        save_page(url1, knj_filename)
 
-        knjige = stran_v_knjige(read_file_to_string())
+        knjige = stran_v_knjige(read_file_to_string(knj_directory, knj_filename))
 
         knjige_nice.extend([slovar(knjiga) for knjiga in knjige])
 
-    to_csv(knjige_nice)
+    to_csv(knjige_nice, knj_csv_filename)
+
+    knjige_nice_21 = []
+    for i in range(1, 11):
+        url2 = knj_21_url + str(i)
+        save_page(url2, knj_21_filename)
+
+        knjige = stran_v_knjige(read_file_to_string(knj_directory, knj_21_filename))
+
+        knjige_nice_21.extend([slovar(knjiga) for knjiga in knjige])
+
+    to_csv(knjige_nice_21, knj_21_csv_filename)
     
 main()
