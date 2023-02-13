@@ -6,8 +6,10 @@ Projektna naloga obsega analizo podatkov o knjigah s seznama najboljših knjig p
 Zajeti podatki z obeh seznamov:
 - Naslov knjige
 - Avtor knjige
-- Ocena bralcev in število ocen
-- Vrednost (score) in število glasov
+- Ocena bralcev 
+- Število ocen
+- Vrednost (score)
+- Število glasov
 
 Hipoteze:
 - Ocene knjig se ne skladajo z uvrstitvijo na seznamu
